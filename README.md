@@ -14,10 +14,10 @@ Can´t manage to center the text in "Tips". :-(
 **Link:** [Product Landing Page](https://codepen.io/mmajam/pen/PBBoeg?editors=1100)
 
 ### Day 02 - 12.8.2018
-**Today´s Progress:** Continue working on my Product Landing Page project from FCC - responsivity (video, map), media queries
+**Today´s Progress:** Continue working on my Product Landing Page project from FCC - responsivity (video, map), media queries. Finially finished it! ;-) 
 
 **Thoughts:** Iframe elements are not responsive, so we need to wrap them with an other element (div). (Web Design Blueprints - p.29)
 
-Still can´t manage to center the text in "Tips". 
-
 **Link:** [Product Landing Page](https://codepen.io/mmajam/pen/PBBoeg?editors=1100)
+
+### Day 03 - 13.8.2018
