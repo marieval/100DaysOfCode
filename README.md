@@ -21,3 +21,13 @@ Can´t manage to center the text in "Tips". :-(
 **Link:** [Product Landing Page](https://codepen.io/mmajam/pen/PBBoeg?editors=1100)
 
 ### Day 03 - 13.8.2018
+**Today´s Progress:** Began the project Technical Documentation (basic html, basic structure)
+
+### Day 04 - 14.8.2018
+**Today´s Progress:** Went through materials to Gulp, NPM, SCSS. Done small responsive website using these. 
+
+**Thoughts:** All those things are great!!!
+
+### Day 05 - 15.8.2018
+
+**Today´s Progress:** 
