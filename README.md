@@ -30,4 +30,16 @@ Can´t manage to center the text in "Tips". :-(
 
 ### Day 05 - 15.8.2018
 
-**Today´s Progress:** 
+**Today´s Progress:** Continue with the project Technical Documentation Page (content, basic css)
+
+**Link:** [https://codepen.io/mmajam/full/VBRyma/](https://codepen.io/mmajam/full/VBRyma/)
+
+### Day 06 - 16.8.2018 
+
+**Today´s Progress:** Finished the project Technical Documentation Page (layout, media queries)
+
+**Link:** [https://codepen.io/mmajam/full/VBRyma/](https://codepen.io/mmajam/full/VBRyma/)
+
+### Day 07 - 17.8.2018
+
+
