@@ -23,6 +23,8 @@ Can´t manage to center the text in "Tips". :-(
 ### Day 03 - 13.8.2018
 **Today´s Progress:** Began the project Technical Documentation (basic html, basic structure)
 
+**Link:** [https://codepen.io/mmajam/full/VBRyma/](https://codepen.io/mmajam/full/VBRyma/)
+
 ### Day 04 - 14.8.2018
 **Today´s Progress:** Went through materials to Gulp, NPM, SCSS. Done small responsive website using these. 
 
