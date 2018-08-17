@@ -44,7 +44,7 @@ Can´t manage to center the text in "Tips". :-(
 
 ### Day 07 - 17.8.2018
 
-**Today´s Progress:** Read the documentation of Bootstrap, which I want to use for my Personal Portfolio Page.
+**Today´s Progress:** Read the documentation of Bootstrap [link](https://getbootstrap.com/docs/4.1/getting-started/introduction/), which I want to use for my Personal Portfolio Page.
 
-**Thoughts:** Flexbox-bugs: <button> and <fieldset> don´t work as flex-containers! (Solution: use <div> or other flex-supporting-element as immediate child of the <button> or <fieldset> (more info: [Flexbugs](https://github.com/philipwalton/flexbugs#flexbug-9)
+**Thoughts:** Flexbox-bugs: <button> and <fieldset> don´t work as flex-containers! (Solution: use <div> or other flex-supporting-element as immediate child of the <button> or <fieldset> (info: [Flexbugs](https://github.com/philipwalton/flexbugs#flexbug-9)).
 
