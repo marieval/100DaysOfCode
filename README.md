@@ -54,5 +54,5 @@ Can´t manage to center the text in "Tips". :-(
 
 ### Day 09 - 19.8.2018
 
-**Today´s Progress:** Continue with the Basic JavaScript Challenges from FCC.
+**Today´s Progress:** Finished Basic JavaScript Challenges from FCC.
 
