@@ -23,7 +23,7 @@ Can´t manage to center the text in "Tips". :-(
 ### Day 03 - 13.8.2018
 **Today´s Progress:** Began the project Technical Documentation (basic html, basic structure)
 
-**Link:** [https://codepen.io/mmajam/full/VBRyma/](https://codepen.io/mmajam/full/VBRyma/)
+**Link:** [Technical Documentation Page](https://codepen.io/mmajam/full/VBRyma/)
 
 ### Day 04 - 14.8.2018
 **Today´s Progress:** Went through materials to Gulp, NPM, SCSS. Done small responsive website using these. 
@@ -34,13 +34,13 @@ Can´t manage to center the text in "Tips". :-(
 
 **Today´s Progress:** Continue with the project Technical Documentation Page (content, basic css)
 
-**Link:** [https://codepen.io/mmajam/full/VBRyma/](https://codepen.io/mmajam/full/VBRyma/)
+**Link:** [Technical Documentation Page](https://codepen.io/mmajam/full/VBRyma/)
 
 ### Day 06 - 16.8.2018 
 
 **Today´s Progress:** Finished the project Technical Documentation Page (layout, media queries)
 
-**Link:** [https://codepen.io/mmajam/full/VBRyma/](https://codepen.io/mmajam/full/VBRyma/)
+**Link:** [Technical Documentation Page](https://codepen.io/mmajam/full/VBRyma/)
 
 ### Day 07 - 17.8.2018
 
