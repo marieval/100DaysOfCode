@@ -48,3 +48,11 @@ Can´t manage to center the text in "Tips". :-(
 
 **Thoughts:** Flexbox-bugs: <button> and <fieldset> don´t work as flex-containers! (Solution: use <div> or other flex-supporting-element as immediate child of the <button> or <fieldset> (info: [Flexbugs](https://github.com/philipwalton/flexbugs#flexbug-9)).
 
+### Day 08 - 18.8.2018
+
+**Today´s Progress:** Continue reading the documentation of Bootstrap [(link)](https://getbootstrap.com/docs/4.1/getting-started/introduction/). Done part of the Basic JavaScript Challenges from FCC. 
+
+### Day 09 - 19.8.2018
+
+**Today´s Progress:** Continue with the Basic JavaScript Challenges from FCC.
+
