@@ -61,8 +61,32 @@ Can´t manage to center the text in "Tips". :-(
 **Today´s Progress:** Did ES6-JS Challenges from FCC
 
 **Thoughts:** 
+
 *Destructuring assignment to assign variables from objects* challenge - didn´t understand at first, but helped me especially explanation from randelldawson [here](https://forum.freecodecamp.org/t/es6-use-destructuring-assignment-to-assign-variables-from-objects-question/206730/6):  ```const { length : len } = str; ```  can be understood as ```const {objectPropertyName : newDelcaredVariableName } = object; ```
+
 *IIFE (Immediately Invoked Function Expression)* - nice explanation [here](https://stackoverflow.com/questions/8228281/what-is-the-function-construct-in-javascript)
+
+*Destructuring assignment to pass an object as a function´s parameters* - the explanation of alhazen1 [here](https://forum.freecodecamp.org/t/use-destructuring-assignment-to-pass-an-object-as-a-functions-parameters/194816/14) was nice: ```const person = {name:"Bob", age:23, occupation:"Defender of the Universe"};
+
+// destructing assignment in function arguments
+function whoIsThisDude({name,occupation:job}){
+  console.log(`Hi! I'm ${name}. I'm a ${job}`);
+}
+whoIsThisDude(person);
+
+// destructuring assignment inside function
+function whoIsThisDude2(someDude){
+  const {name, occupation:job} = someDude;
+  console.log(`Hi! I'm ${name}. I'm a ${job}`);
+}
+whoIsThisDude2(person);```
+
+and also explanation of vytautas-pilk was great: ```function half({min, max}) return (min + max) / 2.0;``` is the same as writing ```const {min, max} = stats;
+console.log((min + max) / 2.0);```
+
+
+
+
 
 
 
