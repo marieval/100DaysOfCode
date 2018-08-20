@@ -56,3 +56,9 @@ Can´t manage to center the text in "Tips". :-(
 
 **Today´s Progress:** Finished Basic JavaScript Challenges from FCC.
 
+### Day 10 - 20.8.2018
+
+**Today´s Progress:** Did ES6-JS Challenges from FCC
+
+**Thoughts: Destructuring assignment to assign variables from objects challenge - didn´t understand at first, but helped me especially explanation from randelldawson [here](https://forum.freecodecamp.org/t/es6-use-destructuring-assignment-to-assign-variables-from-objects-question/206730/6):  ```const { length : len } = str; ```  can be understood as ```const {objectPropertyName : newDelcaredVariableName } = object; ```
+
