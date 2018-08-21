@@ -86,7 +86,7 @@ console.log((min + max) / 2.0);```
 
 ### Day 11 - 21.8.2018
 
-**Today´s Progress:** Did more ES6 Challenges from FCC
+**Today´s Progress:** Finished the section of ES6 Challenges from FCC
 
 **Thoughts:** 
 *Use getters and setters to access to an object* challenge - for understanding helped explanation of JM-Mendez [here](https://forum.freecodecamp.org/t/es6-use-getters-and-setters-to-control-access-to-an-object/195489/11): 
