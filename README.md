@@ -94,21 +94,22 @@ console.log((min + max) / 2.0);```
   constructor() {
       this.value = 'my initial value'
   }
-
+  
   get value() {
       return this.value
   }
-
+  
   set value(val) {
       this.value = val
    }
-} ```
-
+}
+```
 Then later you can use it like a regular object:
 
 ```console.log(SomeClass.value) // 'my initial value'
 SomeClass.value = 'new value'
-console.log(SomeClass.value)  // 'new value' ```
+console.log(SomeClass.value)  // 'new value' 
+```
 
 If it was regular object, it would look like this:
 ```const SomeClass = {
@@ -117,7 +118,9 @@ If it was regular object, it would look like this:
 
 console.log(SomeClass.value) // 'my initial value'
 SomeClass.value = 'new value'
-console.log(SomeClass.value)  // 'new value'```
+console.log(SomeClass.value)  // 'new value'
+```
+
 
 
 
