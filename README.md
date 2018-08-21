@@ -4,7 +4,7 @@ The log of my #100DaysOfCode challenge.
 
 ## Log
 
-### Day 01 - 11.8.2018
+### Day 01 - 11.8.2018 (Sat)
 **Today´s Progress:** Continue working on my Product Landing Page project from FCC - it´s css (nav-bar, background, text-colors, paddings, margins,...)
 
 **Thoughts:** For not repeating background used "fixed". 
@@ -13,51 +13,45 @@ Can´t manage to center the text in "Tips". :-(
 
 **Link:** [Product Landing Page](https://codepen.io/mmajam/pen/PBBoeg?editors=1100)
 
-### Day 02 - 12.8.2018
+### Day 02 - 12.8.2018 (Sun)
 **Today´s Progress:** Continue working on my Product Landing Page project from FCC - responsivity (video, map), media queries. Finially finished it! ;-) 
 
 **Thoughts:** Iframe elements are not responsive, so we need to wrap them with an other element (div). (Web Design Blueprints - p.29)
 
 **Link:** [Product Landing Page](https://codepen.io/mmajam/pen/PBBoeg?editors=1100)
 
-### Day 03 - 13.8.2018
+### Day 03 - 13.8.2018 (Mon)
 **Today´s Progress:** Began the project Technical Documentation (basic html, basic structure)
 
 **Link:** [Technical Documentation Page](https://codepen.io/mmajam/full/VBRyma/)
 
-### Day 04 - 14.8.2018
+### Day 04 - 14.8.2018 (Tue)
 **Today´s Progress:** Went through materials to Gulp, NPM, SCSS. Done small responsive website using these. 
 
 **Thoughts:** All those things are great!!!
 
-### Day 05 - 15.8.2018
-
+### Day 05 - 15.8.2018 (Wed)
 **Today´s Progress:** Continue with the project Technical Documentation Page (content, basic css)
 
 **Link:** [Technical Documentation Page](https://codepen.io/mmajam/full/VBRyma/)
 
-### Day 06 - 16.8.2018 
-
+### Day 06 - 16.8.2018 (Thu)
 **Today´s Progress:** Finished the project Technical Documentation Page (layout, media queries)
 
 **Link:** [Technical Documentation Page](https://codepen.io/mmajam/full/VBRyma/)
 
-### Day 07 - 17.8.2018
-
+### Day 07 - 17.8.2018 (Fri)
 **Today´s Progress:** Read the documentation of Bootstrap [(link)](https://getbootstrap.com/docs/4.1/getting-started/introduction/), which I want to use for my Personal Portfolio Page.
 
 **Thoughts:** Flexbox-bugs: <button> and <fieldset> don´t work as flex-containers! (Solution: use <div> or other flex-supporting-element as immediate child of the <button> or <fieldset> (info: [Flexbugs](https://github.com/philipwalton/flexbugs#flexbug-9)).
 
-### Day 08 - 18.8.2018
-
+### Day 08 - 18.8.2018 (Sat)
 **Today´s Progress:** Continue reading the documentation of Bootstrap [(link)](https://getbootstrap.com/docs/4.1/getting-started/introduction/). Done part of the Basic JavaScript Challenges from FCC. 
 
-### Day 09 - 19.8.2018
-
+### Day 09 - 19.8.2018 (Sun)
 **Today´s Progress:** Finished Basic JavaScript Challenges from FCC.
 
-### Day 10 - 20.8.2018
-
+### Day 10 - 20.8.2018 (Mon)
 **Today´s Progress:** Did ES6-JS Challenges from FCC
 
 **Thoughts:** 
@@ -84,8 +78,7 @@ whoIsThisDude2(person);```
 and also explanation of vytautas-pilk was great: ```function half({min, max}) return (min + max) / 2.0;``` is the same as writing ```const {min, max} = stats;
 console.log((min + max) / 2.0);```
 
-### Day 11 - 21.8.2018
-
+### Day 11 - 21.8.2018 (Tue)
 **Today´s Progress:** Finished the section of ES6 Challenges from FCC
 
 **Thoughts:** 
