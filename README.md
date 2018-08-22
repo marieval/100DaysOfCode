@@ -114,6 +114,10 @@ SomeClass.value = 'new value'
 console.log(SomeClass.value)  // 'new value'
 ```
 
+### Day 12 - 22.8.2018 (Wed)
+**Today´s Progress:** Started CSS: The Complete Guide course on Udemy. Had a meeting with an IT-professional to consult some techniques, practical uses,... - it boosted my eagerness for learning. 
+
+
 
 
 
