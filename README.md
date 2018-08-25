@@ -115,13 +115,13 @@ console.log(SomeClass.value)  // 'new value'
 ```
 
 ### Day 12 - 22.8.2018 (Wed)
-**Today´s Progress:** Started CSS: The Complete Guide course on Udemy. Had a meeting with an IT-professional to consult some techniques, practical uses,... - it boosted my eagerness for learning. 
+**Today´s Progress:** Started [CSS: The Complete Guide](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) course on Udemy. Had a meeting with an IT-professional to consult some techniques, practical uses,... - it boosted my eagerness for learning. 
 
 ### Day 13 - 23.8.2018 (Thu)
 **Today´s Progress:** Learned about the real project workflow on my in-person course (processes with npm, gulp, sass...) and how to create a collapsible menu using only css ([basics](https://css-tricks.com/the-checkbox-hack/)).
 
 ### Day 14 - 24.8.2018 (Fri)
-**Today´s Progress:** Started a course from Udemy on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/)
+**Today´s Progress:** Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/)
 
 ### Day 15 - 25.8.2018 (Sat)
 **Today´s Progress:** Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part Positioning.
