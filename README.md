@@ -126,6 +126,16 @@ console.log(SomeClass.value)  // 'new value'
 ### Day 15 - 25.8.2018 (Sat)
 **Today´s Progress:** Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part Positioning.
 
+**Thoughts:** 
+*Percentages:* are related to "containing block" - it´s dependent on the position of our element (fixed: context is viewport / absolute: context is ancestor with position other than static (its content+padding) / relative: context is block-ancestor (only content)
+
+
+### No coding :-( - 26.8.2018 (Sun)
+
+### Day 16 - 27.8.2018 (Mon)
+**Today´s Progress:** Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part Background Images&Images, Sizes&Units
+
+
 
 
 
