@@ -134,6 +134,16 @@ console.log(SomeClass.value)  // 'new value'
 ### Day 16 - 27.8.2018 (Mon)
 **Today´s Progress:** Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part Background Images&Images, Sizes&Units
 
+### Day 17 - 28.8.2018 (Tue)
+**Today´s Progress:** Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part JavaScript&CSS
+
+### Day 18 - 29.8.2018 (Wed)
+**Today´s Progress:** Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part Responsive Web
+
+**Thoughts:** ```<meta name="viewport" content="width=device-width, initial-scale=1.0">```
+
+### Day 19 - 30.8.2018 (Thu)
+
 
 
 
