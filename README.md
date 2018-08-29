@@ -141,6 +141,7 @@ console.log(SomeClass.value)  // 'new value'
 **Today´s Progress:** Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part Responsive Web
 
 **Thoughts:** RWD - converting "hardware pixels" to "software pixels": ```<meta name="viewport" content="width=device-width, initial-scale=1.0">```
+Conversion: 1 inch = 96px.
 
 ### Day 19 - 30.8.2018 (Thu)
 
