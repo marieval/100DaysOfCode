@@ -145,6 +145,10 @@ console.log(SomeClass.value)  // 'new value'
 Conversion: 1 inch = 96px.
 
 ### Day 19 - 30.8.2018 (Thu)
+**Today´s Progress:** Practiced working with Git on my in-person course.
+
+### Day 20 - 31.8.2018 (Fri)
+**Today´s Progress:** 
 
 
 
