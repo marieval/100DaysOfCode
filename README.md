@@ -155,7 +155,8 @@ Conversion: 1 inch = 96px.
 *Input, select:* They use default settings (e.g. font) of the browser. To change this and set it same as our "normally set" style, we must use ```font: inherit```. 
 
 *:valid / :invalid pseudo-selectors:* can have other styling (e.g. ```.signup-form :invalid {....}```
-*Disabled button:* Can have e.g. ```.button[disabled] {cursor: not-allowed; border: #a1a1a1; background: #ccc; color: #a1a1a1; }```
+
+*Disabled button:* Example styling: ```.button[disabled] {cursor: not-allowed; border: #a1a1a1; background: #ccc; color: #a1a1a1; }```
 
 ### Day 21 - 1.9.2018 (Sat)
 **Today´s Progress:** 
