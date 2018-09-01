@@ -159,7 +159,10 @@ Conversion: 1 inch = 96px.
 *Disabled button:* Example styling: ```.button[disabled] {cursor: not-allowed; border: #a1a1a1; background: #ccc; color: #a1a1a1; }```
 
 ### Day 21 - 1.9.2018 (Sat)
-**Today´s Progress:** 
+**Today´s Progress:** Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part Text & Fonts. 
+
+**Thoughts:** It´s better to use @import directly to .css file. (```@import url("https://fonts.googleapis.com/css?family=Roboto");```
+
 
 
 
