@@ -161,8 +161,10 @@ Conversion: 1 inch = 96px.
 ### Day 21 - 1.9.2018 (Sat)
 **Today´s Progress:** Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part Text & Fonts. 
 
-**Thoughts:** It´s better to use @import directly to .css file. (```@import url("https://fonts.googleapis.com/css?family=Roboto");```
+**Thoughts:** For importing a font-family to our project it´s better to use @import directly to our .css file. (```@import url("https://fonts.googleapis.com/css?family=Roboto");```
 
+### Day 22 - 2.9.2018 (Sun)
+**Today´s Progress:** 
 
 
 
