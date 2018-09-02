@@ -166,7 +166,7 @@ Conversion: 1 inch = 96px.
 ### Day 22 - 2.9.2018 (Sun)
 **Today´s Progress:** Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part Flexbox. 
 
-**Thoughts:** *Flex-basis:* if the flex-basis is set to ```auto``` and at the same moment the element´s ```width/height``` is set, the ```auto``` is used. If the flex-basis is set in ```px or %```, the ```width/height``` is overwritten by the flex-basis value.
+**Thoughts:** *Flex-basis:* if the ```flex-basis``` is set to ```auto``` and at the same moment the element´s ```width/height``` is set, the ```auto``` is used. If the ```flex-basis``` is set in ```px or %```, the ```width/height``` is overwritten by the ```flex-basis``` value.
 
 ### Day 23 - 3.9.2018 (Mon)
 **Today´s Progress:**
