@@ -176,7 +176,13 @@ Conversion: 1 inch = 96px.
 *Wrapper of the whole content:* for better positioning of all elements use wrapper with ```min-height: 100%; position: relative;```. 
 
 ### Day 24 - 4.9.2018 (Tue)
-**Today´s Progress:** 
+**Today´s Progress:** Began building my Portfolio Website (decided NOT to use Bootstrap) - header, welcome part.
+
+### Day 25 - 5.9.2018 (Wed)
+**Today´s Progress:** Continue working on my Portfolio Website - parts About me, Portfolio, Contacts, Footer (just the drafts).
+
+
+
 
 
 
