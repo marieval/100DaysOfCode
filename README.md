@@ -181,6 +181,11 @@ Conversion: 1 inch = 96px.
 ### Day 25 - 5.9.2018 (Wed)
 **Today´s Progress:** Continue working on my Portfolio Website - parts About me, Portfolio, Contacts, Footer (just the drafts).  Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part CSS Transforms. 
 
+**Thoughts:** Source for CSS-3D-Transforms: [https://3dtransforms.desandro.com/](https://3dtransforms.desandro.com/)
+
+### Day 26 - 6.9.2018 (Thu)
+**Today´s Progress:** 
+
 
 
 
