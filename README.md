@@ -184,8 +184,10 @@ Conversion: 1 inch = 96px.
 **Thoughts:** Source for CSS-3D-Transforms: [https://3dtransforms.desandro.com/](https://3dtransforms.desandro.com/)
 
 ### Day 26 - 6.9.2018 (Thu)
-**Today´s Progress:** 
+**Today´s Progress:** Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part Transitions, Animations. Learned to work with StyleLint and Autoprefixer on my in-person course.
 
+### Day 27 - 7.9.2018 (Fri)
+**Today´s Progress:** 
 
 
 
