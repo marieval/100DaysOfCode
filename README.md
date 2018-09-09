@@ -187,9 +187,14 @@ Conversion: 1 inch = 96px.
 **Today´s Progress:** Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part Transitions, Animations. Learned to work with StyleLint and Autoprefixer on my in-person course.
 
 ### Day 27 - 7.9.2018 (Fri)
-**Today´s Progress:** 
+**Today´s Progress:** Finished the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part Sass.
 
 
+### Day 28 - 8.9.2018 (Sat)
+**Today´s Progress:** Started the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/).
+
+### Day 29 - 9.9.2018 (Sun) 
+**Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/).
 
 
 
