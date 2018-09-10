@@ -194,9 +194,10 @@ Conversion: 1 inch = 96px.
 **Today´s Progress:** Started the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/).
 
 ### Day 29 - 9.9.2018 (Sun) 
-**Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/).
+**Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Continue with section JS Basics.
 
-
+### Day 30 - 10.9.2018 (Mon) 
+**Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Finished the section JS Basics.
 
 
 
