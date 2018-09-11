@@ -199,6 +199,23 @@ Conversion: 1 inch = 96px.
 ### Day 30 - 10.9.2018 (Mon) 
 **Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Finished the section JS Basics.
 
+**Thoughts:**  *JS-Expressions:* pieces of code which always produce a value.   *JS-Statements:* they perform an action (they don´t produce immediate results).
+
+### Day 31 - 11.9.2018 (Tue)
+**Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Finished the section JS Behind The Scenes.
+
+**Thoughts:** 
+*Hoisting of functions:* - works only with *function declarations*:
+```calculateAge(1965);
+function calculateAge(year) {console.log(2018-year); }
+```
+*Function expressions* are NOT hoisted!! Causes and TypeError!!!
+```retirement(1996);
+var retirement = function(year) {console.log(65-(2018-year));}
+```
+
+*Scope and **this**:* the default object of *regular functions* is the *window object* (so the *this* points to the *window object*). It´s true even when the regular function is written inside of a method!!!! **this** in a *method of an object* refers to the *object* itself.
+
 
 
 
