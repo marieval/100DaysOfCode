@@ -208,11 +208,11 @@ Conversion: 1 inch = 96px.
 
 *Hoisting of functions:* - works only with *function declarations*:
 ```calculateAge(1965);
-function calculateAge(year) {console.log(2018-year); }   =====> It works!
+function calculateAge(year) {console.log(2018-year); }     // =====> It works!
 ```
 *Function expressions* are NOT hoisted!! It causes a TypeError!!!
 ```retirement(1996);
-var retirement = function(year) {console.log(65-(2018-year));}     =====> Causes a TypeError.
+var retirement = function(year) {console.log(65-(2018-year));}     // =====> Causes a TypeError.
 ```
 
 *Scope and **this**:* the default object of *regular functions* is the *window object* (so *this* points to the *window object*). It´s true even when the regular function is written inside of a method!!!! **this** in a *method of an object* refers to the *object* itself.
