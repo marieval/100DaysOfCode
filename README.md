@@ -205,16 +205,17 @@ Conversion: 1 inch = 96px.
 **Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Finished the section JS Behind The Scenes.
 
 **Thoughts:** 
+
 *Hoisting of functions:* - works only with *function declarations*:
 ```calculateAge(1965);
-function calculateAge(year) {console.log(2018-year); }
+function calculateAge(year) {console.log(2018-year); }   =====> It works!
 ```
-*Function expressions* are NOT hoisted!! Causes and TypeError!!!
+*Function expressions* are NOT hoisted!! It causes a TypeError!!!
 ```retirement(1996);
-var retirement = function(year) {console.log(65-(2018-year));}
+var retirement = function(year) {console.log(65-(2018-year));}     =====> Causes a TypeError.
 ```
 
-*Scope and **this**:* the default object of *regular functions* is the *window object* (so the *this* points to the *window object*). It´s true even when the regular function is written inside of a method!!!! **this** in a *method of an object* refers to the *object* itself.
+*Scope and **this**:* the default object of *regular functions* is the *window object* (so *this* points to the *window object*). It´s true even when the regular function is written inside of a method!!!! **this** in a *method of an object* refers to the *object* itself.
 
 
 
