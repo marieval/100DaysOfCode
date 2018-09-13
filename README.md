@@ -221,7 +221,7 @@ var retirement = function(year) {console.log(65-(2018-year));}     // =====> Cau
 **Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Finished the section JS DOM Manipulation and Events.
 
 ### Day 33 - 13.9.2018 (Thu)
-**Today´s Progress:** 
+**Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Section Advanced JS: Objects and Functions.
 
 
 
