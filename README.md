@@ -221,9 +221,23 @@ var retirement = function(year) {console.log(65-(2018-year));}     // =====> Cau
 **Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Finished the section JS DOM Manipulation and Events.
 
 ### Day 33 - 13.9.2018 (Thu)
-**Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Section Advanced JS: Objects and Functions.
+**Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Finished the section Advanced JS: Objects and Functions.
 
+### Day 34 - 14.9.2018 (Fri)
+**Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - First part of The Budget App Project.
 
+**Thoughts:** 
+
+*Event Listener on the Enter keypress:* 
+```document.addEventListener("keypress", function(event) {
+      if (event.keyCode === 13 || event.which === 13) {
+      ctrlAddItem();
+      }
+   })
+```
+
+### Day 35 - 15.9.2018 (Sat)
+**Today´s Progress:** 
 
 
 
