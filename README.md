@@ -16,7 +16,7 @@ Can´t manage to center the text in "Tips". :-(
 ### Day 02 - 12.8.2018 (Sun)
 **Today´s Progress:** Continue working on my Product Landing Page project from FCC - responsivity (video, map), media queries. Finially finished it! ;-) 
 
-**Thoughts:** Iframe elements are not responsive, so we need to wrap them with an other element (div). (Web Design Blueprints - p.29)
+**Thoughts:** ```<iframe>``` elements are not responsive, so we need to wrap them with an other element (```<div>```). (Web Design Blueprints - p.29)
 
 **Link:** [Product Landing Page](https://codepen.io/mmajam/pen/PBBoeg?editors=1100)
 
@@ -43,7 +43,7 @@ Can´t manage to center the text in "Tips". :-(
 ### Day 07 - 17.8.2018 (Fri)
 **Today´s Progress:** Read the documentation of Bootstrap [(link)](https://getbootstrap.com/docs/4.1/getting-started/introduction/), which I want to use for my Personal Portfolio Page.
 
-**Thoughts:** Flexbox-bugs: <button> and <fieldset> don´t work as flex-containers! (Solution: use <div> or other flex-supporting-element as immediate child of the <button> or <fieldset> (info: [Flexbugs](https://github.com/philipwalton/flexbugs#flexbug-9)).
+**Thoughts:** Flexbox-bugs: ```<button>``` and ```<fieldset>``` don´t work as flex-containers! (Solution: use ```<div>``` or other flex-supporting-element as immediate child of the ```<button>``` or ```<fieldset>``` (info: [Flexbugs](https://github.com/philipwalton/flexbugs#flexbug-9)).
 
 ### Day 08 - 18.8.2018 (Sat)
 **Today´s Progress:** Continue reading the documentation of Bootstrap [(link)](https://getbootstrap.com/docs/4.1/getting-started/introduction/). Done part of the Basic JavaScript Challenges from FCC. 
