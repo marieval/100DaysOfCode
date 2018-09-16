@@ -228,8 +228,9 @@ var retirement = function(year) {console.log(65-(2018-year));}     // =====> Cau
 
 **Thoughts:** 
 
-*Event Listener on the Enter keypress:* 
-```document.addEventListener("keypress", function(event) {
+*Event Listener on the Enter keypress:*  
+```
+document.addEventListener("keypress", function(event) {
       if (event.keyCode === 13 || event.which === 13) {
       ctrlAddItem();
       }
@@ -241,8 +242,9 @@ var retirement = function(year) {console.log(65-(2018-year));}     // =====> Cau
 
 **Thoughts:** 
 
-*Changing two classes (represented by "DOMstrings.....") in the DOM:*
-```var fields = document.querySelectorAll(DOMstring.inputDescription + ", " + DOMstrings.inputValue);
+*Changing two classes (represented by "DOMstrings.....") in the DOM:* 
+```
+var fields = document.querySelectorAll(DOMstring.inputDescription + ", " + DOMstrings.inputValue);
 // This returns a List. To be able to use an Array-method on the List, we need to use the call method:
 var fieldsArray = Array.prototype.slice.call(fields);
 ```
