@@ -249,6 +249,19 @@ var fields = document.querySelectorAll(DOMstring.inputDescription + ", " + DOMst
 var fieldsArray = Array.prototype.slice.call(fields);
 ```
 
+### Day 36 - 16.9.2018 (Sun)
+**Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Continue with The Budget App Project.
+
+**Thoughts:** 
+*DOM Manipulation examples and explanation:* [blog.garstasio](blog.garstasio.com/you-dont-need-jquery/dom_manipulation)
+
+*Splice x slice:* ```splice``` - used to remove elements (from what index, how many) x ```slice``` - used to create a copy
+
+*Event bubbling, event delegation:* used in 2 cases: 1. When we have an element with lots of child elements that we are interested in; 2. When we want an event handler attached to an element that is not yet in the DOM when our page is loaded.
+
+### Day 37 - 17.9.2018 (Mon)
+**Today´s Progress:** 
+
 
 
 
