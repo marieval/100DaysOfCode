@@ -237,7 +237,16 @@ var retirement = function(year) {console.log(65-(2018-year));}     // =====> Cau
 ```
 
 ### Day 35 - 15.9.2018 (Sat)
-**Today´s Progress:** 
+**Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Continue with The Budget App Project.
+
+**Thoughts:** 
+
+*Changing two classes (represented by "DOMstrings.....") in the DOM:*
+```var fields = document.querySelectorAll(DOMstring.inputDescription + ", " + DOMstrings.inputValue);
+// This returns a List. To be able to use an Array-method on the List, we need to use the call method:
+var fieldsArray = Array.prototype.slice.call(fields);
+```
+
 
 
 
