@@ -253,7 +253,7 @@ var fieldsArray = Array.prototype.slice.call(fields);
 **Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Continue with The Budget App Project.
 
 **Thoughts:** 
-*DOM Manipulation examples and explanation:* [blog.garstasio](blog.garstasio.com/you-dont-need-jquery/dom_manipulation)
+*DOM Manipulation examples and explanation:* [blog.garstasio](https://blog.garstasio.com/you-dont-need-jquery/)
 
 *Splice x slice:* ```splice``` - used to remove elements (from what index, how many) x ```slice``` - used to create a copy
 
