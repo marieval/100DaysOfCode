@@ -268,7 +268,9 @@ var fieldsArray = Array.prototype.slice.call(fields);
 *Map method:* returns something and stores it in a variable. *ForEach method:* only loops through the array and does something with it (but doesn´t return anything)
 
 ### Day 38 - 18.9.2018 (Tue)
-**Today´s Progress:**
+**Today´s Progress:** Revised the Budget App Project in detail. 
+
+
 
 
 
