@@ -253,6 +253,7 @@ var fieldsArray = Array.prototype.slice.call(fields);
 **Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Continue with The Budget App Project.
 
 **Thoughts:** 
+
 *DOM Manipulation examples and explanation:* [blog.garstasio](https://blog.garstasio.com/you-dont-need-jquery/)
 
 *Splice x slice:* ```splice``` - used to remove elements (from what index, how many) x ```slice``` - used to create a copy
@@ -260,7 +261,15 @@ var fieldsArray = Array.prototype.slice.call(fields);
 *Event bubbling, event delegation:* used in 2 cases: 1. When we have an element with lots of child elements that we are interested in; 2. When we want an event handler attached to an element that is not yet in the DOM when our page is loaded.
 
 ### Day 37 - 17.9.2018 (Mon)
-**Today´s Progress:** 
+**Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Finished The Budget App Project section.
+
+**Thoughts:** 
+
+*Map method:* returns something and stores it in a variable. *ForEach method:* only loops through the array and does something with it (but doesn´t return anything)
+
+### Day 38 - 18.9.2018 (Tue)
+**Today´s Progress:**
+
 
 
 
