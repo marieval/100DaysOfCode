@@ -283,6 +283,15 @@ var fieldsArray = Array.prototype.slice.call(fields);
 
 **Thoughts:** Struggled with implementing of the toggle-menu for mobile-version (used the solution from [codeburst](https://codeburst.io/how-to-make-a-collapsible-menu-using-only-css-a1cd805b1390)). 
 
+### Day 41 - 22.9.2018 (Sat)
+**Today´s Progress:** Fixed some bugs on mobile-version of my [Portfolio Website project](https://codepen.io/mmajam/full/BOyNdN/). Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Part of the ES6/ES2015 section. 
+
+**Thoughts:** 
+
+Variables declared with ```var``` are *function-scoped*. Variables declared with ```let``` or ```const``` are *block-scoped*.
+
+*Template literals:* to use them, we must use backticks (not single/double quotes)!
+
 
 
 
