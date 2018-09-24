@@ -270,20 +270,20 @@ var fieldsArray = Array.prototype.slice.call(fields);
 ### Day 38 - 18.9.2018 (Tue)
 **Today´s Progress:** Revised the Budget App Project in detail. 
 
-### Day 38 - 19.9.2018 (Wed)
+### Day 39 - 19.9.2018 (Wed)
 **Today´s Progress:** Added responsivity to my previous projects at FCC: [Tribute page](https://codepen.io/mmajam/full/xJPeXq/), [Build a Survey Form](https://codepen.io/mmajam/full/QBxyBQ/), [Product Landing Page](https://codepen.io/mmajam/full/PBBoeg/), [Technical Documentation Page](https://codepen.io/mmajam/full/VBRyma/). 
 
 **Thoughts:** I see that I moved forward a lot in one month - when I looked at those project, I can see my not-so-good-solutions, I would do these better now. First I thought that I will re-do them, but then I decided not to do so now, but to continue with other things instead - future projects will be better (as I hope). :-D
 
-### Day 39 - 20.9.2018 (Thu)
+### Day 40 - 20.9.2018 (Thu)
 **Today´s Progress:** Went back to the [Portfolio Website projects](https://codepen.io/mmajam/full/BOyNdN/) (until Day25 I did draft of parts About me, Portfolio, Contacts, Footer) and did small changes regarding things I learned in the meantime. Learned about the Keep-Aspect-Ratio for photogallery (resources: [Aspect Ratio Boxes - CSS-Tricks](https://css-tricks.com/aspect-ratio-boxes/), [Keith Grant´s explanation](https://keithjgrant.com/posts/2017/03/aspect-ratios/) and [MadeMyDay.de examples and explanation](http://www.mademyday.de/css-height-equals-width-with-pure-css.html).
 
-### Day 40 - 21.9.2018 (Fri)
+### Day 41 - 21.9.2018 (Fri)
 **Today´s Progress:** Finished my [Portfolio Website project](https://codepen.io/mmajam/full/BOyNdN/). 
 
 **Thoughts:** Struggled with implementing of the toggle-menu for mobile-version (used the solution from [codeburst](https://codeburst.io/how-to-make-a-collapsible-menu-using-only-css-a1cd805b1390)). 
 
-### Day 41 - 22.9.2018 (Sat)
+### Day 42 - 22.9.2018 (Sat)
 **Today´s Progress:** Fixed some bugs on mobile-version of my [Portfolio Website project](https://codepen.io/mmajam/full/BOyNdN/). Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Part of the ES6/ES2015 section. 
 
 **Thoughts:** 
@@ -291,6 +291,14 @@ var fieldsArray = Array.prototype.slice.call(fields);
 Variables declared with ```var``` are *function-scoped*. Variables declared with ```let``` or ```const``` are *block-scoped*.
 
 *Template literals:* to use them, we must use backticks (not single/double quotes)!
+
+### Day 43 - 23.9.2018 (Sun)
+**Today´s Progress:** Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - ES6/ES2015 section (arrow functions, destructuring, spread operator, rest parameters, maps.
+
+### Day 44 - 24.9.2018 (Mon)
+**Today´s Progress:** Finished the section ES6/ES2015 of the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - classes + subclasses. Did the final challenge (trees/streets).
+
+### Day 45
 
 
 
