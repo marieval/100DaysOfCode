@@ -298,7 +298,10 @@ Variables declared with ```var``` are *function-scoped*. Variables declared with
 ### Day 44 - 24.9.2018 (Mon)
 **Today´s Progress:** Finished the section ES6/ES2015 of the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - classes + subclasses. Did the final challenge (trees/streets).
 
-### Day 45
+### Day 45 - 25.9.2018 (Mon)
+**Today´s Progress:** Continue with the course on  [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - section Asynchronous JavaScript (Event loop, Promises, Async/await). 
+
+
 
 
 
