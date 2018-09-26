@@ -298,8 +298,15 @@ Variables declared with ```var``` are *function-scoped*. Variables declared with
 ### Day 44 - 24.9.2018 (Mon)
 **Today´s Progress:** Finished the section ES6/ES2015 of the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - classes + subclasses. Did the final challenge (trees/streets).
 
-### Day 45 - 25.9.2018 (Mon)
+### Day 45 - 25.9.2018 (Tue)
 **Today´s Progress:** Continue with the course on  [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - section Asynchronous JavaScript (Event loop, Promises, Async/await). 
+
+### Day 46 - 26.9.2018 (Wed)
+**Today´s Progress:** Continue with the course on  [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - finished section Asynchronous JavaScript (Fetch), started section Modern JavaScript (node.js, webpack - installing and configuring (webpack, webpack-cli, webpack-dev-server, html-webpack-plugin). 
+
+**Thoughts:** I find the shown processes similar to those which we used in my in-person course with Gulp (at least for this moment; I look forward for learning more and for working with it!
+
+### Day 
 
 
 
