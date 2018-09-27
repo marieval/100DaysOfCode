@@ -306,7 +306,10 @@ Variables declared with ```var``` are *function-scoped*. Variables declared with
 
 **Thoughts:** I find the shown processes similar to those which we used in my in-person course with Gulp (at least for this moment; I look forward for learning more and for working with it!
 
-### Day 
+### Day 47 - 27.9.2018 (Thu)
+**Today´s Progress:**  Continue with the course on  [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - installing and configuring Babel. Started the final project "Forkify" (planning using MVC architecture, modules).
+
+
 
 
 
