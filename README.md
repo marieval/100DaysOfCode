@@ -312,6 +312,9 @@ Variables declared with ```var``` are *function-scoped*. Variables declared with
 ### Day 48 - 28.9.2018 (Fri)
 **Today´s Progress:**  Continue with the course on  [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Continue with "Forkify" project (start working with API, installing Axios)
 
+### Day 49 - 29.9.2018 (Sat)
+**Today´s Progress:** Continue with the course on  [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Continue with "Forkify" project (working on the Search part)
+
 
 
 
