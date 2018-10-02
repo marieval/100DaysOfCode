@@ -321,6 +321,9 @@ Variables declared with ```var``` are *function-scoped*. Variables declared with
 ### Day 51 - 1.10.2018 (Mon)
 **Today´s Progress:**  Continue with the course on  [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Continue with "Forkify" project (part Recipe model, Recipe controller)
 
+### Day 52 - 2.10.2018 (Tue)
+**Today´s Progress:**  Continue with the course on  [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Continue with "Forkify" project (changing the amount of servings and ingredients)
+
 
 
 
