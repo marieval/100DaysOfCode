@@ -321,9 +321,12 @@ Variables declared with ```var``` are *function-scoped*. Variables declared with
 ### Day 51 - 1.10.2018 (Mon)
 **Today´s Progress:**  Continue with the course on  [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Continue with "Forkify" project (part Recipe model, Recipe controller)
 
+**Thoughts:** I came across the book _Maintainable JavaScript_ by Nicholas C. Zakas several days ago and I am reading it in free moments during the day. The concepts there are exactly those which used Maximilian in his projects (the CSS course on Udemy, which I took recently). I really like it! (I wish I had more time for coding and learning!)
+
 ### Day 52 - 2.10.2018 (Tue)
 **Today´s Progress:**  Continue with the course on  [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Continue with "Forkify" project (changing the amount of servings and ingredients)
 
+**Thoughts:** I look forward to my own programming! But I decided to finish the JS-course first (hopefully tomorrow) and than I´ll continue with the projects of FCC. 
 
 
 
