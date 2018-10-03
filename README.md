@@ -328,8 +328,10 @@ Variables declared with ```var``` are *function-scoped*. Variables declared with
 
 **Thoughts:** I look forward to my own programming! But I decided to finish the JS-course first (hopefully tomorrow) and than I´ll continue with the projects of FCC. 
 
+### Day 53 - 3.10.2018 (Wed)
+**Today´s Progress:**  Finished the course on  [JavaScript](https://www.udemy.com/the-complete-javascript-course/). Did the challenges on Regular Expressions at FCC. 
 
-
+**Thoughts:** _LocalStorage API:_ stores only strings (To store data: ```localStorage.setItem("likes", JSON.strigify(this.likes));```, to get back data: ```const storage = JSON.parse(localStorage.getItem("likes"));``` 
 
 
 
