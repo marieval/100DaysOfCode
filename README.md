@@ -333,6 +333,9 @@ Variables declared with ```var``` are *function-scoped*. Variables declared with
 
 **Thoughts:** _LocalStorage API:_ stores only strings (To store data: ```localStorage.setItem("likes", JSON.strigify(this.likes));```, to get back data: ```const storage = JSON.parse(localStorage.getItem("likes"));``` 
 
+### Day 54 - 4.10.2018 (Thu)
+**Today´s Progress:** Did the challenges on Debugging at FCC, began the challenges on Basic Data Structures at FCC (esp. processing of arrays).
+
 
 
 
