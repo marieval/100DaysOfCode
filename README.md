@@ -334,7 +334,27 @@ Variables declared with ```var``` are *function-scoped*. Variables declared with
 **Thoughts:** _LocalStorage API:_ stores only strings (To store data: ```localStorage.setItem("likes", JSON.strigify(this.likes));```, to get back data: ```const storage = JSON.parse(localStorage.getItem("likes"));``` 
 
 ### Day 54 - 4.10.2018 (Thu)
-**Today´s Progress:** Did the challenges on Debugging at FCC, began the challenges on Basic Data Structures at FCC (esp. processing of arrays).
+**Today´s Progress:** Did the challenges on Debugging at FCC, began the challenges on Basic Data Structures at FCC (processing of arrays).
+
+**Thoughts:** _Greedy matching (default):_ on string "titanic" matches "titani" using ```/t[a-z]*i/```. 
+_Lazy matching:_ on string "titanic" matches "ti" using ```/t[a-z]*?i/```
+
+### Day 55 - 5.10.2018 (Fri)
+**Today´s Progress:** Did the challenges on Object Oriented JavaScript at FCC.
+
+**Thoughts:** If we set a prototype of an object, we must set also its constructor (otherwise is undefined!) - 
+```
+Bird.prototype = {
+  constructor: Bird,
+  numLegs: 4,
+  eat: function() {
+    console.log("nom nom")
+  }
+};
+```
+
+
+
 
 
 
