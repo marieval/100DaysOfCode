@@ -353,8 +353,19 @@ Bird.prototype = {
 };
 ```
 
+### Day 56 - 6.10.2018 (Sat)
+**Today´s Progress:** Did the challenges on Functional Programming in JavaScript at FCC.
 
+**Thoughts:** When we don´t know all the arguments at once:
+```
+function impartial(x,y,z) {
+   return x + y + z;
+}
 
+var partialFn = impartial.bind(this, 1, 2);
+
+partialFn(10);    => 13
+```
 
 
 
