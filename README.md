@@ -367,6 +367,12 @@ var partialFn = impartial.bind(this, 1, 2);
 partialFn(10);    => 13
 ```
 
+### Day 57 - 7.10.2018 (Sun)
+**Today´s Progress:** I want to get the overall view on the connection between front-end, back-end, databases, and so on. So I bought the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/). Since the first parts are just repeating, I went through these quickly: today I did the sections How the Internet Works, History of Web, HTML, CSS. 
+
+**Thoughts:** Some resources: https://unsplash.com/ (free images), http://paletton.com/ (color palette), https://css-tricks.com/ (overview of css properties and values), https://specificity.keegan.st/ (specificity calculator), https://robots.thoughtbot.com/transitions-and-transforms (transitions and transforms overview), https://philipwalton.github.io/solved-by-flexbox/ and www.flexboxpatterns.com/ (flexbox).
+
+Resources for the course: https://zero-to-mastery.github.io/resources/, and one other: https://github.com/zero-to-mastery/complete-web-developer-manual
 
 
 
