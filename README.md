@@ -374,6 +374,11 @@ partialFn(10);    => 13
 
 Resources for the course: https://zero-to-mastery.github.io/resources/, and one other: https://github.com/zero-to-mastery/complete-web-developer-manual
 
+### Day 58 - 8.10.2018 (Mon)
+**Today´s Progress:** I went through the parts Bootstrap, Career of Web Dev., JavaScript of the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/). 
+
+**Thoughts:** Resources: https://mailchimp.com/ (email marketing and similar), animate.css (animating of elements), templates of websites (creative-tim.com, mdbootstrap.com/freebies (!!!), mashup-template.com/templates.html, startbootstrap.com/template-categories/all).
+
 
 
 
