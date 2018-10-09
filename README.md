@@ -382,7 +382,24 @@ Resources for the course: https://zero-to-mastery.github.io/resources/, and one 
 ### Day 59 - 9.10.2018 (Tue)
 **Today´s Progress:** I went through the parts DOM Manipulation, Advanced JS (part) of the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/). 
 
-**Thoughts:** Conversion of ES6 to ES5 (online): https://babeljs.io/repl/
+**Thoughts:** _Conversion of ES6_ to ES5 (online): https://babeljs.io/repl/
+
+_Currying:_ 
+```
+const multiply = (a,b) => a * b;
+const curriedMultiply = (a) => (b) => a*b;
+const multiplyBy5 = curriedMultiply(5);
+```
+
+_Compose:_
+```
+const compose = (f,g) => (a) => f(g(a));
+const sum = (num) => num + 1;
+compose(sum,sum)(5);     =====> 7
+```
+
+
+
 
 
 
