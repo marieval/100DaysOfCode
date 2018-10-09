@@ -379,6 +379,10 @@ Resources for the course: https://zero-to-mastery.github.io/resources/, and one 
 
 **Thoughts:** Resources: https://mailchimp.com/ (email marketing and similar), animate.css (animating of elements), templates of websites (www.creative-tim.com, https://mdbootstrap.com/freebies/ (!!!), http://www.mashup-template.com/templates.html, https://startbootstrap.com/template-categories/all/).
 
+### Day 59 - 9.10.2018 (Tue)
+**Today´s Progress:** I went through the parts DOM Manipulation, Advanced JS (part) of the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/). 
+
+**Thoughts:** Conversion of ES6 to ES5 (online): https://babeljs.io/repl/
 
 
 
