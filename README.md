@@ -398,9 +398,10 @@ const sum = (num) => num + 1;
 compose(sum,sum)(5);     =====> 7
 ```
 
+### Day 60 - 10.10.2018 (Wed)
+**Today´s Progress:** I continued with sections Advanced JS (second part - reduce, classes, ES7, ES8, Asynchronous JS), Command Line, Dev.-Environment of the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/).
 
-
-
+ 
 
 
 
