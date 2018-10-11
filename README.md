@@ -408,7 +408,7 @@ compose(sum,sum)(5);     =====> 7
 
 **Thoughts:** Some useful links: Commands for Cmd for Windows (https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows). Some useful _npm packages:_ live-server, lodash. 
 
-Check _A developer´s morning routine_!!!! Good tips!!!
+Check _A developer´s morning routine_ (in the section A day of Web-Dev.)!!!! Good tips!!!
 
 
 
