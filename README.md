@@ -401,6 +401,9 @@ compose(sum,sum)(5);     =====> 7
 ### Day 60 - 10.10.2018 (Wed)
 **Today´s Progress:** I continued with sections Advanced JS (second part - reduce, classes, ES7, ES8, Asynchronous JS), Command Line, Dev.-Environment of the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/).
 
+**Thoughts:** Some links: [You don´t know JS](https://github.com/getify/You-Dont-Know-JS), [javascript.info](http://javascript.info/), [JavaScript: The Core, 2nd Ed.](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/), [How To Think Like A Programmer](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2), [ES Modules: A cartoon deep dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/).
+
+
  
 
 
