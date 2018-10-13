@@ -415,6 +415,11 @@ Check _A developer´s morning routine_ (in the section A day of Web-Dev.)!!!! Go
 
 **Thoughts:** I´m totally excited about React! :D
 
+### Day 63 - 13.10.2018 (Sat)
+**Today´s Progress:** I continued with the section React.js in the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/). Began the part of Redux and applied some of the principles to "RoboFriends" app. 
+
+
+
 
 
 
