@@ -410,6 +410,10 @@ compose(sum,sum)(5);     =====> 7
 
 Check _A developer´s morning routine_ (in the section A day of Web-Dev.)!!!! Good tips!!!
 
+### Day 62 - 12.10.2018 (Fri)
+**Today´s Progress:** I started the section React.js in the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/). Began with the React application "Robofriends".
+
+**Thoughts:** I´m totally excited about React! :D
 
 
 
