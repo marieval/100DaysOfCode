@@ -418,6 +418,11 @@ Check _A developer´s morning routine_ (in the section A day of Web-Dev.)!!!! Go
 ### Day 63 - 13.10.2018 (Sat)
 **Today´s Progress:** I continued with the section React.js in the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/). Began the part of Redux and applied some of the principles to "RoboFriends" app. 
 
+### Day 64 - 14.10.2018 (Sun)
+**Today´s Progress:** I finished the section React.js + Redux in the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/). 
+
+**Thoughts:** I got lost in the Redux part. :( I´ll go back later to this part (or perhaps read/watch more about Redux from other sources too and then come back). 
+
 
 
 
