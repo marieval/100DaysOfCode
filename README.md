@@ -423,6 +423,10 @@ Check _A developer´s morning routine_ (in the section A day of Web-Dev.)!!!! Go
 
 **Thoughts:** I got lost in the Redux part. :( I´ll go back later to this part (or perhaps read/watch more about Redux from other sources too and then come back). 
 
+### Day 65 - 15.10.2018 (Mon)
+**Today´s Progress:** I did the section HTTP / JSON / AJAX / Asynchronous JS in the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/). 
+
+**Thoughts:** I like Promises more than Async-Await. 
 
 
 
