@@ -428,6 +428,11 @@ Check _A developer´s morning routine_ (in the section A day of Web-Dev.)!!!! Go
 
 **Thoughts:** I like Promises more than Async-Await. 
 
+### Day 66 - 16.10.2018 (Tue)
+**Today´s Progress:** I did the sections Backend Basics and APIs in the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/). 
+
+**Thoughts:** Sources for various APIs: https://apilist.fun/ 
+
 
 
 
