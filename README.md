@@ -433,7 +433,10 @@ Check _A developer´s morning routine_ (in the section A day of Web-Dev.)!!!! Go
 
 **Thoughts:** Sources for various APIs: https://apilist.fun/ 
 
+### Day 67 - 17.10.2018 (Wed)
+**Today´s Progress:** I started the main project (code-along) FaceRecognition of the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/) - setting the parts using React.
 
+**Thoughts:** I like React. ;-) Som other useful resources: _tilt.js_ (```npm install --save react-tilt```), _particles.js_ (```npm install react-particles-js```). 
 
 
 
