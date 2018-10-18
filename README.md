@@ -441,6 +441,10 @@ Check _A developer´s morning routine_ (in the section A day of Web-Dev.)!!!! Go
 ### Day 68 - 18.10.2018 (Thu)
 **Today´s Progress:** I finished the front-end part (coded along) of the main project Face Recognition App of the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/).
 
+**Thoughts:** Interesting API (recognition of faces, colors, things,...): https://clarifai.com/
+
+
+
 
 
 
