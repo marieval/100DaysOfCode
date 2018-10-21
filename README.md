@@ -447,7 +447,9 @@ Check _A developer´s morning routine_ (in the section A day of Web-Dev.)!!!! Go
 **Today´s Progress:** I started the part _Node.js & Express.js_ of the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/).
 
 ### Day 70 - 20.10.2018 (Sat)
-**Today´s Progress:** Today I coudn´t do anything on my PC, so instead I started reading the book _The Road To Learn React_ by Robin Wieruch. I find it great in connection to the topic of the course (Complete Web Dev...). 
+**Today´s Progress:** Today I coudn´t do anything on my PC, so instead I started reading the book _The Road To Learn React_ by Robin Wieruch. I find it great in connection to the topic of the course Complete Web Dev...
+
+### -- Day off - 21.10.2018 (Sun) --
 
 
 
