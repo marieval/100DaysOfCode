@@ -451,6 +451,11 @@ Check _A developer´s morning routine_ (in the section A day of Web-Dev.)!!!! Go
 
 ### -- Day off - 21.10.2018 (Sun) --
 
+### Day 71 - 22.10.2018 (Mon)
+**Today´s Progress:** I finished the part _Node.js & Express.js_ of the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/). Challenge Santa´s node helper ([puzzle](https://adventofcode.com/2015/day/1). 
+
+**Thoughts:** Nice [article](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2) about _problem solving._ 
+
 
 
 
