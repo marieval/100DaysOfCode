@@ -456,6 +456,16 @@ Check _A developer´s morning routine_ (in the section A day of Web-Dev.)!!!! Go
 
 **Thoughts:** Nice [article](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2) about _problem solving._ 
 
+### Day 72 - 23.10.2018 (Tue)
+**Today´s Progress:** I started the back-end part of the main project _Face Recognition App_ of the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/).
+
+**Thoughts:** _Postman:_ (www.getpostman.com) - great for testing my server before I connect it to the front-end. 
+
+_Body-parser:_ used for accessing the body of the request (```npm install body-parser```).
+
+_Timer:_ For testing how long did some task take: ```console.time("myTask");``` on the beginning, and then ```console.timeEnd("myTask");``` on the end.
+
+
 
 
 
