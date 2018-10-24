@@ -457,7 +457,7 @@ Check _A developer´s morning routine_ (in the section A day of Web-Dev.)!!!! Go
 **Thoughts:** Nice [article](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2) about _problem solving._ 
 
 ### Day 72 - 23.10.2018 (Tue)
-**Today´s Progress:** I started the back-end part of the main project _Face Recognition App_ of the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/).
+**Today´s Progress:** I started the back-end (server) part of the main project _Face Recognition App_ of the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/).
 
 **Thoughts:** _Postman:_ (www.getpostman.com) - great for testing my server before I connect it to the front-end. 
 
@@ -465,7 +465,12 @@ _Body-parser:_ used for accessing the body of the request (```npm install body-p
 
 _Timer:_ For testing how long did some task take: ```console.time("myTask");``` on the beginning, and then ```console.timeEnd("myTask");``` on the end.
 
+### Day 73 - 24.10.2018 (Wed)
+**Today´s Progress:** I did the section _Databases_ of the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/).
 
+**Thoughts:** I already learned about databases before (CodeCademy and two one-day in-person courses), but now (with this course) it goes excellently together with the other parts as a puzzle! I really missed this junction!! 
+
+_Training the database-commands:_ https://www.khanacademy.org/computing/computer-programming/sql
 
 
 
