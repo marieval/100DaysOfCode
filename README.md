@@ -468,7 +468,7 @@ _Timer:_ For testing how long did some task take: ```console.time("myTask");``` 
 ### Day 73 - 24.10.2018 (Wed)
 **Today´s Progress:** I did the section _Databases_ of the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/).
 
-**Thoughts:** I already learned about databases before (CodeCademy and two one-day in-person courses), but now (with this course) it goes excellently together with the other parts as a puzzle! I really missed this junction!! 
+**Thoughts:** I already learned about databases before (CodeCademy and two one-day in-person courses), but now (with this course) it goes sooo clearly together with the other parts as a puzzle! I really missed this junction!! 
 
 _Training the database-commands:_ https://www.khanacademy.org/computing/computer-programming/sql
 
