@@ -452,7 +452,7 @@ Check _A developer´s morning routine_ (in the section A day of Web-Dev.)!!!! Go
 ### -- Day off - 21.10.2018 (Sun) --
 
 ### Day 71 - 22.10.2018 (Mon)
-**Today´s Progress:** I finished the part _Node.js & Express.js_ of the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/). Challenge Santa´s node helper ([puzzle](https://adventofcode.com/2015/day/1). 
+**Today´s Progress:** I finished the part _Node.js & Express.js_ of the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/). Challenge Santa´s node helper ([puzzle](https://adventofcode.com/2015/day/1)). 
 
 **Thoughts:** Nice [article](https://medium.freecodecamp.org/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2) about _problem solving._ 
 
@@ -472,8 +472,12 @@ _Timer:_ For testing how long did some task take: ```console.time("myTask");``` 
 
 _Training the database-commands:_ https://www.khanacademy.org/computing/computer-programming/sql
 
+### Day 74 - 25.10.2018 (Thu)
+**Today´s Progress:** I went through the section about _Production & Deployment_ of the course [Complete Web Developer in 2018: Zero To Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/).
 
+**Thoughts:** The course was great! I really like the way, how all the pieces click together! Now I look forward to my own code! My plan is to use plain HTML/CSS/JavaScript first, and after some time to study React in more detail and use this. 
 
+Some resources: [Environment Variables in windows](http://www.dowdandassociates.com/blog/content/howto-set-an-environment-variable-in-windows-command-line-and-registry/), [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)...
 
  
 
