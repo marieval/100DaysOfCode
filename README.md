@@ -479,7 +479,12 @@ _Training the database-commands:_ https://www.khanacademy.org/computing/computer
 
 Some resources: [Environment Variables in windows](http://www.dowdandassociates.com/blog/content/howto-set-an-environment-variable-in-windows-command-line-and-registry/), [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)...
 
- 
+ ### Day 75 - 26.10.2018 (Fri)
+**Today´s Progress:** I made a wireframe for a small app for showing only selected videos suitable for kids. Made the basic structure.
+
+**Thoughts:** When starting from scratch, I´m really very unsure and forgot so much things which I already knew before! :-( 
+
+
 
 
 
