@@ -482,9 +482,14 @@ Some resources: [Environment Variables in windows](http://www.dowdandassociates.
  ### Day 75 - 26.10.2018 (Fri)
 **Today´s Progress:** I made a wireframe for a small app for showing only selected videos suitable for kids. Made the basic structure.
 
-**Thoughts:** When starting from scratch, I´m really very unsure and forgot so much things which I already knew before! :-( 
+**Thoughts:** When starting from scratch, I´m really very unsure and forgot so much things which I already knew before! I´m totally demotivated. :-( 
 
+### -- Day off - 27.10.2018 (Sat) --
 
+ ### Day 76 - 28.10.2018 (Sun)
+**Today´s Progress:** I started re-building of the main page of the uHost (project from the CSS-course, which I did earlier) just according the result html-page. 
+
+**Thoughts:** The start was not easy, but as I went further, it was much better. ;-)
 
 
 
