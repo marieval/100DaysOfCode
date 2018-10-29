@@ -491,7 +491,8 @@ Some resources: [Environment Variables in windows](http://www.dowdandassociates.
 
 **Thoughts:** The start was not easy, but as I went further, it was much better. ;-)
 
-
+### Day 77 - 29.10.2018 (Mon)
+**Today´s Progress:** I continued with re-building of the main page of the uHost (project from the CSS-course, which I did earlier) just according the result html-page. Got stuck at mobile-version. :-/
 
 
 
