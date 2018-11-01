@@ -500,6 +500,9 @@ Some resources: [Environment Variables in windows](http://www.dowdandassociates.
 ### Day 79 - 31.10.2018 (Wed)
 **Today´s Progress:** I re-builded the Customers-page of the uHost website. 
 
+### Day 80 - 1.11.2018 (Thu)
+**Today´s Progress:** I continued with re-building of the uHost website. I rewatched some parts of the CSS-course. 
+
 
 
 
