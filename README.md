@@ -503,6 +503,8 @@ Some resources: [Environment Variables in windows](http://www.dowdandassociates.
 ### Day 80 - 1.11.2018 (Thu)
 **Today´s Progress:** I continued with re-building of the uHost website. I rewatched some parts of the CSS-course. 
 
+### Day 81 - 2.11.2018 (Fri)
+**Today´s Progress:** I continued with re-building of the uHost website. I repeated some parts of the CSS-course. 
 
 
 
