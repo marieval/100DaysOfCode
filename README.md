@@ -506,6 +506,12 @@ Some resources: [Environment Variables in windows](http://www.dowdandassociates.
 ### Day 81 - 2.11.2018 (Fri)
 **Today´s Progress:** I continued with re-building of the uHost website. I repeated some parts of the CSS-course. 
 
+### Day 82 - 3.11.2018 (Sat)
+**Today´s Progress:** I went again through the positioning- and background-topics of the CSS-Course on Udemy. 
+
+**Thoughts:** If an img is inside of an _inline element_: it´s 100%-width refers to the 100%-width of the image itself. I an img is inside of an _inline-block element_: it´s 100%-width-size refers to the size of the surrounding element. 
+
+
 
 
 
