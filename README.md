@@ -511,6 +511,10 @@ Some resources: [Environment Variables in windows](http://www.dowdandassociates.
 
 **Thoughts:** If an img is inside of an _inline element_: it´s 100%-width refers to the 100%-width of the image itself. I an img is inside of an _inline-block element_: it´s 100%-width-size refers to the size of the surrounding element. 
 
+### Day 83 - 4.11.2018 (Sun)
+**Today´s Progress:** I went again through the Sizes & Dimensions-topics of the CSS-Course on Udemy. 
+
+
 
 
 
