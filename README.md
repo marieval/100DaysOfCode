@@ -514,6 +514,10 @@ Some resources: [Environment Variables in windows](http://www.dowdandassociates.
 ### Day 83 - 4.11.2018 (Sun)
 **Today´s Progress:** I went again through the Sizes & Dimensions-topics of the CSS-Course on Udemy. 
 
+### Day 84 - 5.11.2018 (Mon)
+**Today´s Progress:** I started again from the beginning (just with html-template) with re-creating the main page of the uHost (from the CSS-course).
+
+**Thoughts:** It´s much better now after revising some parts of the course! I achieve the output using different features in the css than they did in the course, but I´m happy about having solved it! However, I have to solve some minor issues and improve responsivity.
 
 
 
