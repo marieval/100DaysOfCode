@@ -519,7 +519,10 @@ Some resources: [Environment Variables in windows](http://www.dowdandassociates.
 
 **Thoughts:** It´s much better now after revising some parts of the course! I achieve the output using different features in the css than they did in the course, but I´m happy about having solved it! However, I have to solve some minor issues and improve responsivity.
 
+### Day 85 - 6.11.2018 (Tue)
+**Today´s Progress:** I starcontinued with re-creating the customer-page and plan-page of the uHost (from the CSS-course).
 
+**Thoughts:** I´m excited, that I make progress with the site really much better now! Last week the stuff I wrote didn´t work and I felt deprived, but now after refreshing the material from the course it´s much more easy!!! I like this CSS-course because Max mentions there various dependencies and under which conditions a feature doesn´t work. It´s really useful!
 
 
 
