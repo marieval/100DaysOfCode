@@ -530,7 +530,7 @@ Some resources: [Environment Variables in windows](http://www.dowdandassociates.
 ### Day 87 - 8.11.2018 (Thu)
 **Today´s Progress:** I continued with re-creating the uHost-project (from the CSS-course) - changed the units to responsive ones (rem, %), did the Start-Hosting-page.
 
-**Thoughts:** I didn´t succeed with designing the button-bar using css. :-( I will come to it tomorrow again. 
+**Thoughts:** I didn´t succeed with designing the hamburger-menu using css. :-( I will come to it tomorrow again. 
 
 
 
