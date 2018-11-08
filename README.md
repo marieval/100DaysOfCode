@@ -525,10 +525,10 @@ Some resources: [Environment Variables in windows](http://www.dowdandassociates.
 **Thoughts:** I´m excited, that I make progress with the site really much better now! Last week the stuff I wrote didn´t work and I felt deprived, but now after refreshing the material from the course it´s much more easy!!! I like this CSS-course because Max mentions there various dependencies and under which conditions a feature doesn´t work. It´s really useful!
 
 ### Day 86 - 7.11.2018 (Wed)
-**Today´s Progress:** I continued with re-creating the the uHost-project (from the CSS-course).
+**Today´s Progress:** I continued with re-creating the uHost-project (from the CSS-course).
 
 ### Day 87 - 8.11.2018 (Thu)
-**Today´s Progress:** I continued with re-creating the the uHost-project (from the CSS-course) - changed the units to responsive ones (rem, %), did the Start-Hosting-page.
+**Today´s Progress:** I continued with re-creating the uHost-project (from the CSS-course) - changed the units to responsive ones (rem, %), did the Start-Hosting-page.
 
 **Thoughts:** I didn´t succeed with designing the button-bar using css. :-( I will come to it tomorrow again. 
 
