@@ -532,6 +532,9 @@ Some resources: [Environment Variables in windows](http://www.dowdandassociates.
 
 **Thoughts:** I didn´t succeed with designing the hamburger-menu using css. :-( I will come to it tomorrow again. 
 
+### Day 88 - 9.11.2018 (Fri)
+**Today´s Progress:** I continued with re-creating the uHost-project (from the CSS-course) - styled the modal, backdrop, added eventListeners  to the buttons on the main-page. 
+
 
 
 
