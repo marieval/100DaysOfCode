@@ -537,5 +537,8 @@ Some resources: [Environment Variables in windows](http://www.dowdandassociates.
 
 ### -- Day off - 10.11.2018 (Sat) --
 
+### Day 89 - 11.11.2018 (Sun)
+**Today´s Progress:** I continued with re-creating the uHost-project (from the CSS-course) - added mobile-nav-menu, improving responsivity.
+
 
 
