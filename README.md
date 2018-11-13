@@ -541,6 +541,11 @@ Some resources: [Environment Variables in windows](http://www.dowdandassociates.
 **Today´s Progress:** I continued with re-creating the uHost-project (from the CSS-course) - added mobile-nav-menu, improving responsivity.
 
 ### Day 90 - 12.11.2018 (Mon)
-**Today´s Progress:** I continued with re-creating the uHost-project (from the CSS-course) - eventListeners, responsivity.
+**Today´s Progress:** I continued with re-creating the uHost-project (from the CSS-course) - eventListeners, added responsivity.
+
+### Day 91 - 13.11.2018 (Tue)
+**Today´s Progress:** I wanted to learn more about transforms and animations, so I started the course which I bought already more than month ago at Udemy - [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/).
+
+**Thoughts:** __Clip-path:__ for clipping background or image to different shapes (using polygon() ). __Centering:__ Using ```position: absolute; top: 50%; left: 50%;``` (% is relative to the positioned ancestor) in combination with ```transform: translate(-50%, -50%);``` (% is relative to the element itself).
 
 
