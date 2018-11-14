@@ -548,4 +548,9 @@ Some resources: [Environment Variables in windows](http://www.dowdandassociates.
 
 **Thoughts:** __Clip-path:__ for clipping background or image to different shapes (using polygon() ). __Centering:__ Using ```position: absolute; top: 50%; left: 50%;``` (% is relative to the positioned ancestor) in combination with ```transform: translate(-50%, -50%);``` (% is relative to the element itself).
 
+### Day 92 - 14.11.2018 (Wed)
+**Today´s Progress:** I continue with the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/) - using ```::after``` pseudoclass, using _animation_, _transition_, _transform (translate, scale)_.
+
+**Thoughts:** I don´t do the code-along, but instead I watch the whole video on a topic first and after finishing it I try to re-do it (so that I must try to remember and recall the things from the video). I find this approach much better! 
+
 
