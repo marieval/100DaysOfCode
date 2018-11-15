@@ -553,4 +553,14 @@ Some resources: [Environment Variables in windows](http://www.dowdandassociates.
 
 **Thoughts:** I don´t do the code-along, but instead I watch the whole video on a topic first and after finishing it I try to re-do it (so that I must try to remember and recall the things from the video). I find this approach much better! 
 
+### Day 93 - 15.11.2018 (Thu)
+**Today´s Progress:** I continue with the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/) - section How CSS Works: A Look Behind The Scenes. 
+
+**Thoughts:** 
+_percentage of lengths:_ (height/padding/margin/... expressed in %) - the reference is always the parent-element´s _width_!!!
+
+_em for fonts:_ the reference is the parent-element font-size. _em for lengths:_ the reference is the current element´s computed font-size!
+
+_Inheritance:_ Inherited are the _computed values_ in px (not the declared values - e.g. in %)!
+
 
