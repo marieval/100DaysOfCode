@@ -563,4 +563,7 @@ _em for fonts:_ the reference is the parent-element font-size. _em for lengths:_
 
 _Inheritance:_ Inherited are the _computed values_ in px (not the declared values - e.g. in %)!
 
+### Day 94 - 16.11.2018 (Fri)
+**Today´s Progress:** I continue with the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/) - started with SCSS, auto-compiling and auto-reload of the page. Created _fluid-grid_. Began using _Emmet_. Learned about _utility-classes_ and started using them in the project.
 
+**Thoughts:** _auto-compiling:_ used node-sass together with nodemon, for _auto-reload:_ used live-server.
