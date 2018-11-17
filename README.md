@@ -564,6 +564,18 @@ _em for fonts:_ the reference is the parent-element font-size. _em for lengths:_
 _Inheritance:_ Inherited are the _computed values_ in px (not the declared values - e.g. in %)!
 
 ### Day 94 - 16.11.2018 (Fri)
-**Today´s Progress:** I continue with the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/) - started with SCSS, auto-compiling and auto-reload of the page. Created _fluid-grid_. Began using _Emmet_. Learned about _utility-classes_ and started using them in the project.
+**Today´s Progress:** I continue with the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/) - started with Sass / SCSS, auto-compiling and auto-reload of the page. Created _fluid-grid_. Began using _Emmet_. Learned about _utility-classes_ and started using them in the project.
 
 **Thoughts:** _auto-compiling:_ used node-sass together with nodemon, for _auto-reload:_ used live-server.
+
+### Day 95 - 17.11.2018 (Sat)
+**Today´s Progress:** I continue with the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/) - created another section (with images reacting on hover).
+
+**Thoughts:** _Line around an image:_ using _outline_: ```outline: 1rem solid rgb(0,0,0,);``` on element:hover; and ```outline-offset: 1rem;``` on element itself. 
+
+_Icons:_ [linea.io](linea.io) - for downloading and free to use.
+
+_Skew the background-image:_ use ```transform: skew(-7deg);``` on the section; and ```transform: skew(7deg);``` on all the section´s direct children (using ```>```). 
+
+
+
