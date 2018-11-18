@@ -577,5 +577,14 @@ _Icons:_ [linea.io](linea.io) - for downloading and free to use.
 
 _Skew the background-image:_ use ```transform: skew(-7deg);``` on the section; and ```transform: skew(7deg);``` on all the section´s direct children (using ```>```). 
 
+### Day 96 - 18.11.2018 (Sun)
+**Today´s Progress:** I continue with the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/) - beginning creating another section (with cards flipping on hover).
+
+**Thoughts:** When I make all element´s children to ```position: absolute;```, the element itself collapses (as with floats) => We must set the same height to element itself and to the child.
+
+_linear-gradient:_ works with ```background-image:....``` (not ```background-color```!!)
+
+_perspective:_ when higher numbers (as 150rem) - looks more natural as flipping. For mozzilla needed the prefix! (```-moz-perspective:...```)
+
 
 
