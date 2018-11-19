@@ -586,5 +586,21 @@ _linear-gradient:_ works with ```background-image:....``` (not ```background-col
 
 _perspective:_ when higher numbers (as 150rem) - looks more natural as flipping. For mozzilla needed the prefix! (```-moz-perspective:...```)
 
+### Day 97 - 19.11.2018 (Mon)
+**Today´s Progress:** I continue with the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/) - finished the section from yesterday, made the section Stories. Used ```background-blend-mode, box-decoration-break, shape-outside, filter, object-fit...```
+
+**Thoughts:** 
+
+_Background-blend-mode: screen;_ - used for adjusting the colors/hues of an image (adjusting the color to a specific color). (Not supported in some browsers!)
+
+_Box-decoration-break: clone;_ - used for maintaining of the padding even after splitting of the row.
+
+_Flexible images in responsive web sites:_ must have always specified _width_!
+
+_Shape-outside: circle(50% at 50% 50%);_ - surrounding text is in the shape of the circle (the element must be floated and must have specified width and height!)
+
+_Video in the background:_ for fitting: ```height: 100%; width: 100%; object-fit: cover;```
+
+
 
 
