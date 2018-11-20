@@ -601,6 +601,18 @@ _Shape-outside: circle(50% at 50% 50%);_ - surrounding text is in the shape of t
 
 _Video in the background:_ for fitting: ```height: 100%; width: 100%; object-fit: cover;```
 
+### Day 98 - 20.11.2018 (Tue)
+**Today´s Progress:** I continue with the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/) - made the form-section. Used solid-color gradients, general ```~``` and adjacent ```+``` sibling selectors, ```:invalid, :focus, :checked```.
+
+**Thoughts:**
+
+_Radiobuttons:_ To be considered as the same group, the input must have the same ```name="..."``` attribute. Radiobuttons can´t be styled in CSS - we must build our own instead (and the original make ```display: none;```.
+
+_Forms:_ We must use ```button``` (not the ```a```) - because the form understands the button as the submit. 
+
+_Button:_ By default have a border. They have ```focus``` - we can remove this by adding ```outline: none;``` to the ```button:focus``` (but there must be some other way how it´s clear that it´s active!).
+
+
 
 
 
