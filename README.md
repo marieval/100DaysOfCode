@@ -612,7 +612,12 @@ _Forms:_ We must use ```button``` (not the ```a```) - because the form understan
 
 _Button:_ By default have a border. They have ```focus``` - we can remove this by adding ```outline: none;``` to the ```button:focus``` (but there must be some other way how it´s clear that it´s active!).
 
+### Day 99 - 21.11.2018 (Wed)
+**Today´s Progress:** I continue with the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/) - Finished the section Natours-project: Using advanced CSS and Sass. Learned how to use _checkbox-hack_ and _popup-window_. Using ```radial-gradient, :target, display: table-cell, column-count, hyphens```.
 
+**Thoughts:**
+
+_cubic-bezier helping-tools:_ cubic-bezier.com, easings.net
 
 
 
