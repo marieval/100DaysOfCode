@@ -624,8 +624,27 @@ _cubic-bezier helping-tools:_ cubic-bezier.com, easings.net
 
 **Thoughts:** _To influence only touch-devices + mobile-phones:_ ```
 @media only screen and (max-width: 56.25em),
-       only screen and (hover: none) {........}
-```
+       only screen and (hover: none) {........}```
+
+### WOWWW!!! 
+### It´s Day 100!!! 
+
+**Let´s sum up:** During those 100 days I did some coding or I learned some new stuff (approximately 3 hours a day - sometimes just 1-2 hours, sometimes 5-6 hours, as much as was possible). I missed just 4 days (after days 15, 70, 75, 88 - but of course I didn´t count those skipped days, so it took me 4-days longer than planned.)
+
+**I feel much more confident in:** _CSS, Sass (SCSS), Responsive websites, JavaScript, Command-line, Git, npm, connection of the page with a database,..._
+
+**My plans:** 
+-- Create a website using the obtained knowledge (using BEM, Sass, Resp. design).
+-- Create a website using also JavaScript
+-- Recreate my project from FCC with my current knowledge
+-- Participate in the monthly-challenges of Zero-To-Mastery 
+-- Contribute to non-profit (probably through Zero-To-Mastery)
+-- Push my projects to GitHub (or elsewhere)
+-- Learn React in more detail
+
+ 
+
+
 
 
 
