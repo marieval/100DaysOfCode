@@ -619,5 +619,15 @@ _Button:_ By default have a border. They have ```focus``` - we can remove this b
 
 _cubic-bezier helping-tools:_ cubic-bezier.com, easings.net
 
+### Day 100 - 22.11.2018 (Thu)
+**Today´s Progress:** I finished the Natours project in the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/) (last sections: _Responsive Web.-Design_ (esp. _responsive images_), _Browser-support, npm_ and _automation._ Used ```backdrop-filter, ::selection,...```
+
+**Thoughts:** _To influence only touch-devices + mobile-phones:_ ```
+@media only screen and (max-width: 56.25em),
+       only screen and (hover: none) {........}
+```
+
+
+
 
 
