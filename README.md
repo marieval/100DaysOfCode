@@ -627,9 +627,8 @@ _cubic-bezier helping-tools:_ cubic-bezier.com, easings.net
        only screen and (hover: none) {........}```
 
 
-### *******************************************************************
-### ********** !!! WOWWW !!! **********
-### ********** It´s Day 100!!! **********
+### **********************************************************************
+### ******************* !!! WOWWW !!!  It´s Day 100!!! *******************
 
 **Let´s sum up:** During those 100 days I did some coding or I learned some new stuff (approximately 3 hours a day - sometimes just 1-2 hours, sometimes 5-6 hours, as much as was possible). I missed just 4 days (after days 15, 70, 75, 88 - but of course I didn´t count those skipped days, so it took me 4-days longer than planned.)
 
@@ -643,7 +642,12 @@ _cubic-bezier helping-tools:_ cubic-bezier.com, easings.net
 // - Push my projects to GitHub (or elsewhere). -
 // - Learn React in more detail. -
 
-### ******************************************************************* 
+### ********************************************************************** 
+
+### Day 101 - 23.11.2018 (Fri)
+**Today´s Progress:** I started a new project Quotes For Every Day (functionally similar to the one at FCC, which I did more than 1 year ago).  I decided to use Sass+BEM, so I did the basic setup for the project. I used the command line for creating the project folders/files. 
+
+**Thoughts:** For creating a new file in Git Bash (in Windows): ```> base.scss```.
 
 
 
