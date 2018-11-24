@@ -649,6 +649,12 @@ _cubic-bezier helping-tools:_ cubic-bezier.com, easings.net
 
 **Thoughts:** For creating a new file in Git Bash (in Windows): ```> base.scss```.
 
+### Day 102 - 24.11.2018 (Sat)
+**Today´s Progress:** I continued with the project Quotes For Every Day - finished the layout, added responsivity. 
+
+**Thoughts:** I had problem animating the button (releasing the pressed button) - it helped to make it an ```a``` element (instead of ```button``` element). 
+Again, I have a problem with positioning the footer - so that it sticks to the bottom of the viewport if there is not enough content, but when making the viewport smaller (and so the content can´t fit to the viewport anymore), I want the footer to be completely at the bottom.  I know that I can solve it using flexbox, but I wanted to try some other solution. 
+
 
 
 
