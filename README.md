@@ -655,6 +655,9 @@ _cubic-bezier helping-tools:_ cubic-bezier.com, easings.net
 **Thoughts:** I had problem animating the button (releasing the pressed button) - it helped to make it an ```a``` element (instead of ```button``` element). 
 Again, I have a problem with positioning the footer - so that it sticks to the bottom of the viewport if there is not enough content, but when making the viewport smaller (and so the content can´t fit to the viewport anymore), I want the footer to be completely at the bottom.  I know that I can solve it using flexbox, but I wanted to try some other solution. 
 
+### Day 103 - 25.11.2018 (Sun)
+**Today´s Progress:** I finished the project Quotes For Every Day (except JS which I want to do later). I searched and tried several solutions for the footer-issue, but I wasn´t really satisfied with any of them (I wanted to have it really responsive - without fixed height of the footer), so I finally decided to use flexbox for it. ;-)
+
 
 
 
