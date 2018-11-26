@@ -658,6 +658,10 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 ### Day 103 - 25.11.2018 (Sun)
 **Today´s Progress:** I finished the project Quotes For Every Day (except JS which I want to do later). I searched and tried several solutions for the footer-issue, but I wasn´t really satisfied with any of them (I wanted to have it really responsive - without fixed height of the footer), so I finally decided to use flexbox for it. ;-)
 
+### Day 104 - 26.11.2018 (Mon)
+**Today´s Progress:** I did some improvements in the project Quotes For Every Day. I started a new project (similar to the one which I did more than 1 year ago as a FCC project) - Local Weather App. I did the setup and basic layout of the project. I want some refresher about the details regarding Flexbox, so I started the Flexbox-section in the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/). 
+
+
 
 
 
