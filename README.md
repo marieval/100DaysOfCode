@@ -661,6 +661,9 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 ### Day 104 - 26.11.2018 (Mon)
 **Today´s Progress:** I did some improvements in the project Quotes For Every Day. I started a new project (similar to the one which I did more than 1 year ago as a FCC project) - Local Weather App. I did the setup and basic layout of the project. I want some refresher about the details regarding Flexbox, so I started the Flexbox-section in the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/). 
 
+### Day 105 - 27.11.2018 (Tue)
+**Today´s Progress:** I continued with the Flexbox-section in the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/). Learned about _CSS variables_, using _SVG icons_ and using ```fill: currentElement;``` to change the color to the same as the parent, and about changing the color/font-weight/... of the _placeholder text_ (using ```&::-webkit-input-placeholder { ..... };
+
 
 
 
