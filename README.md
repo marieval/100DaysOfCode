@@ -670,7 +670,9 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 **Thoughts:** To find all the _npm packages which are installed globally:_ ``` npm list -g --depth 0```
 
 ### Day 107 - 29.11.2018 (Thu)
-**Today´s Progress:** I revised the new features of JavaScript - I went through my notes and some parts of the Complete JavaScript Course, and then I did the section revising JavaScript in the Node.js course.
+**Today´s Progress:** I revised the new features of JavaScript - I went through my notes and some parts of [The Complete JavaScript Course](https://www.udemy.com/the-complete-javascript-course/), and then I did the section A Quick Refresher: JavaScript in the [Node.js: the Complete Guide course](https://www.udemy.com/nodejs-the-complete-guide/).
+
+**Thoughts:** I understood better the _arrow functions_, _spread_ and _rest operator_, _destructuring_ and _asynchronous JS (promises)_.
 
 
 
