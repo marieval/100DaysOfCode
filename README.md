@@ -675,7 +675,7 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 **Thoughts:** I understood better the _arrow functions_, _spread_ and _rest operator_, _destructuring_ and _asynchronous JS (promises)_.
 
 ### Day 108 - 30.11.2018 (Fri)
-**Today´s Progress:** I added the JavaScript functionality to the project _Quotes For Every Day_ - after pressing button display a random quote from API (used _async JS - fetch_), and the possibility to _tweet the quote_.
+**Today´s Progress:** I added the JavaScript functionality to the project _Quotes For Every Day_ - display a random quote from API (used _async JS - fetch_) after pressing the new-button,  _tweet the quote_ after pressing the tweet-button.
 
 **Thoughts:** I´m excited that I was able to do it quite quickly and it works as intended! I like the ES6 syntax! 
 
