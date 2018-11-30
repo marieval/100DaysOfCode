@@ -656,10 +656,10 @@ _cubic-bezier helping-tools:_ cubic-bezier.com, easings.net
 Again, I have a problem with positioning the footer - so that it sticks to the bottom of the viewport if there is not enough content, but when making the viewport smaller (and so the content can´t fit to the viewport anymore), I want the footer to be completely at the bottom.  I know that I can solve it using flexbox, but I wanted to try some other solution. 
 
 ### Day 103 - 25.11.2018 (Sun)
-**Today´s Progress:** I finished the project Quotes For Every Day (except JS which I want to do later). I searched and tried several solutions for the footer-issue, but I wasn´t really satisfied with any of them (I wanted to have it really responsive - without fixed height of the footer), so I finally decided to use flexbox for it. ;-)
+**Today´s Progress:** I finished the project _Quotes For Every Day_ (except JS which I want to do later). I searched and tried several solutions for the footer-issue, but I wasn´t really satisfied with any of them (I wanted to have it really responsive - without fixed height of the footer), so I finally decided to use flexbox for it. ;-)
 
 ### Day 104 - 26.11.2018 (Mon)
-**Today´s Progress:** I did some improvements in the project Quotes For Every Day. I started a new project (similar to the one which I did more than 1 year ago as a FCC project) - Local Weather App. I did the setup and basic layout of the project. I want some refresher about the details regarding Flexbox, so I started the Flexbox-section in the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/). 
+**Today´s Progress:** I did some improvements in the project _Quotes For Every Day_. I started a new project (similar to the one which I did more than 1 year ago as a FCC project) - Local Weather App. I did the setup and basic layout of the project. I want some refresher about the details regarding Flexbox, so I started the Flexbox-section in the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/). 
 
 ### Day 105 - 27.11.2018 (Tue)
 **Today´s Progress:** I continued with the Flexbox-section in the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/). Learned about _CSS variables_, using _SVG icons_ and using ```fill: currentElement;``` to change the color to the same as the parent, and about changing the color/font-weight/... of the _placeholder text_ (using ```&::-webkit-input-placeholder { ..... };```
@@ -674,6 +674,10 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 
 **Thoughts:** I understood better the _arrow functions_, _spread_ and _rest operator_, _destructuring_ and _asynchronous JS (promises)_.
 
+### Day 108 - 30.11.2018 (Fri)
+**Today´s Progress:** I added the JavaScript functionality to the project _Quotes For Every Day_ - after pressing button display a random quote from API (used _async JS - fetch_), and the possibility to _tweet the quote_.
+
+**Thoughts:** I´m excited that I was able to do it quite quickly and it works as intended! I like the ES6 syntax! 
 
 
 
