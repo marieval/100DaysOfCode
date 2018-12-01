@@ -679,6 +679,7 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 
 **Thoughts:** I´m excited that I was able to do it quite quickly and it works as intended! I like the ES6 syntax! 
 
+### -- Day off - 1.12.2018 (Sat) --
 
 
 
