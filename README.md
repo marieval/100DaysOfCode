@@ -682,11 +682,14 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 
 ### -- Day off - 1.12.2018 (Sat) --
 
-### Day 109 - 1.12.2018 (Sun)
+### Day 109 - 2.12.2018 (Sun)
 **Today´s Progress:** I did the _Node.js Crash Course_ at the [The Complete JavaScript Course](https://www.udemy.com/the-complete-javascript-course/) - I learned more about _Node.js_, _server creating_, _routing_, and creating _HTML using templates_. 
 
-### Day 110 - 2.12.2018 (Mon)
+### Day 110 - 3.12.2018 (Mon)
 **Today´s Progress:** I learned about the _Basics of Node.js_ at the course Node.js: The Complete Guide. (In more detail: _Starting a server, routing, redirecting,..._
+
+### Day 111 - 4.12.2018 (Tue)
+**Today´s Progress:** I did the challenge of the _Node.js_ course, Section Basics of Node.js - I started my own server and processed two scenarios/routings. I learned about _reading and writing files_ in an app using Node.js.
 
 
 
