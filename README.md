@@ -695,5 +695,12 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 **Today´s Progress:** I learned using the _Express.js_ in the course Node.js: _adding middleware, routing, creating and serving html files, serving files statically._ I did the challenge No2 - create an app with two routes and serving a file statically. 
 
 
+### Day 113 - 6.12.2018 (Thu)
+**Today´s Progress:** I learned about _adding dynamic content_ and using _templating engines: EJS, Pug, Handlebars_ (with EJS I worked more). Learned how to _loop in ejs_, how to use _partials/include_ in ejs and using _conditional adding of a class to an element_.
+
+**Today´s Progress:** I got stuck with the challenge - I need more practice... I wish I had more time to learn and practice during the day! :-(
+
+
+
 
 
