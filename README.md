@@ -701,7 +701,7 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 **Today´s Progress:** I got stuck with the challenge - I need more practice... I wish I had more time to learn and practice during the day! :-(
 
 ### Day 114 - 7.12.2018 (Fri)
-**Today´s Progress:** I did the challenge from yesterday - I feel I understand more of the topic now! I learned about _MVC_ (modules-views-controls) and how to use them. Also, I learned how to _load data from a file_ and _save data to a file_. 
+**Today´s Progress:** I did the challenge from yesterday - I feel I understand more of the topic now! I learned about using _MVC_ (_modules-views-controls_). Also, I learned how to _load data from a file_ and _save data to a file_. 
 
 
 
