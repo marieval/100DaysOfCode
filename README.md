@@ -703,5 +703,5 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 ### Day 114 - 7.12.2018 (Fri)
 **Today´s Progress:** I did the challenge from yesterday - I feel I understand more of the topic now! I learned about using _MVC_ (_modules-views-controls_). Also, I learned how to _load data from a file_ and _save data to a file_. 
 
-
-
+### Day 115 - 8.12.2018 (Sat)
+**Today´s Progress:** I finished the section _Dynamic Routes & Advanced Models_ of the _Node.js_ course. Learned how to use _dynamic parameters_ (using _:name_ -  ```router.get("/products/:productId");```, extracting it using _req.params_ - ```const prodId = req.params.productId;``` ). Read [The Node.js Handbook](https://nodehandbook.com/) for better understanding. 
