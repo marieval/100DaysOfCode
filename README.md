@@ -715,6 +715,6 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 ### -- Day off - 11.12.2018 (Tue) --
 
 ### Day 118 - 12.12.2018 (Wed)
-**Today´s Progress:** I was successful with solving all the problems regarding non-functioning MySQL (on my Windows PC) and I continued with the section on MySQL of the Node.js course. 
+**Today´s Progress:** I was successful with solving all the problems regarding non-functioning MySQL (on my Windows PC) and I continued with the section on _MySQL_ of the Node.js course. 
 
 
