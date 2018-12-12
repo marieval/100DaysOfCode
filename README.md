@@ -708,3 +708,13 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 
 ### Day 116 - 9.12.2018 (Sun)
 **Today´s Progress:** I started the section about _Databases (SQL and NoSQL)_ of the Node.js course. I spent a long time trying to install the MySQL on my Windows 7 PC, googled various advice but didn´t succeed. So I tried installing it on the other PC with _Linux_ Mint, which is not supported by the installations, I was partly successful, but got stuck again after starting it. :-( I´m disappointed that after so much time spent I don´t have the things working, but I try to take from it the better part - I _learned to use linux_ a bit. :-D 
+
+### Day 117 - 10.12.2018 (Mon)
+**Today´s Progress:** Today I couldn´t be at my computer, so I started reading a book _Web Development with Node & Express_ (by Ethan Brown) - It´s great for further explaining the stuff from the Node.js-course! 
+
+### -- Day off - 11.12.2018 (Tue) --
+
+### Day 118 - 12.12.2018 (Wed)
+**Today´s Progress:** I was successful with solving all the problems regarding non-functioning MySQL (on my Windows PC) and I continued with the section on MySQL of the Node.js course. 
+
+
