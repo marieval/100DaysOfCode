@@ -717,7 +717,7 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 ### Day 118 - 12.12.2018 (Wed)
 **Today´s Progress:** I was successful with solving all the problems regarding non-functioning MySQL (on my Windows PC) and I continued with the section on _MySQL_ of the Node.js course. 
 
-### Day 118 - 12.12.2018 (Wed)
+### Day 119 - 13.12.2018 (Thu)
 **Today´s Progress:** I continued working with the _MySQL database_ using sql-queries (now my previous knowledge from the SQL courses and workshops are great!). I started the section about _Sequelize_ at the Node.js course. 
 
 
