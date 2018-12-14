@@ -720,6 +720,11 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 ### Day 119 - 13.12.2018 (Thu)
 **Today´s Progress:** I continued working with the _MySQL database_ using sql-queries (now my previous knowledge from the SQL courses and workshops are great!). I started the section about _Sequelize_ at the Node.js course. 
 
+### Day 120 - 14.12.2018 (Fri)
+**Today´s Progress:** I continued with _Sequelize_: how to connect Sequelize with MySQL, how to create new table through Sequelize, use the table...
+
+**Thoughts:** I think I´m doing only small progress, I´m learning and improving so slowly! I wish I had more time to learn and code!!! :-/
+
 
 
 
