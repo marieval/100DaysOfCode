@@ -725,6 +725,11 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 
 **Thoughts:** I think I´m doing only small progress, I´m learning and improving so slowly! I wish I had more time to learn and code!!! :-/
 
+### Day 121 - 15.12.2018 (Sat)
+**Today´s Progress:** I finished the section about _MySQL_ and _Sequelize_: how to create new items in tables, delete the items, how to create connections (associations) between tables.
+
+**Thoughts:** Now it seems everything clear, but I must practice it on my own project (and then use especially the [Sequelize-docs](http://docs.sequelizejs.com).
+
 
 
 
