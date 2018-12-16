@@ -730,6 +730,9 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 
 **Thoughts:** Now it seems everything clear, but I must practice it on my own project (and then use especially the [Sequelize-docs](http://docs.sequelizejs.com).
 
+### Day 122 - 16.12.2018 (Sun)
+**Today´s Progress:** Today I had less time to code/learn. :-( However, I learned the basics about _MongoDB_ and its settings. Also, I continued reading the book _Web Development with Node & Express_.
+
 
 
 
