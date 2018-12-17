@@ -733,6 +733,8 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 ### Day 122 - 16.12.2018 (Sun)
 **Today´s Progress:** Today I had less time to code/learn. :-( However, I learned at least the basics about _MongoDB_ and its settings. Also, I continued reading the book _Web Development with Node & Express_.
 
+### Day 123 - 17.12.2018 (Mon)
+**Today´s Progress:** I continued working with _MongoDB_ (at Node.js course).
 
 
 
