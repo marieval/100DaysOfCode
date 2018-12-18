@@ -736,6 +736,10 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 ### Day 123 - 17.12.2018 (Mon)
 **Today´s Progress:** I continued working with _MongoDB_ (at Node.js course).
 
+### Day 124 - 18.12.2018 (Tue)
+**Today´s Progress:** I learned in more detail about _Asynchronous Requests_, _REST APIs_, _CORS errors_ and its server-side solution, and _Async Await_. 
+
+
 
 
 
