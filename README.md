@@ -739,6 +739,8 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 ### Day 124 - 18.12.2018 (Tue)
 **Today´s Progress:** I learned in more detail about _Asynchronous Requests_, _REST APIs_, _CORS errors_ and its server-side solution, and _Async Await_. 
 
+### Day 125 - 19.12.2018 (Wed)
+**Today´s Progress:** I learned about _Sessions_ and _Cookies_. I learned in more detail about _CSS Grid_ (The first part of the CSS-Grid in the Advanced CSS course).
 
 
 
