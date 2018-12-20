@@ -743,5 +743,9 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 **Today´s Progress:** I learned about _Sessions_ and _Cookies_. I learned in more detail about _CSS Grid_ (The first part of the CSS-Grid in the Advanced CSS course).
 
 
+### Day 126 - 20.12.2018 (Thu)
+**Today´s Progress:** I continued with the _CSS Grid_ - it´s usage in practice (nested CSS-grids, combination of css-grids and flexbox,...).
+
+
 
 
