@@ -748,6 +748,7 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 ### Day 127 - 21.12.2018 (Fri)
 **Today´s Progress:** I finished the _CSS Grid_ part of the Advanced CSS and Sass course on Udemy. I learned basics about _Web Design_ (quick course Web Design for Web Developers: Build Beautiful Websites - on Udemy).
 
-
+### Day 128 - 22.12.2018 (Sat)
+**Today´s Progress:** I did the CSS of my Weather-App project. 
 
 
