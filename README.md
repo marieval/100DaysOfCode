@@ -751,4 +751,5 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 ### Day 128 - 22.12.2018 (Sat)
 **Today´s Progress:** I did the CSS of my Weather-App project. 
 
-
+### Day 129 - 23.12.2018 (Sun)
+**Today´s Progress:** I worked on the functionality of the Weather-App (JavaScript part).
