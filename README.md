@@ -753,3 +753,10 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 
 ### Day 129 - 23.12.2018 (Sun)
 **Today´s Progress:** I worked on the functionality of the Weather-App (JavaScript part).
+
+### -- Day off - 24.12.2018 (Mon) --
+
+### Day 130 - 25.12.2018 (Tue)
+**Today´s Progress:** I continued on fetching the weather-info from the https://openweathermap.org/ for my _Weather-App_. 
+
+
