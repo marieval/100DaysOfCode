@@ -759,4 +759,7 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 ### Day 130 - 25.12.2018 (Tue)
 **Today´s Progress:** I continued on working on my _Weather-App_ (getting the weather-info from the openweatherma API). Read through my notes about JavaScript. 
 
+### Day 131 - 26.12.2018 (Wed)
+**Today´s Progress:** Working on my _Weather-App_ (added finding the position using http://ip-api.com). Came to a problem with fetch-then-catch, so I searched for more detailed info about this topic).
+
 
