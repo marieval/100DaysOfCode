@@ -762,4 +762,9 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 ### Day 131 - 26.12.2018 (Wed)
 **Today´s Progress:** Working on my _Weather-App_ (added finding the position using http://ip-api.com). Came to a problem with fetch-then-catch, so I searched for more detailed info about this topic).
 
+**Thoughts:** Should I use _fetch()_? Its support is about only 87% now. Its use seems to be easy, but there are some "problems" and when we consider these, it´s not so straightforward. (Described in ([Why I still use XHR instead of the Fetch API](https://gomakethings.com/why-i-still-use-xhr-instead-of-the-fetch-api/) and in [Using Fetch (on CSS-Tricks)](https://css-tricks.com/using-fetch/). Summary also here: [Understand Fetch API](https://flaviocopes.com/fetch-api/).
+
+Great for trying projects with fake _REST API _: https://jsonplaceholder.typicode.com/ 
+
+
 
