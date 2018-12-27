@@ -766,5 +766,8 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 
 Great for trying projects with fake _REST API _: https://jsonplaceholder.typicode.com/ 
 
+### Day 132 - 27.12.2018 (Thu)
+**Today´s Progress:** I would like to use the API in "nicer" way, use _axios_ (instead of pure fetch) and use the MVC for my Weather-App, but because I´m not sure how to implement it, so I revised the final section of the Complete JavaScript course (forkify project), where all these were used.
+
 
 
