@@ -769,5 +769,8 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 ### Day 132 - 27.12.2018 (Thu)
 **Today´s Progress:** I would like to use the API in "nicer" way, use _axios_ (instead of pure fetch) and use the MVC for my Weather-App, but because I´m not sure how to implement it, so I revised the final section of the Complete JavaScript course (forkify project), where all these were used.
 
+### Day 133 - 28.12.2018 (Fri)
+**Today´s Progress:** I revised the parts of the forkify-project (how the state is stored, how a controllers and views are implemented in practice). 
+
 
 
