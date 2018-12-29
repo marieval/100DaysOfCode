@@ -772,5 +772,9 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 ### Day 133 - 28.12.2018 (Fri)
 **Today´s Progress:** I revised the parts of the forkify-project (how the state is stored, how a controllers and views are implemented in practice). 
 
+### Day 134 - 29.12.2018 (Sat)
+**Today´s Progress:** I´m going to create my own app: _Plan-App_. I did planning of the parts, functionalities and connections (on paper), and after I did the setup of the whole folder, installed the npm-packages (babel,..., node-sass, nodemon, webpack...). I would like to use MVC architecture (so I want to use webpack for bundling) and I´d like to use Sass (using node-sass for compiling). I tested the setting and there is some bug - the compilation of scss to sass doesn´t work. :-(
+
+
 
 
