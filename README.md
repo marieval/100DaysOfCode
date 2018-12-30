@@ -776,6 +776,6 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 **Today´s Progress:** I´m going to create my own app: _Plan-App_. I did planning of the parts, functionalities and connections (on paper), and then I did the setup of the whole folder, installed the npm-packages (babel,..., node-sass, nodemon, webpack...). I would like to use MVC architecture (so I want to use webpack for bundling) and I´d like to use Sass (using node-sass for compiling). I tested the setting and there is some bug - the compilation of scss to sass doesn´t work. :-(
 
 ### Day 135 - 30.12.2018 (Sun)
-**Today´s Progress:** I read more about webpack and its setting, also about using it together with Sass. [This article at hackernoon](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1) helped a lot: Finally the whole setting works! 
+**Today´s Progress:** I read more about _Webpack_ and its setting, and also about using it together with _Sass_. [This article about Webpack 4 setting at hackernoon](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1) helped a lot: Finally the whole setting works! 
 
 
