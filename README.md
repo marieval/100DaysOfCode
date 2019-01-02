@@ -783,4 +783,4 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 ### -- Day off - 1.1.2019 (Tue) --
 
 ### Day 136 - 2.1.2019 (Wed)
-**Today´s Progress:** I finished reading the book _Web Development with Node & Express_ (by Ethan Brown). 
+**Today´s Progress:** I finished the book _Web Development with Node & Express_ (by Ethan Brown). 
