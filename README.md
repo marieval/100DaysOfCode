@@ -778,9 +778,15 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 ### Day 135 - 30.12.2018 (Sun)
 **Today´s Progress:** I read more about _Webpack_ and its setting, and also about using it together with _Sass_. [This article about Webpack 4 setting at hackernoon](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1) helped a lot: Finally the whole setting works! 
 
-### -- Day off - 21.12.2018 (Mon) --
+### -- Day off - 31.12.2018 (Mon) --
 
 ### -- Day off - 1.1.2019 (Tue) --
 
 ### Day 136 - 2.1.2019 (Wed)
 **Today´s Progress:** I finished the book _Web Development with Node & Express_ (by Ethan Brown). 
+
+### Day 137 - 3.1.2019 (Thu)
+**Today´s Progress:** I reviewed using Git (I want to use it when working on my Plan-App/Plan-Up project.) I did the basic HTML structure of the project. 
+
+
+
