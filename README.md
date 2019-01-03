@@ -786,7 +786,7 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 **Today´s Progress:** I finished the book _Web Development with Node & Express_ (by Ethan Brown). 
 
 ### Day 137 - 3.1.2019 (Thu)
-**Today´s Progress:** I reviewed using Git (I want to use it when working on my Plan-App/Plan-Up project.) I did the basic HTML structure of the project. 
+**Today´s Progress:** I reviewed using Git (I want to use it when working on my Plan-App/Plan-Up project.). I created _new repository for my Plan-Up project on_GitHub_ and pushed the project-structure there. I did the basic HTML structure of the project. 
 
 
 
