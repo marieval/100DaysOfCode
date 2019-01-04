@@ -788,5 +788,9 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 ### Day 137 - 3.1.2019 (Thu)
 **Today´s Progress:** I reviewed using Git (I want to use it when working on my Plan-App/Plan-Up project.). I created _new repository for my Plan-Up project on_GitHub_ and pushed the project-structure there. I did the basic HTML structure of the project. 
 
+### Day 138 - 4.1.2019 (Fri)
+**Today´s Progress:** I continued with my _Plan-Up project_ (its css).
+
+
 
 
