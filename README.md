@@ -791,6 +791,7 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 ### Day 138 - 4.1.2019 (Fri)
 **Today´s Progress:** I continued with my _Plan-Up project_ (its css).
 
-
+### Day 139 - 5.1.2019 (Sat)
+**Today´s Progress:** I added JavaScript to my _Plan-Up project_. I tried to implement the MVC-architecture. It´s not complete yet, but I hope that I manage to make it all work! 
 
 
