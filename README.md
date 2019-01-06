@@ -795,6 +795,6 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 **Today´s Progress:** I added JavaScript to my _Plan-Up project_. I tried to implement the MVC-architecture. It´s not complete yet, but I hope that I manage to make it all work...
 
 ### Day 140 - 6.1.2019 (Sun)
-**Today´s Progress:** I worked on my _Plan-Up project_ and its JavaScript part: Now you can add a new task and after add-btn-click it´s added to the to-do list. Now I´m working on delete-item functionality. 
+**Today´s Progress:** I worked on my _Plan-Up project_ and its JavaScript part: _Add-btn_ is working! (You can add a new task and after add-btn-click it´s added to the to-do list.) _Delete-btn_ is also working! (You can delete individual tasks from the to-do list.) 
 
 
