@@ -797,4 +797,9 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 ### Day 140 - 6.1.2019 (Sun)
 **Today´s Progress:** I worked on my _Plan-Up project_ and its JavaScript part: _Add-btn_ is working! (You can add a new task and after add-btn-click it´s added to the to-do list.) _Delete-btn_ is also working! (You can delete individual tasks from the to-do list.) 
 
+### Day 141 - 7.1.2019 (Mon)
+**Today´s Progress:** I continued working on my _Plan-Up project_: set and display _dates from/until_ and _compute days remaining_. (The dates are stored in the form of timestamp.)
+
+
+
 
