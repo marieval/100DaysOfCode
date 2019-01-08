@@ -800,6 +800,9 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 ### Day 141 - 7.1.2019 (Mon)
 **Today´s Progress:** I continued working on my _Plan-Up project_: set and display _dates from/until_ and _compute days remaining_. (The dates are stored in the form of timestamp.)
 
+### Day 142 - 8.1.2019 (Tue)
+**Today´s Progress:** I added _SVG icons_ (from icomoon.io) and had to re-do the html and css to be positioned as I intended. 
+
 
 
 
