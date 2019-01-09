@@ -803,6 +803,11 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 ### Day 142 - 8.1.2019 (Tue)
 **Today´s Progress:** I added _SVG icons_ (from icomoon.io) and had to re-do the html and css to be positioned as I intended. 
 
+### Day 143 - 9.1.2019 (Wed)
+**Today´s Progress:** I worked on the css of the taskList in my _Plan-Up project_. (But didn´t solve what I intedended. :-( )
+
+
+
 
 
 
