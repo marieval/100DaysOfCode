@@ -806,7 +806,8 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 ### Day 143 - 9.1.2019 (Wed)
 **Today´s Progress:** I worked on the css of the taskList in my _Plan-Up project_. (But didn´t solve what I intedended. :-( )
 
-
+### Day 144 - 10.1.2019 (Thu)
+**Today´s Progress:** I did some changes to JS, but the result wasn´t satisfactory, so I wanted to revert all the changes. So I read the documentation and posts regarding _Git & undoing changes_ (e.g. on [atlassian](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)).  
 
 
 
