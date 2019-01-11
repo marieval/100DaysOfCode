@@ -809,6 +809,9 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 ### Day 144 - 10.1.2019 (Thu)
 **Today´s Progress:** I did some changes to JS, but the result wasn´t satisfactory, so I wanted to revert all the changes. So I read the documentation and posts regarding _Git & undoing changes_ (e.g. on [atlassian](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)).  
 
+### Day 145 - 11.1.2019 (Fri)
+**Today´s Progress:** I discarded changes to my files of _Plan-Up_ to the last commit. I found out, that there is a bug even in this version! I´m completely stuck - I´m trying to find the bug, but it´s still not working! :-/
+
 
 
 
