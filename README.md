@@ -812,6 +812,9 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 ### Day 145 - 11.1.2019 (Fri)
 **Today´s Progress:** I discarded changes to my files of _Plan-Up_ to the last commit. I found out, that there is a bug even in this version! I´m completely stuck - I´m trying to find the bug, but it´s still not working! :-/
 
+### Day 146 - 12.1.2019 (Sat)
+**Today´s Progress:** I continued with my _Plan-Up project_. It´s working now: I can add items to todo-list, when checkbox is checked, the item moves to done-list. When it´s unchecked, it gets back. However, I found out that the _state_ is working correctly, but the view is not correct. I continue working on this issue.
+
 
 
 
