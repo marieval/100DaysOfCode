@@ -815,6 +815,12 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 ### Day 146 - 12.1.2019 (Sat)
 **Today´s Progress:** I continued with my _Plan-Up project_. It´s working now: I can add items to todo-list, when checkbox is checked, the item moves to done-list. When it´s unchecked, it gets back. However, I found out that the _state_ is working correctly, but the view is not correct. I continue working on this issue.
 
+### Day 147 - 13.1.2019 (Sun)
+**Today´s Progress:** I continued with my _Plan-Up project_. I fixed the problem with moving/deleting the correct item (both in state and in view).
+
+**Thoughts:** Array.find() - returns the value of the first element in an array that passes a given test. Array.slice() - returns the part of the array (in form of other array!).
+
+
 
 
 
