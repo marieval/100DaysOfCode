@@ -821,9 +821,11 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 **Thoughts:** Array.find() - returns the value of the first element in an array that passes a given test. Array.slice() - returns the part of the array (in form of other array!). 
 
 ### Day 148 - 14.1.2019 (Mon)
-**Today´s Progress:** I added button & function for deleting both lists (from view & state). I merged the "shortening" branch with the "master". I created a new branch ("sorting") and worked on the sorting-functionalities. During this, the complete project got broken and doesn´t start at all. I wanted to go back to my previous commit, but it´s not working neither! (I´d bet that it worked before! How is it possible?) So I´m trying to find some working solution (and learning more about GIT, Webpack,...). 
+**Today´s Progress:** I added button & function for deleting both lists (from view & state). I merged the "shortening" branch with the "master". I created a new branch ("sorting") and worked on the sorting-functionalities. During this, the complete project got broken and doesn´t start at all. I wanted to go back to my previous commit, but it´s not working neither! (I´d bet that it worked before! How is it possible?) So I´m trying to find some working solution (and learning more about GIT, Webpack,...)....
 
-**Thoughts:** For better visualisation of commits I found these scripts useful:
+I went back in my git, searched for problems, and when I switched back to newer commits, these worked again! :-( (That´s true that I deleted and re-installed all the dependencies from package.json again - perhaps here was a problem?? However it seems to work again... (But I lost my most recent changes regarding sorting items in the list.)
+
+**Thoughts:** For better visualisation of commits these scripts can be useful:
 
 ```
 git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(auto)%d%C(reset)'
