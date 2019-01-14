@@ -816,9 +816,22 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 **Today´s Progress:** I continued with my _Plan-Up project_. It´s working now: I can add items to todo-list, when checkbox is checked, the item moves to done-list. When it´s unchecked, it gets back. However, I found out that the _state_ is working correctly, but the view is not correct. I continue working on this issue.
 
 ### Day 147 - 13.1.2019 (Sun)
-**Today´s Progress:** I continued with my _Plan-Up project_. I fixed the problem with moving/deleting the correct item (both in state and in view).
+**Today´s Progress:** I continued with my _Plan-Up project_. I fixed the problem with moving/deleting the correct item (both in state and in view). I shortened my code (changed the functions to accept arguments and to be more universal - in order to "DRY".)
 
-**Thoughts:** Array.find() - returns the value of the first element in an array that passes a given test. Array.slice() - returns the part of the array (in form of other array!).
+**Thoughts:** Array.find() - returns the value of the first element in an array that passes a given test. Array.slice() - returns the part of the array (in form of other array!). 
+
+### Day 148 - 14.1.2019 (Mon)
+**Today´s Progress:** I added button & function for deleting both lists (from view & state). I merged the "shortening" branch with the "master". I created a new branch ("sorting") and worked on the sorting-functionalities. During this, the complete project got broken and doesn´t start at all. I wanted to go back to my previous commit, but it´s not working neither! (I´d bet that it worked before! How is it possible?) So I´m trying to find some working solution (and learning more about GIT, Webpack,...). 
+
+**Thoughts:** For better visualisation of commits I found these scripts useful:
+
+```
+git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(auto)%d%C(reset)'
+
+and
+
+git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(auto)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)'
+```
 
 
 
