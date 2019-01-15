@@ -11,14 +11,14 @@ The log of my #100DaysOfCode challenge.
 
 Can´t manage to center the text in "Tips". :-(
 
-**Link:** [Product Landing Page](https://codepen.io/mmajam/pen/PBBoeg?editors=1100)
+**Link:** [Product Landing Page](https://codepen.io/mmajam/full/PBBoeg)
 
 ### Day 02 - 12.8.2018 (Sun)
 **Today´s Progress:** Continue working on my Product Landing Page project from FCC - responsivity (video, map), media queries. Finially finished it! ;-) 
 
 **Thoughts:** ```<iframe>``` elements are not responsive, so we need to wrap them with an other element (```<div>```). (Web Design Blueprints - p.29)
 
-**Link:** [Product Landing Page](https://codepen.io/mmajam/pen/PBBoeg?editors=1100)
+**Link:** [Product Landing Page](https://codepen.io/mmajam/full/PBBoeg)
 
 ### Day 03 - 13.8.2018 (Mon)
 **Today´s Progress:** Began the project Technical Documentation (basic html, basic structure)
