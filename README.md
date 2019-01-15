@@ -835,6 +835,10 @@ and
 git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(auto)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)'
 ```
 
+### Day 149 - 15.1.2019 (Tue)
+**Today´s Progress:** I continued with work on my _Plan-Up Project_ (JavaScript): deleting of individual lists feature added, icons at both lists added (will be used for sorting lists). 
+
+
 
 
 
