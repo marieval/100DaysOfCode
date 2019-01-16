@@ -838,6 +838,12 @@ git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(re
 ### Day 149 - 15.1.2019 (Tue)
 **Today´s Progress:** I continued with work on my _Plan-Up Project_ (JavaScript): deleting of individual lists feature added, icons at both lists added (will be used for sorting lists). 
 
+### Day 150 - 16.1.2019 (Wed)
+**Today´s Progress:** I worked on my _Plan-Up Project_ - I fixed the reaction to delete-list-btn click for cases, when there is no such list yet. I did some changes to my JS-code in order to make my code shorter.
+
+
+
+
 
 
 
