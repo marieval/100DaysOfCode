@@ -841,6 +841,12 @@ git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(re
 ### Day 150 - 16.1.2019 (Wed)
 **Today´s Progress:** I worked on my _Plan-Up Project_ - I fixed the reaction to delete-list-btn click for cases, when there is no such list yet. I did some changes to my JS-code in order to make my code shorter.
 
+### Day 151 - 17.1.2019 (Thu)
+**Today´s Progress:** I shortened the code of the whole _Plan-Up Project_ (created functions for repeating code, united more things to one function using more arguments passed to the function,...) 
+
+### Day 152 - 18.1.2019 (Fri)
+**Today´s Progress:** I worked on the sorting of items after pushing relevant icon (urgency, name, tag): it´s working for state-lists now.
+
 
 
 
