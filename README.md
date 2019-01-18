@@ -4,8 +4,8 @@ The log of my #100DaysOfCode challenge.
 
 ## Log
 
-### Day 01 - 11.8.2018 (Sat)
-**Today´s Progress:** Continue working on my Product Landing Page project from FCC - it´s css (nav-bar, background, text-colors, paddings, margins,...)
+### Day 01 - 11.8.2018 (Sat) +
+**Today´s Progress:** Continue working on my _Product Landing Page project_ from FCC - it´s css (nav-bar, background, text-colors, paddings, margins,...)
 
 **Thoughts:** For not repeating background used "fixed". 
 
@@ -13,30 +13,30 @@ Can´t manage to center the text in "Tips". :-(
 
 **Link:** [Product Landing Page](https://codepen.io/mmajam/full/PBBoeg)
 
-### Day 02 - 12.8.2018 (Sun)
-**Today´s Progress:** Continue working on my Product Landing Page project from FCC - responsivity (video, map), media queries. Finially finished it! ;-) 
+### Day 02 - 12.8.2018 (Sun) +
+**Today´s Progress:** Continue working on my _Product Landing Page project_ from FCC - responsivity (video, map), media queries. Finially finished it! ;-) 
 
 **Thoughts:** ```<iframe>``` elements are not responsive, so we need to wrap them with an other element (```<div>```). (Web Design Blueprints - p.29)
 
 **Link:** [Product Landing Page](https://codepen.io/mmajam/full/PBBoeg)
 
-### Day 03 - 13.8.2018 (Mon)
-**Today´s Progress:** Began the project Technical Documentation (basic html, basic structure)
+### Day 03 - 13.8.2018 (Mon) +
+**Today´s Progress:** Began the project _Technical Documentation_ (basic html, basic structure)
 
 **Link:** [Technical Documentation Page](https://codepen.io/mmajam/full/VBRyma/)
 
-### Day 04 - 14.8.2018 (Tue)
+### Day 04 - 14.8.2018 (Tue) +
 **Today´s Progress:** Went through materials to Gulp, NPM, SCSS. Done small responsive website using these. 
 
 **Thoughts:** All those things are great!!!
 
-### Day 05 - 15.8.2018 (Wed)
-**Today´s Progress:** Continue with the project Technical Documentation Page (content, basic css)
+### Day 05 - 15.8.2018 (Wed) +
+**Today´s Progress:** Continue with the project _Technical Documentation Page_ (content, basic css)
 
 **Link:** [Technical Documentation Page](https://codepen.io/mmajam/full/VBRyma/)
 
-### Day 06 - 16.8.2018 (Thu)
-**Today´s Progress:** Finished the project Technical Documentation Page (layout, media queries)
+### Day 06 - 16.8.2018 (Thu) +
+**Today´s Progress:** Finished the project _Technical Documentation Page_ (layout, media queries)
 
 **Link:** [Technical Documentation Page](https://codepen.io/mmajam/full/VBRyma/)
 
@@ -45,13 +45,13 @@ Can´t manage to center the text in "Tips". :-(
 
 **Thoughts:** Flexbox-bugs: ```<button>``` and ```<fieldset>``` don´t work as flex-containers! (Solution: use ```<div>``` or other flex-supporting-element as immediate child of the ```<button>``` or ```<fieldset>``` (info: [Flexbugs](https://github.com/philipwalton/flexbugs#flexbug-9)).
 
-### Day 08 - 18.8.2018 (Sat)
+### Day 08 - 18.8.2018 (Sat) +
 **Today´s Progress:** Continue reading the documentation of Bootstrap [(link)](https://getbootstrap.com/docs/4.1/getting-started/introduction/). Done part of the Basic JavaScript Challenges from FCC. 
 
-### Day 09 - 19.8.2018 (Sun)
+### Day 09 - 19.8.2018 (Sun) +
 **Today´s Progress:** Finished _Basic JavaScript Challenges_ from FCC.
 
-### Day 10 - 20.8.2018 (Mon)
+### Day 10 - 20.8.2018 (Mon) +
 **Today´s Progress:** Did _ES6-JS Challenges_ from FCC
 
 **Thoughts:** 
@@ -78,7 +78,7 @@ whoIsThisDude2(person);```
 and also explanation of vytautas-pilk was great: ```function half({min, max}) return (min + max) / 2.0;``` is the same as writing ```const {min, max} = stats;
 console.log((min + max) / 2.0);```
 
-### Day 11 - 21.8.2018 (Tue)
+### Day 11 - 21.8.2018 (Tue) +
 **Today´s Progress:** Finished the section of _ES6 Challenges_ from FCC
 
 **Thoughts:** 
@@ -117,7 +117,7 @@ console.log(SomeClass.value)  // 'new value'
 ### Day 12 - 22.8.2018 (Wed)
 **Today´s Progress:** Started [CSS: The Complete Guide](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) course on Udemy. Had a meeting with an IT-professional to consult some techniques, practical uses,... - it boosted my eagerness for learning. 
 
-### Day 13 - 23.8.2018 (Thu)
+### Day 13 - 23.8.2018 (Thu) +
 **Today´s Progress:** Learned about the real project workflow on my in-person course (processes with npm, gulp, sass...) and how to create a collapsible menu using only css ([basics](https://css-tricks.com/the-checkbox-hack/)).
 
 ### Day 14 - 24.8.2018 (Fri)
@@ -144,7 +144,7 @@ console.log(SomeClass.value)  // 'new value'
 
 Conversion: 1 inch = 96px.
 
-### Day 19 - 30.8.2018 (Thu)
+### Day 19 - 30.8.2018 (Thu) +
 **Today´s Progress:** Practiced working with Git on my in-person course.
 
 ### Day 20 - 31.8.2018 (Fri)
@@ -168,18 +168,18 @@ Conversion: 1 inch = 96px.
 
 **Thoughts:** *Flex-basis:* if the ```flex-basis``` is set to ```auto``` and at the same moment the element´s ```width/height``` is set, the ```auto``` is used. If the ```flex-basis``` is set in ```px or %```, the ```width/height``` is overwritten by the ```flex-basis``` value.
 
-### Day 23 - 3.9.2018 (Mon)
-**Today´s Progress:** Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part _CSS Grid_. Started the Portfolio Page. 
+### Day 23 - 3.9.2018 (Mon) +
+**Today´s Progress:** Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part _CSS Grid_. Started the _Portfolio Page_. 
 
 **Thoughts:** *CSS Grid:* used for 2-D positioning xxx *Flexbox:* used for 1-D positioning. 
 
 *Wrapper of the whole content:* for better positioning of all elements use wrapper with ```min-height: 100%; position: relative;```. 
 
-### Day 24 - 4.9.2018 (Tue)
-**Today´s Progress:** Worked on my Portfolio Website (decided NOT to use Bootstrap) - header, welcome part.
+### Day 24 - 4.9.2018 (Tue) +
+**Today´s Progress:** Worked on my _Portfolio Website_ (decided NOT to use Bootstrap) - header, welcome part.
 
-### Day 25 - 5.9.2018 (Wed)
-**Today´s Progress:** Continue working on my Portfolio Website - parts About me, Portfolio, Contacts, Footer (just the drafts).  Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part CSS Transforms. 
+### Day 25 - 5.9.2018 (Wed) +
+**Today´s Progress:** Continue working on my _Portfolio Website_ - parts About me, Portfolio, Contacts, Footer (just the drafts).  Continue with the course on [CSS](https://www.udemy.com/css-the-complete-guide-incl-flexbox-grid-sass/) - part CSS Transforms. 
 
 **Thoughts:** Source for CSS-3D-Transforms: [https://3dtransforms.desandro.com/](https://3dtransforms.desandro.com/)
 
@@ -270,20 +270,20 @@ var fieldsArray = Array.prototype.slice.call(fields);
 ### Day 38 - 18.9.2018 (Tue)
 **Today´s Progress:** Revised the _Budget App_ Project in detail. 
 
-### Day 39 - 19.9.2018 (Wed)
+### Day 39 - 19.9.2018 (Wed) +
 **Today´s Progress:** Added responsivity to my previous projects at FCC: [Tribute page](https://codepen.io/mmajam/full/xJPeXq/), [Build a Survey Form](https://codepen.io/mmajam/full/QBxyBQ/), [Product Landing Page](https://codepen.io/mmajam/full/PBBoeg/), [Technical Documentation Page](https://codepen.io/mmajam/full/VBRyma/). 
 
 **Thoughts:** I see that I moved forward a lot in one month - when I looked at those project, I can see my not-so-good-solutions, I would do these better now. First I thought that I will re-do them, but then I decided not to do so now, but to continue with other things instead - future projects will be better (as I hope). :-D
 
-### Day 40 - 20.9.2018 (Thu)
+### Day 40 - 20.9.2018 (Thu) +
 **Today´s Progress:** Went back to the [Portfolio Website projects](https://codepen.io/mmajam/full/BOyNdN/) (until Day25 I did draft of parts About me, Portfolio, Contacts, Footer) and did small changes regarding things I learned in the meantime. Learned about the Keep-Aspect-Ratio for photogallery (resources: [Aspect Ratio Boxes - CSS-Tricks](https://css-tricks.com/aspect-ratio-boxes/), [Keith Grant´s explanation](https://keithjgrant.com/posts/2017/03/aspect-ratios/) and [MadeMyDay.de examples and explanation](http://www.mademyday.de/css-height-equals-width-with-pure-css.html).
 
-### Day 41 - 21.9.2018 (Fri)
+### Day 41 - 21.9.2018 (Fri) +
 **Today´s Progress:** Finished my [Portfolio Website project](https://codepen.io/mmajam/full/BOyNdN/). 
 
 **Thoughts:** Struggled with implementing of the toggle-menu for mobile-version (used the solution from [codeburst](https://codeburst.io/how-to-make-a-collapsible-menu-using-only-css-a1cd805b1390)). 
 
-### Day 42 - 22.9.2018 (Sat)
+### Day 42 - 22.9.2018 (Sat) +
 **Today´s Progress:** Fixed some bugs on mobile-version of my [Portfolio Website project](https://codepen.io/mmajam/full/BOyNdN/). Continue with the course on [JavaScript](https://www.udemy.com/the-complete-javascript-course/) - Part of the _ES6/ES2015_ section. 
 
 **Thoughts:** 
@@ -328,18 +328,18 @@ Variables declared with ```var``` are *function-scoped*. Variables declared with
 
 **Thoughts:** I look forward to my own programming! But I decided to finish the JS-course first (hopefully tomorrow) and than I´ll continue with the projects of FCC. 
 
-### Day 53 - 3.10.2018 (Wed)
+### Day 53 - 3.10.2018 (Wed) +
 **Today´s Progress:**  Finished the course on  [JavaScript](https://www.udemy.com/the-complete-javascript-course/). Did the challenges on _Regular Expressions_ at FCC. 
 
 **Thoughts:** _LocalStorage API:_ stores only strings (To store data: ```localStorage.setItem("likes", JSON.strigify(this.likes));```, to get back data: ```const storage = JSON.parse(localStorage.getItem("likes"));``` 
 
-### Day 54 - 4.10.2018 (Thu)
+### Day 54 - 4.10.2018 (Thu) +
 **Today´s Progress:** Did the challenges on _Debugging_ at FCC, began the challenges on _Basic Data Structures_ at FCC (processing of arrays).
 
 **Thoughts:** _Greedy matching (default):_ on string "titanic" matches "titani" using ```/t[a-z]*i/```. 
 _Lazy matching:_ on string "titanic" matches "ti" using ```/t[a-z]*?i/```
 
-### Day 55 - 5.10.2018 (Fri)
+### Day 55 - 5.10.2018 (Fri) +
 **Today´s Progress:** Did the challenges on _Object Oriented JavaScript_ at FCC.
 
 **Thoughts:** If we set a prototype of an object, we must set also its constructor (otherwise is undefined!) - 
@@ -353,7 +353,7 @@ Bird.prototype = {
 };
 ```
 
-### Day 56 - 6.10.2018 (Sat)
+### Day 56 - 6.10.2018 (Sat) +
 **Today´s Progress:** Did the challenges on _Functional Programming in JavaScript_ at FCC.
 
 **Thoughts:** When we don´t know all the arguments at once:
@@ -479,31 +479,31 @@ _Training the database-commands:_ https://www.khanacademy.org/computing/computer
 
 Some resources: [Environment Variables in windows](http://www.dowdandassociates.com/blog/content/howto-set-an-environment-variable-in-windows-command-line-and-registry/), [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)...
 
- ### Day 75 - 26.10.2018 (Fri)
+ ### Day 75 - 26.10.2018 (Fri) +
 **Today´s Progress:** I made a wireframe for a small app for showing only selected videos suitable for kids. Made the basic structure.
 
 **Thoughts:** When starting from scratch, I´m really very unsure and forgot so much things which I already knew before! I´m totally demotivated. :-( 
 
 ### -- Day off - 27.10.2018 (Sat) --
 
- ### Day 76 - 28.10.2018 (Sun)
+ ### Day 76 - 28.10.2018 (Sun) +
 **Today´s Progress:** I started re-building of the main page of the uHost (project from the CSS-course, which I did earlier) just according the result html-page. 
 
 **Thoughts:** The start was not easy, but as I went further, it was much better. ;-)
 
-### Day 77 - 29.10.2018 (Mon)
+### Day 77 - 29.10.2018 (Mon) +
 **Today´s Progress:** I continued with re-building of the main page of the uHost (project from the CSS-course, which I did earlier) just according the result html-page. Got stuck at mobile-version. :-/
 
-### Day 78 - 30.10.2018 (Tue)
+### Day 78 - 30.10.2018 (Tue) +
 **Today´s Progress:** I continued with re-building of the uHost website - the Package-page. 
 
-### Day 79 - 31.10.2018 (Wed)
+### Day 79 - 31.10.2018 (Wed) +
 **Today´s Progress:** I re-builded the Customers-page of the uHost website. 
 
-### Day 80 - 1.11.2018 (Thu)
+### Day 80 - 1.11.2018 (Thu) +
 **Today´s Progress:** I continued with re-building of the uHost website. I rewatched some parts of the CSS-course. 
 
-### Day 81 - 2.11.2018 (Fri)
+### Day 81 - 2.11.2018 (Fri) +
 **Today´s Progress:** I continued with re-building of the uHost website. I repeated some parts of the CSS-course. 
 
 ### Day 82 - 3.11.2018 (Sat)
@@ -514,33 +514,33 @@ Some resources: [Environment Variables in windows](http://www.dowdandassociates.
 ### Day 83 - 4.11.2018 (Sun)
 **Today´s Progress:** I went again through the Sizes & Dimensions-topics of the CSS-Course on Udemy. 
 
-### Day 84 - 5.11.2018 (Mon)
+### Day 84 - 5.11.2018 (Mon) +
 **Today´s Progress:** I started again from the beginning (just with html-template) with re-creating the main page of the uHost (from the CSS-course).
 
 **Thoughts:** It´s much better now after revising some parts of the course! I achieve the output using different features in the css than they did in the course, but I´m happy about having solved it! However, I have to solve some minor issues and improve responsivity.
 
-### Day 85 - 6.11.2018 (Tue)
+### Day 85 - 6.11.2018 (Tue) +
 **Today´s Progress:** I continued with re-creating the customer-page and plan-page of the uHost (from the CSS-course).
 
 **Thoughts:** I´m excited, that I make progress with the site really much better now! Last week the stuff I wrote didn´t work and I felt deprived, but now after refreshing the material from the course it´s much more easy!!! I like this CSS-course because Max mentions there various dependencies and under which conditions a feature doesn´t work. It´s really useful!
 
-### Day 86 - 7.11.2018 (Wed)
+### Day 86 - 7.11.2018 (Wed) +
 **Today´s Progress:** I continued with re-creating the uHost-project (from the CSS-course).
 
-### Day 87 - 8.11.2018 (Thu)
+### Day 87 - 8.11.2018 (Thu) +
 **Today´s Progress:** I continued with re-creating the uHost-project (from the CSS-course) - changed the units to responsive ones (rem, %), did the Start-Hosting-page.
 
 **Thoughts:** I didn´t succeed with designing the hamburger-menu using css. :-( I will come to it tomorrow again. 
 
-### Day 88 - 9.11.2018 (Fri)
+### Day 88 - 9.11.2018 (Fri) +
 **Today´s Progress:** I continued with re-creating the uHost-project (from the CSS-course) - styled the modal, backdrop, added eventListeners  to the buttons on the main-page. 
 
 ### -- Day off - 10.11.2018 (Sat) --
 
-### Day 89 - 11.11.2018 (Sun)
+### Day 89 - 11.11.2018 (Sun) +
 **Today´s Progress:** I continued with re-creating the uHost-project (from the CSS-course) - added mobile-nav-menu, improving responsivity.
 
-### Day 90 - 12.11.2018 (Mon)
+### Day 90 - 12.11.2018 (Mon) +
 **Today´s Progress:** I continued with re-creating the uHost-project (from the CSS-course) - eventListeners, added responsivity.
 
 ### Day 91 - 13.11.2018 (Tue)
@@ -645,21 +645,21 @@ _cubic-bezier helping-tools:_ cubic-bezier.com, easings.net
 
 ### ********************************************************************** 
 
-### Day 101 - 23.11.2018 (Fri)
-**Today´s Progress:** I started a new project Quotes For Every Day (functionally similar to the one at FCC, which I did more than 1 year ago).  I decided to use Sass+BEM, so I did the basic setup for the project. I used the command line for creating the project folders/files. 
+### Day 101 - 23.11.2018 (Fri) +
+**Today´s Progress:** I started a new project _Quotes For Every Day_ (functionally similar to the one at FCC, which I did more than 1 year ago).  I decided to use Sass+BEM, so I did the basic setup for the project. I used the command line for creating the project folders/files. 
 
 **Thoughts:** For creating a new file in Git Bash (in Windows): ```> base.scss```.
 
-### Day 102 - 24.11.2018 (Sat)
-**Today´s Progress:** I continued with the project Quotes For Every Day - finished the layout, added responsivity. 
+### Day 102 - 24.11.2018 (Sat) +
+**Today´s Progress:** I continued with the project _Quotes For Every Day_ - finished the layout, added responsivity. 
 
 **Thoughts:** I had problem animating the button (releasing the pressed button) - it helped to make it an ```a``` element (instead of ```button``` element). 
 Again, I have a problem with positioning the footer - so that it sticks to the bottom of the viewport if there is not enough content, but when making the viewport smaller (and so the content can´t fit to the viewport anymore), I want the footer to be completely at the bottom.  I know that I can solve it using flexbox, but I wanted to try some other solution. 
 
-### Day 103 - 25.11.2018 (Sun)
+### Day 103 - 25.11.2018 (Sun) +
 **Today´s Progress:** I finished the project _Quotes For Every Day_ (except JS which I want to do later). I searched and tried several solutions for the footer-issue, but I wasn´t really satisfied with any of them (I wanted to have it really responsive - without fixed height of the footer), so I finally decided to use flexbox for it. ;-)
 
-### Day 104 - 26.11.2018 (Mon)
+### Day 104 - 26.11.2018 (Mon) +
 **Today´s Progress:** I did some improvements in the project _Quotes For Every Day_. I started a new project (similar to the one which I did more than 1 year ago as a FCC project) - Local Weather App. I did the setup and basic layout of the project. I want some refresher about the details regarding Flexbox, so I started the Flexbox-section in the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/). 
 
 ### Day 105 - 27.11.2018 (Tue)
@@ -675,7 +675,7 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 
 **Thoughts:** I understood better the _arrow functions_, _spread_ and _rest operator_, _destructuring_ and _asynchronous JS (promises)_.
 
-### Day 108 - 30.11.2018 (Fri)
+### Day 108 - 30.11.2018 (Fri) +
 **Today´s Progress:** I added the JavaScript functionality to the project _Quotes For Every Day_ - display a random quote from API (used _async JS - fetch_) after pressing the new-button,  _tweet the quote_ after pressing the tweet-button.
 
 **Thoughts:** I´m excited that I was able to do it quite quickly and it works as intended! I like the ES6 syntax! 
@@ -691,16 +691,16 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 ### Day 111 - 4.12.2018 (Tue)
 **Today´s Progress:** I did the challenge of the _Node.js_ course, Section Basics of Node.js - I started my own server and processed two scenarios/routings. I learned about _reading and writing files_ in an app using Node.js.
 
-### Day 112 - 5.12.2018 (Wed)
+### Day 112 - 5.12.2018 (Wed) +
 **Today´s Progress:** I learned using the _Express.js_ in the course Node.js: _adding middleware, routing, creating and serving html files, serving files statically._ I did the challenge No2 - create an app with two routes and serving a file statically. 
 
 
-### Day 113 - 6.12.2018 (Thu)
+### Day 113 - 6.12.2018 (Thu) +
 **Today´s Progress:** I learned about _adding dynamic content_ and using _templating engines: EJS, Pug, Handlebars_ (with EJS I worked more). Learned how to _loop in ejs_, how to use _partials/include_ in ejs and using _conditional adding of a class to an element_.
 
 **Today´s Progress:** I got stuck with the challenge - I need more practice... I wish I had more time to learn and practice during the day! :-(
 
-### Day 114 - 7.12.2018 (Fri)
+### Day 114 - 7.12.2018 (Fri) +
 **Today´s Progress:** I did the challenge from yesterday - I feel I understand more of the topic now! I learned about using _MVC_ (_modules-views-controls_). Also, I learned how to _load data from a file_ and _save data to a file_. 
 
 ### Day 115 - 8.12.2018 (Sat)
@@ -748,18 +748,18 @@ Again, I have a problem with positioning the footer - so that it sticks to the b
 ### Day 127 - 21.12.2018 (Fri)
 **Today´s Progress:** I finished the _CSS Grid_ part of the Advanced CSS and Sass course on Udemy. I learned basics about _Web Design_ (quick course Web Design for Web Developers: Build Beautiful Websites - on Udemy).
 
-### Day 128 - 22.12.2018 (Sat)
+### Day 128 - 22.12.2018 (Sat) +
 **Today´s Progress:** I did the CSS of my Weather-App project. 
 
-### Day 129 - 23.12.2018 (Sun)
+### Day 129 - 23.12.2018 (Sun) +
 **Today´s Progress:** I worked on the functionality of the Weather-App (JavaScript part).
 
 ### -- Day off - 24.12.2018 (Mon) --
 
-### Day 130 - 25.12.2018 (Tue)
+### Day 130 - 25.12.2018 (Tue) +
 **Today´s Progress:** I continued on working on my _Weather-App_ (getting the weather-info from the openweatherma API). Read through my notes about JavaScript. 
 
-### Day 131 - 26.12.2018 (Wed)
+### Day 131 - 26.12.2018 (Wed) +
 **Today´s Progress:** Working on my _Weather-App_ (added finding the position using http://ip-api.com). Came to a problem with fetch-then-catch, so I searched for more detailed info about this topic).
 
 **Thoughts:** Should I use _fetch()_? Its support is about only 87% now. Its use seems to be easy, but there are some "problems" and when we consider these, it´s not so straightforward. (Described in ([Why I still use XHR instead of the Fetch API](https://gomakethings.com/why-i-still-use-xhr-instead-of-the-fetch-api/) and in [Using Fetch (on CSS-Tricks)](https://css-tricks.com/using-fetch/). Summary also here: [Understand Fetch API](https://flaviocopes.com/fetch-api/).
@@ -772,10 +772,10 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 ### Day 133 - 28.12.2018 (Fri)
 **Today´s Progress:** I revised the parts of the forkify-project (how the state is stored, how a controllers and views are implemented in practice). 
 
-### Day 134 - 29.12.2018 (Sat)
+### Day 134 - 29.12.2018 (Sat) +
 **Today´s Progress:** I´m going to create my own app: _Plan-App_. I did planning of the parts, functionalities and connections (on paper), and then I did the setup of the whole folder, installed the npm-packages (babel,..., node-sass, nodemon, webpack...). I would like to use MVC architecture (so I want to use webpack for bundling) and I´d like to use Sass (using node-sass for compiling). I tested the setting and there is some bug - the compilation of scss to sass doesn´t work. :-(
 
-### Day 135 - 30.12.2018 (Sun)
+### Day 135 - 30.12.2018 (Sun) +
 **Today´s Progress:** I read more about _Webpack_ and its setting, and also about using it together with _Sass_. [This article about Webpack 4 setting at hackernoon](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1) helped a lot: Finally the whole setting works! 
 
 ### -- Day off - 31.12.2018 (Mon) --
@@ -785,42 +785,42 @@ Great for trying projects with fake _REST API _: https://jsonplaceholder.typicod
 ### Day 136 - 2.1.2019 (Wed)
 **Today´s Progress:** I finished the book _Web Development with Node & Express_ (by Ethan Brown). 
 
-### Day 137 - 3.1.2019 (Thu)
+### Day 137 - 3.1.2019 (Thu) +
 **Today´s Progress:** I reviewed using Git (I want to use it when working on my Plan-App/Plan-Up project.). I created _new repository for my Plan-Up project on_GitHub_ and pushed the project-structure there. I did the basic HTML structure of the project. 
 
-### Day 138 - 4.1.2019 (Fri)
+### Day 138 - 4.1.2019 (Fri)  +
 **Today´s Progress:** I continued with my _Plan-Up project_ (its css).
 
-### Day 139 - 5.1.2019 (Sat)
+### Day 139 - 5.1.2019 (Sat) +
 **Today´s Progress:** I added JavaScript to my _Plan-Up project_. I tried to implement the MVC-architecture. It´s not complete yet, but I hope that I manage to make it all work...
 
-### Day 140 - 6.1.2019 (Sun)
+### Day 140 - 6.1.2019 (Sun) +
 **Today´s Progress:** I worked on my _Plan-Up project_ and its JavaScript part: _Add-btn_ is working! (You can add a new task and after add-btn-click it´s added to the to-do list.) _Delete-btn_ is also working! (You can delete individual tasks from the to-do list.) 
 
-### Day 141 - 7.1.2019 (Mon)
+### Day 141 - 7.1.2019 (Mon)  +
 **Today´s Progress:** I continued working on my _Plan-Up project_: set and display _dates from/until_ and _compute days remaining_. (The dates are stored in the form of timestamp.)
 
-### Day 142 - 8.1.2019 (Tue)
+### Day 142 - 8.1.2019 (Tue) +
 **Today´s Progress:** I added _SVG icons_ (from icomoon.io) and had to re-do the html and css to be positioned as I intended. 
 
-### Day 143 - 9.1.2019 (Wed)
+### Day 143 - 9.1.2019 (Wed)  +
 **Today´s Progress:** I worked on the css of the taskList in my _Plan-Up project_. (But didn´t solve what I intedended. :-( )
 
-### Day 144 - 10.1.2019 (Thu)
+### Day 144 - 10.1.2019 (Thu) +
 **Today´s Progress:** I did some changes to JS, but the result wasn´t satisfactory, so I wanted to revert all the changes. So I read the documentation and posts regarding _Git & undoing changes_ (e.g. on [atlassian](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)).  
 
-### Day 145 - 11.1.2019 (Fri)
+### Day 145 - 11.1.2019 (Fri) +
 **Today´s Progress:** I discarded changes to my files of _Plan-Up_ to the last commit. I found out, that there is a bug even in this version! I´m completely stuck - I´m trying to find the bug, but it´s still not working! :-/
 
-### Day 146 - 12.1.2019 (Sat)
+### Day 146 - 12.1.2019 (Sat) +
 **Today´s Progress:** I continued with my _Plan-Up project_. It´s working now: I can add items to todo-list, when checkbox is checked, the item moves to done-list. When it´s unchecked, it gets back. However, I found out that the _state_ is working correctly, but the view is not correct. I continue working on this issue.
 
-### Day 147 - 13.1.2019 (Sun)
+### Day 147 - 13.1.2019 (Sun) +
 **Today´s Progress:** I continued with my _Plan-Up project_. I fixed the problem with moving/deleting the correct item (both in state and in view). I shortened my code (changed the functions to accept arguments and to be more universal - in order to "DRY".)
 
 **Thoughts:** Array.find() - returns the value of the first element in an array that passes a given test. Array.slice() - returns the part of the array (in form of other array!). 
 
-### Day 148 - 14.1.2019 (Mon)
+### Day 148 - 14.1.2019 (Mon) +
 **Today´s Progress:** I added button & function for deleting both lists (from view & state). I merged the "shortening" branch with the "master". I created a new branch ("sorting") and worked on the sorting-functionalities. During this, the complete project got broken and doesn´t start at all. I wanted to go back to my previous commit, but it´s not working neither! (I´d bet that it worked before! How is it possible?) So I´m trying to find some working solution (and learning more about GIT, Webpack,...)....
 
 I went back in my git, searched for problems, and when I switched back to newer commits, these worked again! :-( (That´s true that I deleted and re-installed all the dependencies from package.json again - perhaps here was a problem?? However it seems to work again... (But I lost my most recent changes regarding sorting items in the list.)
@@ -835,16 +835,16 @@ and
 git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(auto)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)'
 ```
 
-### Day 149 - 15.1.2019 (Tue)
+### Day 149 - 15.1.2019 (Tue)  +
 **Today´s Progress:** I continued with work on my _Plan-Up Project_ (JavaScript): deleting of individual lists feature added, icons at both lists added (will be used for sorting lists). 
 
-### Day 150 - 16.1.2019 (Wed)
+### Day 150 - 16.1.2019 (Wed) +
 **Today´s Progress:** I worked on my _Plan-Up Project_ - I fixed the reaction to delete-list-btn click for cases, when there is no such list yet. I did some changes to my JS-code in order to make my code shorter.
 
-### Day 151 - 17.1.2019 (Thu)
+### Day 151 - 17.1.2019 (Thu) +
 **Today´s Progress:** I shortened the code of the whole _Plan-Up Project_ (created functions for repeating code, united more things to one function using more arguments passed to the function,...) 
 
-### Day 152 - 18.1.2019 (Fri)
+### Day 152 - 18.1.2019 (Fri) +
 **Today´s Progress:** I worked on the sorting of items after pushing relevant icon (urgency, name, tag): it´s working for state-lists now.
 
 
