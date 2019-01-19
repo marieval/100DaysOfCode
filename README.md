@@ -848,7 +848,7 @@ git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(re
 **Today´s Progress:** I worked on the sorting of items after pushing relevant icon (urgency, name, tag): it´s working for state-lists now.
 
 ### Day 153 - 19.1.2019 (Sat) +
-**Today´s Progress:** I continued on my _Plan-Up Project_: I set the default until-date to today.
+**Today´s Progress:** I continued on my _Plan-Up Project_: I set the default until-date to today and disabled picking past dates.
 
 **Thoughts:** For setting today´ date: 
 
