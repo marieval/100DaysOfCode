@@ -847,9 +847,21 @@ git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(re
 ### Day 152 - 18.1.2019 (Fri) +
 **Today´s Progress:** I worked on the sorting of items after pushing relevant icon (urgency, name, tag): it´s working for state-lists now.
 
+### Day 153 - 19.1.2019 (Sat) +
+**Today´s Progress:** I continued on my _Plan-Up Project_: I set the default until-date to today.
 
+**Thoughts:** For setting today´ date: 
 
+```
+let today = new Date().toISOString().substr(0, 10);
+document.querySelector("#today").value = today;
+```
 
+ or
+
+```
+document.querySelector("#today").valueAsDate = new Date();
+```
 
 
 
