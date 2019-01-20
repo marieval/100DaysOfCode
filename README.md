@@ -863,6 +863,9 @@ document.querySelector("#today").value = today;
 document.querySelector("#today").valueAsDate = new Date();
 ```
 
+### Day 154 - 20.1.2019 (Sun) +
+**Today´s Progress:** I continued on my _Plan-Up Project_: added animation on hovering sort-icons, fixed reaction after clicking sort-icon when there is no list yet.
+
 
 
 
