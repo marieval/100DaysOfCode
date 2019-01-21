@@ -866,6 +866,9 @@ document.querySelector("#today").valueAsDate = new Date();
 ### Day 154 - 20.1.2019 (Sun) +
 **Today´s Progress:** I continued on my _Plan-Up Project_: added animation on hovering sort-icons, fixed reaction after clicking sort-icon when there is no list yet.
 
+### Day 155 - 21.1.2019 (Mon) +
+**Today´s Progress:** I tried to add view-sorting to my _Plan-Up Project_ (state-sorting works already), but there was still an error and I didn´t find out how to do it now. I see that my project structure could be different from the beginning (and perhaps better in broad context), but that´s what I learned for future projects.
+
 
 
 
