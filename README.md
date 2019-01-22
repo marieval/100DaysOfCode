@@ -1,6 +1,6 @@
-# 100DaysOfCode #
+# 100DaysOfCode / No-Zero-Days #
 
-The log of my #100DaysOfCode challenge.
+The log of my #100DaysOfCode challenge (or #NoZeroDays challenge).
 
 ## Log
 
