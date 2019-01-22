@@ -869,6 +869,9 @@ document.querySelector("#today").valueAsDate = new Date();
 ### Day 155 - 21.1.2019 (Mon) +
 **Today´s Progress:** I tried to add view-sorting to my _Plan-Up Project_ (state-sorting works already), but there was still an error and I didn´t find out how to do it now. I see that my project structure could be different from the beginning (and perhaps better in broad context), but that´s what I learned for future projects.
 
+### Day 156 - 22.1.2019 (Tue) 
+**Today´s Progress:** Based on some articles I understood that perhaps my complete idea of the _Plan-Up Project_ would be much better to do in _React_ (which was on my to-do list for longer time), so I decided to start the [React course](https://www.udemy.com/react-the-complete-guide-incl-redux/) which I bought on Black Friday Sale :-D. I went through the intro section and the section revising ES6 JavaScript. 
+
 
 
 
