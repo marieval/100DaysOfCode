@@ -872,6 +872,10 @@ document.querySelector("#today").valueAsDate = new Date();
 ### Day 156 - 22.1.2019 (Tue) 
 **Today´s Progress:** Based on some articles I understood that perhaps my complete idea of the _Plan-Up Project_ would be much better to do in _React_ (which was on my to-do list for longer time), so I decided to start the [React course](https://www.udemy.com/react-the-complete-guide-incl-redux/) which I bought on Black Friday Sale :-D. I went through the intro section and the section revising ES6 JavaScript. 
 
+### Day 157 - 23.1.2019 (Wed) +
+**Today´s Progress:** I revised array methods and especially the form of arrow functions (on MDN and others). I tried to refactor the syntax of my class in Plan-Up Project, but it seems that webpack doesn´t support this form ("doesn´t support experimental syntax"). So I went back to my previous syntax.
+
+
 
 
 
