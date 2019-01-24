@@ -875,6 +875,10 @@ document.querySelector("#today").valueAsDate = new Date();
 ### Day 157 - 23.1.2019 (Wed) +
 **Today´s Progress:** I revised array methods and especially the form of arrow functions (on MDN and others). I tried to refactor the syntax of my class in Plan-Up Project, but it seems that webpack doesn´t support this form ("doesn´t support experimental syntax"). So I went back to my previous syntax.
 
+### Day 158 - 24.1.2019 (Thu) +
+**Today´s Progress:** I learned the _Base Syntax_ of _React_ (in the Reacto-course on Udemy). I did the assignment after watching the section (created two components (userInput & userOutput), added input-handler, added state,...). 
+
+**Thoughts:** Tomorrow I´m going to intro to my first _Hackaton_! I´m looking forward to it, because I think it could help me in finding some ideas and advice for finishing my _Plan-Up Project_!
 
 
 
