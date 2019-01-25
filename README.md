@@ -880,6 +880,10 @@ document.querySelector("#today").valueAsDate = new Date();
 
 **Thoughts:** Tomorrow I´m going to intro to my first _Hackaton_! I´m looking forward to it, because I think it could help me in finding some ideas and advice for finishing my _Plan-Up Project_!
 
+### Day 159 - 25.1.2019 (Fri) +
+**Today´s Progress:** I worked on my _Plan-Up Project_. The view-update after sorting todo-list is working. I refactored some code (extracted some functions, got rid of one which I didn´t find that useful and solved it other way,...).
+
+
 
 
 
