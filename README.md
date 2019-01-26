@@ -883,7 +883,8 @@ document.querySelector("#today").valueAsDate = new Date();
 ### Day 159 - 25.1.2019 (Fri) +
 **Today´s Progress:** I worked on my _Plan-Up Project_. The view-update after sorting todo-list is working. I refactored some code (extracted some functions, got rid of one which I didn´t find that useful and solved it other way,...).
 
-
+### Day 160 - 26.1.2019 (Sat) +
+**Today´s Progress:** Today I attended a _Hackathon_ organized by [Czechitas](https://www.czechitas.cz/en/). I learned how it´s difficult to work in a team, learned how to solve _merge problems_ with _Git_ and _GitHub_, implemented charts to our project using _Chart.js_... (I found that it´s much easier to work on a project myself, even when the project is more difficult - especially because I can use my own ideas and don´t need to change how I solve the problem because of other complexities.) We (as a 3-member team) managed to join the basic website (HTML/CSS/JS) with a database on PostgreSQL. I´m not happy about our result project at all, but this event was a great experience and taught me a lot!
 
 
 
