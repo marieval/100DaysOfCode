@@ -887,7 +887,7 @@ document.querySelector("#today").valueAsDate = new Date();
 **Today´s Progress:** Today I attended a _Hackathon_ organized by [Czechitas](https://www.czechitas.cz/en/). I learned how it´s difficult to work in a team, learned how to solve _merge problems_ with _Git_ and _GitHub_, implemented charts to our project using _Chart.js_... I found that it´s much easier to work on a project myself, even when the project is more difficult (especially because I can use my own ideas and don´t need to change the way how I solve a problem because of other complexities.) Our 3-member team managed to join the website (HTML/CSS/JS) with a database on PostgreSQL. I´m not happy about our result project at all, but this event was a great experience and taught me a lot!
 
 ### Day 161 - 27.1.2019 (Sun) +
-**Today´s Progress:** I worked on the _React challenge_ from the [React course](https://www.udemy.com/react-the-complete-guide-incl-redux/), section _Working with lists and conditionals_ (app with input, input-text is shown below + each letter in an individual box. After click on any box the letter is deleted (box disappears and letter is deleted from the text). 
+**Today´s Progress:** I did the challenge at the [React course](https://www.udemy.com/react-the-complete-guide-incl-redux/), section _Working with lists and conditionals_: Create an app with input, the input-text is shown below + each letter in an individual box. After clicking on any box the letter is deleted (box disappears and letter is deleted from the text). 
 
 
 
