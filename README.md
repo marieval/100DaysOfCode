@@ -889,5 +889,6 @@ document.querySelector("#today").valueAsDate = new Date();
 ### Day 161 - 27.1.2019 (Sun) +
 **Today´s Progress:** I did the challenge at the [React course](https://www.udemy.com/react-the-complete-guide-incl-redux/), section _Working with lists and conditionals_: Create an app with input, the input-text is shown below + each letter in an individual box. After clicking on any box the letter is deleted (box disappears and letter is deleted from the text). 
 
-
+### Day 162 - 28.1.2019 (Mon) +
+**Today´s Progress:** I went through the sections _Styling components_ and _Debugging_ in the React course. 
 
