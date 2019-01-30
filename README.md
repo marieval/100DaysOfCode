@@ -893,4 +893,9 @@ document.querySelector("#today").valueAsDate = new Date();
 **Today´s Progress:** I went through the sections _Styling components_ and _Debugging_ in the React course. 
 
 ### Day 163 - 29.1.2019 (Tue) 
-**Today´s Progress:** I started the section about _Lifecycle of components_ in the React course. It looks quite clear for me until now. When I tackled this topic earlier, I didn´t understand it, but now from this explanations it´s much more clear. ;-)
+**Today´s Progress:** I started the section about _Lifecycle of components_ in the React course. It looks quite clear for me until now. When I tackled this topic earlier, I didn´t understand it, but now it´s much more clear. ;-)
+
+### Day 164 - 30.1.2019 (Wed) 
+**Today´s Progress:** I finished the section _Diving Deeper Into Components & React Internals_ of the _React_ course. I look forward to trying and practicing it in some apps! 
+
+
