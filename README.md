@@ -898,9 +898,15 @@ document.querySelector("#today").valueAsDate = new Date();
 ### Day 164 - 30.1.2019 (Wed) 
 **Today´s Progress:** I finished the section _Diving Deeper Into Components & React Internals_ of the _React_ course. I look forward to trying and practicing it in some apps! 
 
-### Day 165 - 31.1.2019 (Thu) 
-**Today´s Progress:** I did the basic structure and basic functioning of the Burger-App from the React course. 
+### Day 165 - 31.1.2019 (Thu) +
+**Today´s Progress:** I did the basic structure and basic functioning of the Burger-App from the React course (code-along). 
 
 **Thoughts:** _Styling trhough modules:_ the files must be named e.g. Layout.module.css or Button.module.css. (From React 16 the modules are in-built, earlier it was needed to do the "eject"). 
+
+### Day 166 - 1.2.2019 (Fri) +
+**Today´s Progress:** I continued with the Burger-App: added the modal, backdrop, buttons for cancel/continue, count price... (code along). I like React!!!
+
+
+
 
 
