@@ -907,7 +907,7 @@ document.querySelector("#today").valueAsDate = new Date();
 **Today´s Progress:** I continued with the Burger-App: added the modal, backdrop, buttons for cancel/continue, count price... (code along). I like React!!!
 
 ### Day 167 - 2.2.2019 (Sat) +
-**Today´s Progress:** I finished the first section buildind the Burger-App (code along). I started the section on HTTP-requests and AJAX in React. 
+**Today´s Progress:** I finished the first section buildind the Burger-App (code along). I did the section on _HTTP-requests and AJAX in React_ (learned about _Axios_, _instances_ and _interceptors_). 
 
 
 
