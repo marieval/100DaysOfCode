@@ -909,9 +909,12 @@ document.querySelector("#today").valueAsDate = new Date();
 ### Day 167 - 2.2.2019 (Sat) +
 **Today´s Progress:** I finished the first section buildind the Burger-App (code along). I did the section on _HTTP-requests and AJAX in React_ (learned about _Axios_, _instances_ and _interceptors_). 
 
-### Day 168 - 3.2.2019 (Sun) +
+### Day 168 - 3.2.2019 (Sun) (+)
 **Today´s Progress:** I connected the server to the Burger-App (using _Firebase_) and started working with Firebase.
 
+### -- Day off - 4.2.2019 (Mon) --
 
+### Day 169 - 5.2.2019 (Tue) (+)
+**Today´s Progress:** I continued with the Burger-App at the React course (code-along). I added sending the POST-request and worked on handling the errors (using higher-order-component). 
 
 
