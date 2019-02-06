@@ -917,4 +917,8 @@ document.querySelector("#today").valueAsDate = new Date();
 ### Day 169 - 5.2.2019 (Tue) (+)
 **Today´s Progress:** I continued with the Burger-App at the React course (code-along). I added sending the POST-request and worked on handling the errors (using higher-order-component). 
 
+### Day 170 - 6.2.2019 (Wed) (+)
+**Today´s Progress:** I did the first part of the section about _React-Router_ (routing, _Link_ and _NavLink_, _withRouter_, passing and extracting _route-parameters, query-parameters_ and fragments/hash,...). 
+
+
 
