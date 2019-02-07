@@ -1,6 +1,6 @@
 # 100DaysOfCode / No-Zero-Days #
 
-The log of my progress inspired by #NoZeroDays and #100DaysOfCode challenges.
+The log of my progress inspired by #NoZeroDays challenge and #100DaysOfCode challenge.
 
 ## Log
 
