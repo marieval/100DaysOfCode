@@ -920,5 +920,9 @@ document.querySelector("#today").valueAsDate = new Date();
 ### Day 170 - 6.2.2019 (Wed) (+)
 **Today´s Progress:** I did the first part of the section about _React-Router_ (routing, _Link_ and _NavLink_, _withRouter_, passing and extracting _route-parameters, query-parameters_ and fragments/hash,...). 
 
+### Day 171 - 7.2.2019 (Thu) 
+**Today´s Progress:** I finished the section about _React-Routing_ (_Switch_ component, _nested routes_, _History-prop_, _Lazy loading_,...). 
+
+
 
 
