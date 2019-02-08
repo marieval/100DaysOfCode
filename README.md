@@ -923,6 +923,9 @@ document.querySelector("#today").valueAsDate = new Date();
 ### Day 171 - 7.2.2019 (Thu) 
 **Today´s Progress:** I finished the section about _React-Routing_ (_Switch_ component, _nested routes_, _History-prop_, _Lazy loading_,...). 
 
+### Day 172 - 8.2.2019 (Fri) +
+**Today´s Progress:** I did the final challenge of the _React-Routing_ section of the React-course (I practiced there most of the things  I learned in the last three days).
+
 
 
 
