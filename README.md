@@ -926,6 +926,16 @@ document.querySelector("#today").valueAsDate = new Date();
 ### Day 172 - 8.2.2019 (Fri) +
 **Today´s Progress:** I did the final challenge of the _React-Routing_ section of the React-course (I practiced there most of the things  I learned in the last three days).
 
+### -- Days off - 9.2.2019 (Sat) to 17.2.2019 (Sun) --
+I was on winter holiday with my family and friends. I took with me my laptop, but didn´t come to coding (just reading some stuff regarding coding, but not much).
+
+### Day 173 - 18.2.2019 (Mon) +
+**Today´s Progress:** I repeated some JavaScript concepts (ES6 features).
+
+### Day 174 - 19.2.2019 (Tue) 
+**Today´s Progress:** I continued with the React-course: I did the section _Adding Routing to the Burger Project_.
+
+
 
 
 
