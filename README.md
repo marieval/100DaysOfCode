@@ -935,6 +935,9 @@ I was on winter holiday with my family and friends. I took with me my laptop, bu
 ### Day 174 - 19.2.2019 (Tue) 
 **Today´s Progress:** I continued with the React-course: I did the section _Adding Routing to the Burger Project_.
 
+### Day 175 - 20.2.2019 (Wed) +
+**Today´s Progress:** I finished the part of the _React-course_ until the Redux part. I went back to the React section of the _Zero To Mastery_ course, which I did earlier: this time it´s everything crystal-clear! Wow, it´s great! I started the _Robofriends App_.  
+
 
 
 
