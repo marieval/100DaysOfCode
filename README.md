@@ -938,6 +938,10 @@ I was on winter holiday with my family and friends. I took with me my laptop, bu
 ### Day 175 - 20.2.2019 (Wed) +
 **Today´s Progress:** I finished the part of the _React-course_ until the Redux part. I went back to the React section of the course _The Complete Web Developer in 2019_, which I did earlier: this time it´s everything crystal-clear! Wow, it´s great! I started the _Robofriends App_.  
 
+### Day 176 - 21.2.2019 (Thu) +
+**Today´s Progress:** I continued with my _Robofriends App_ along with the React section of the course _Complete Web Developer in 2019_.
+
+
 
 
 
