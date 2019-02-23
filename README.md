@@ -944,6 +944,9 @@ I was on winter holiday with my family and friends. I took with me my laptop, bu
 ### Day 177 - 22.2.2019 (Fri) 
 **Today´s Progress:** I reviewed the sections about _JSON/AJAX, Asynchronous JS, Backend Basics and APIs_. 
 
+### Day 178 - 23.2.2019 (Sat) 
+**Today´s Progress:** I watched the first part of the Front-End of the Face-Recognition-App. I got inspired by it and coded part of my first react plan-app. 
+
 
 
 
