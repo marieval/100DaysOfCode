@@ -941,6 +941,9 @@ I was on winter holiday with my family and friends. I took with me my laptop, bu
 ### Day 176 - 21.2.2019 (Thu) +
 **Today´s Progress:** I continued with my _Robofriends App_ along with the React section of the course _Complete Web Developer in 2019_.
 
+### Day 177 - 22.2.2019 (Fri) 
+**Today´s Progress:** I reviewed the sections about _JSON/AJAX, Asynchronous JS, Backend Basics and APIs_. 
+
 
 
 
