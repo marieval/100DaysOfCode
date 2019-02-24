@@ -948,7 +948,9 @@ I was on winter holiday with my family and friends. I took with me my laptop, bu
 **Today´s Progress:** I watched the first part of the Front-End of the Face-Recognition-App. I got inspired by it and coded part of my first react plan-app. 
 
 ### Day 179 - 24.2.2019 (Sun) 
-**Today´s Progress:** I watched another part of the Front-End Face-Recognition-App. I continued coding my first _react plan-app_. 
+**Today´s Progress:** I watched another part of the Front-End Face-Recognition-App. I continued coding my first _react plan-app_ (added forms and routing - sign-in / sign-out / register).
+
+
 
 
 
