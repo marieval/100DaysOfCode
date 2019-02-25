@@ -944,12 +944,14 @@ I was on winter holiday with my family and friends. I took with me my laptop, bu
 ### Day 177 - 22.2.2019 (Fri) 
 **Today´s Progress:** I reviewed the sections about _JSON/AJAX, Asynchronous JS, Backend Basics and APIs_. 
 
-### Day 178 - 23.2.2019 (Sat) 
+### Day 178 - 23.2.2019 (Sat) +
 **Today´s Progress:** I watched the first part of the Front-End of the Face-Recognition-App. I got inspired by it and coded part of my first react plan-app. 
 
-### Day 179 - 24.2.2019 (Sun) 
+### Day 179 - 24.2.2019 (Sun) +
 **Today´s Progress:** I watched another part of the Front-End Face-Recognition-App. I continued coding my first _react plan-app_ (added forms and routing - sign-in / sign-out / register).
 
+### Day 180 - 25.2.2019 (Mon) +
+**Today´s Progress:** I reviewed the _Backend part_ of the ZtM course (first part of it). I continued coding my react-plan-app (it´s backend).
 
 
 
