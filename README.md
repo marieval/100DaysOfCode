@@ -953,6 +953,8 @@ I was on winter holiday with my family and friends. I took with me my laptop, bu
 ### Day 180 - 25.2.2019 (Mon) +
 **Today´s Progress:** I reviewed the _Backend part_ of the ZtM course (first part of it). I continued coding my react-plan-app (it´s backend).
 
+### Day 181 - 26.2.2019 (Tue) +
+**Today´s Progress:** I finished the Backend-part of the ZtM course. I connected the backend and frontend part ov my react-plan-app. I also started reviewing the part about _Databases_. I installed and started _PostgreSQL_ (wasn´t so easy - there were many problems, but I succeeded!). 
 
 
 
