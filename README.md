@@ -964,6 +964,10 @@ I was on winter holiday with my family and friends. I took with me my laptop, bu
 ### Day 183 - 28.2.2019 (Thu) +
 **Today´s Progress:** I worked on my app. I did various changes with database and front-end to see how it impacts the result. I think I need some review of routing. 
 
+### Day 184 - 1.3.2019 (Fri) +
+**Today´s Progress:** I managed to find the bug in my react-app! (I thought that the problem was in routing, but the bug was much simpler - incorrect type of brackets!! Then I started my react app (from scratch) - _React Calculator_. I made the components and did just basic styling (this needs to be improved!) I decided to use plain css (not tachyons).
+
+
 
 
 
