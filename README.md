@@ -961,6 +961,9 @@ I was on winter holiday with my family and friends. I took with me my laptop, bu
 
 **Thoughts:** I decided to make my first project using React and Databases a more simple than I intended (complex to-do app). First I will do something easier, just to practice combining frontend with the backend and database. (But later I will do my to-do app - I look forward to doing it!)
 
+### Day 183 - 28.2.2019 (Thu) +
+**Today´s Progress:** I worked on my app. I did various changes with database and front-end to see how it impacts the result. I think I need some review of routing. 
+
 
 
 
