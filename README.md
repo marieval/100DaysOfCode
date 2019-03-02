@@ -967,7 +967,8 @@ I was on winter holiday with my family and friends. I took with me my laptop, bu
 ### Day 184 - 1.3.2019 (Fri) +
 **Today´s Progress:** I managed to find the bug in my react-app! (I thought that the problem was in routing, but the bug was much simpler - incorrect type of brackets!! Then I started my react app (from scratch) - _React Calculator_. I made the components and did just basic styling (this needs to be improved!) I decided to use plain css (not tachyons).
 
-
+### Day 185 - 2.3.2019 (Sat) +
+**Today´s Progress:** I continued with my _React Calculator_ - styling and basic structure. 
 
 
 
