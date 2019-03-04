@@ -970,6 +970,12 @@ I was on winter holiday with my family and friends. I took with me my laptop, bu
 ### Day 185 - 2.3.2019 (Sat) +
 **Today´s Progress:** I continued with my _React Calculator_ - styling and basic structure. 
 
+### -- Day off - 3.3.2019 (Sun) --
+
+### Day 186 - 4.3.2019 (Mon) 
+**Today´s Progress:** I read part of the _React docs_. I worked on the functionality of the _React Calculator_.
+
+
 
 
 
