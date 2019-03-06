@@ -972,12 +972,20 @@ I was on winter holiday with my family and friends. I took with me my laptop, bu
 
 ### -- Day off - 3.3.2019 (Sun) --
 
-### Day 186 - 4.3.2019 (Mon) 
+### Day 186 - 4.3.2019 (Mon) +
 **Today´s Progress:** I read part of the _React docs_. I worked on the functionality of the _React Calculator_.
 
+### Day 187 - 5.3.2019 (Tue) +
+**Today´s Progress:** I enrolled to an in-person course of _Advanced JavaScript_ and today was the first lesson: today it was about the introductory topics (npm, git, github).
 
+### Day 188 - 6.3.2019 (Wed) 
+**Today´s Progress:** I read the topics about props.children and intro to react hooks. I read part of the _The road to React_ and watched some videos from Dan Abramov. I learned about _hot module reloading_ (by Dan Abramov).
 
-
+**Thoughts:** 
+Hot module reloading: tool to reload the application in the browser without page refresh (this way the application state is kept):
+``` if (module.hot) {
+module.hot.accept() }
+```
 
 
 
