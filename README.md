@@ -990,3 +990,9 @@ module.hot.accept() }
 ### Day 189 - 7.3.2019 (Thu) +
 **Today´s Progress:** I read some more articles about React (mostly from Robin Wieruch). I read and coded-along with the Road to Learn React book.  
 
+### Day 190 - 8.3.2019 (Fri) +
+**Today´s Progress:** I finished the functionality of my _React Calculator_ (all the calculations work, even with the float numbers etc). 
+I finished the course "The Complete Web Developer in 2019: Zero to Mastery" (went through the CSS Grid section, which was added to the course). 
+
+
+
