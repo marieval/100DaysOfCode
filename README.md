@@ -994,5 +994,8 @@ module.hot.accept() }
 **Today´s Progress:** I finished the functionality of my _React Calculator_ (all the calculations work, even with the float numbers etc). 
 I finished the course "The Complete Web Developer in 2019: Zero to Mastery" (went through the CSS Grid section, which was added to the course). 
 
+### Day 191 - 9.3.2019 (Sat) +
+**Today´s Progress:** I fixed the bug with accepting more commas "." in a number in my _React Calculator_. I started the course _The Complete Junior to Senior Web Developer Roadmap (2019)_ - I did the section about _SSH_.
+
 
 
