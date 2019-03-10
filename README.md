@@ -997,5 +997,8 @@ I finished the course "The Complete Web Developer in 2019: Zero to Mastery" (wen
 ### Day 191 - 9.3.2019 (Sat) +
 **Today´s Progress:** I fixed the bug with accepting more commas "." in a number in my _React Calculator_. I started the course _The Complete Junior to Senior Web Developer Roadmap (2019)_ - I did the section about _SSH_.
 
+### Day 192 - 10.3.2019 (Sun) +
+**Today´s Progress:** I added restriction in possible length of number-input in my _React Calculator_. I continued with the course - the section about _Performance: part 1_.
+
 
 
