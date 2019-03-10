@@ -995,14 +995,14 @@ module.hot.accept() }
 I finished the course "The Complete Web Developer in 2019: Zero to Mastery" (went through the CSS Grid section, which was added to the course). 
 
 ### Day 191 - 9.3.2019 (Sat) +
-**Today´s Progress:** I fixed the bug with accepting more commas "." in a number in my _React Calculator_. I started the course _The Complete Junior to Senior Web Developer Roadmap (2019)_ - I did the section about _SSH_.
+**Today´s Progress:** I fixed the bug with accepting more commas "." in a number in my _React Calculator_. I started the course [The Complete Junior to Senior Web Developer Roadmap (2019)](https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/)_ - I did the section about _SSH_.
 
 ### Day 192 - 10.3.2019 (Sun) +
 **Today´s Progress:** I added restriction in possible length of number-input in my _React Calculator_. I continued with the course - finished the section about _Performance: part 1_ and did the section about _React_ (Robofriends-app in React).
 
 **Thoughts:** Regarding performance, I like the _Above the fold loading_ (importing the stylesheet of only the visible part of the page, the lower part imports later). Also, _downloading css according to @media_ is super.
 
-Tools for performance testing: [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=cs), [WebPage Test](https://www.webpagetest.org/).
+_Tools for performance testing:_ [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=cs), [WebPage Test](https://www.webpagetest.org/).
 
 
 
