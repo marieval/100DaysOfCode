@@ -1007,6 +1007,10 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 193 - 11.3.2019 (Mon) 
 **Today´s Progress:** I did the section about _Redux_ and _Webpack, Babel, ESLint,..._ in the course (JtS). 
 
+### Day 194 - 12.3.2019 (Tue) +
+**Today´s Progress:** I did the section _Performance 2_ in the course JtS: learned about _Code splitting, Tree Shaking,..._ and about _PWA (Progressive web apps)._ 
+
+
 
 
 
