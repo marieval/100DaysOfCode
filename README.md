@@ -1010,6 +1010,8 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 194 - 12.3.2019 (Tue) +
 **Today´s Progress:** I did the section _Performance 2_ in the course JtS: learned about _Code splitting, Tree Shaking,..._ and about _PWA (Progressive web apps)._ 
 
+### Day 195 - 13.3.2019 (Wed) 
+**Today´s Progress:** I read more information about _asynchronicity of setState() in React_ (I think some bugs in my React-calculator are connected with this). Also, I repeated first part of the _React-course (Basics, Lists&Conditionals, Styling of components, Debugging of React-apps)_. That´s great how things are fitting together now! 
 
 
 
