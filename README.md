@@ -1013,7 +1013,9 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 195 - 13.3.2019 (Wed) 
 **Today´s Progress:** I read more information about _asynchronicity of setState() in React_ (I think some bugs in my React-calculator are connected with this). Also, I repeated first part of the _React-course (Basics, Lists&Conditionals, Styling of components, Debugging of React-apps)_. That´s great how things are fitting together now! 
 
-### -- Day off - 14.12.2018 (Thu) --
+### Day 196- 14.12.2019 (Thu) +
+**Today´s Progress:** I worked on my _React Calculator_: I tried to find out where is the bug. I solved one, but with the solution I created another bug in functionality of the calculator. :-( There must be some issue in the logic of the app. I must find out where!!!
+
 
 
 
