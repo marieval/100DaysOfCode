@@ -1013,7 +1013,7 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 195 - 13.3.2019 (Wed) 
 **Today´s Progress:** I read more information about _asynchronicity of setState() in React_ (I think some bugs in my React-calculator are connected with this). Also, I repeated first part of the _React-course (Basics, Lists&Conditionals, Styling of components, Debugging of React-apps)_. That´s great how things are fitting together now! 
 
-
+### -- Day off - 14.12.2018 (Thu) --
 
 
 
