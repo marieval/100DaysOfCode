@@ -1016,6 +1016,9 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 196- 14.12.2019 (Thu) +
 **Today´s Progress:** I worked on my _React Calculator_: I tried to find out where is the bug. I solved one, but with the solution I created another bug in functionality of the calculator. :-( There must be some issue in the logic of the app. I must find out where!!!
 
+### Day 197- 15.12.2019 (Fri) +
+**Today´s Progress:** I want to put my previous projects online, so I´ll go through them to check if these are ok. Today I went through Survey form, Technical Documentation Page, and Randome Quote Machine (in this I have one issue which I will consult). I also watched the section of _Lifecycle Hooks_ and _React Hooks_ in the React-course. 
+
 
 
 
