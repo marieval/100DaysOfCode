@@ -1019,6 +1019,9 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 197- 15.12.2019 (Fri) +
 **Today´s Progress:** I want to put my previous projects online, so I´ll go through them to check if these are ok. Today I went through Survey form, Technical Documentation Page, and Randome Quote Machine (in this I have one issue which I will consult). I also watched the section of _Lifecycle Hooks_ and _React Hooks_ in the React-course. 
 
+### Day 198- 16.12.2019 (Sat) 
+**Today´s Progress:** I continued with the section of _Lifecycle Hooks_ and _React Hooks_ in the React-course. Learned about _ref_ and _context_. 
+
 
 
 
