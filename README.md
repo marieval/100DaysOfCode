@@ -1028,4 +1028,8 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 200 - 18.3.2019 (Mon) 
 **Today´s Progress:** I continued with improving my _Portfolio Website_. I watched part of the section about _Testing_ in the Junior-to-Senior course. 
 
+### Day 201 - 19.3.2019 (Tue) 
+**Today´s Progress:** I attended the in-person Javascript course (the main topic was classes and inheritance). In the online course (JtS) I learned about _TypeScript_. 
+
+
 
