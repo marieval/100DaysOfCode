@@ -1022,14 +1022,16 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 198 - 16.3.2019 (Sat) 
 **Today´s Progress:** I continued with the section of _Lifecycle Hooks_ and _React Hooks_ in the React-course. Learned about _ref_ and _context_. 
 
-### Day 199 - 17.3.2019 (Sun) 
+### Day 199 - 17.3.2019 (Sun) +
 **Today´s Progress:** I worked on improving my _Portfolio Website_ (styling, fonts, colors, animations, texts,...). It took longer than I thought but I like it (of course there are still things to improve). ;-) 
 
-### Day 200 - 18.3.2019 (Mon) 
+### Day 200 - 18.3.2019 (Mon) +
 **Today´s Progress:** I continued with improving my _Portfolio Website_. I watched part of the section about _Testing_ in the Junior-to-Senior course. 
 
-### Day 201 - 19.3.2019 (Tue) 
+### Day 201 - 19.3.2019 (Tue) +
 **Today´s Progress:** I attended the in-person Javascript course (the main topic was classes and inheritance). In the online course (JtS) I learned about _TypeScript_. 
 
+### Day 202 - 20.3.2019 (Wed) +
+**Today´s Progress:** I did the section about _Single Page Applications_ and _Server Side Rendering_ in the JtS course.
 
 
