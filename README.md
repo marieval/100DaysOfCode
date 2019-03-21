@@ -1034,4 +1034,7 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 202 - 20.3.2019 (Wed) +
 **Today´s Progress:** I did the section about _Single Page Applications_ and _Server Side Rendering_ in the JtS course.
 
+### Day 203 - 21.3.2019 (Thu) 
+**Today´s Progress:** I did the section about _Security_ in the JtS course.
+
 
