@@ -1040,5 +1040,6 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 204 - 22.3.2019 (Fri) 
 **Today´s Progress:** I did the section about _Docker_ in the JtS course. At first encounter it looks really difficult, but I believe that I will understand it later, after I read some other information about it from other sources. ;-)
 
-
+### Day 205 - 23.3.2019 (Sat) 
+**Today´s Progress:** I did the section about _Sessions & JWT_ in the JtS course (_Cookies-based- and token-based authentication_, their differences, pros and cons,...). 
 
