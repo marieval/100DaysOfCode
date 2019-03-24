@@ -1043,5 +1043,10 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 205 - 23.3.2019 (Sat) 
 **Today´s Progress:** I learned about _Sessions & JWT_ in the JtS course (_Cookies-based- and token-based authentication_, their differences, pros and cons,...) and also about the _AWS_ (esp. about _AWS Lambda_). 
 
+### Day 206 - 24.3.2019 (Sun) +
+**Today´s Progress:** I learned about _Performance_ on the backend (_CDNs, GZip, Databases, Caching, Load balancing_) and about _CI/CD_. I also worked on the homework for the in-person course (in vanilla JavaScript).
+
+
+
 
 
