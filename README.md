@@ -1046,8 +1046,10 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 206 - 24.3.2019 (Sun) +
 **Today´s Progress:** I learned about _Performance_ on the backend (_CDNs, GZip, Databases, Caching, Load balancing_) and about _CI/CD_. I began my homework for the in-person JavaScript course (in vanilla JavaScript).
 
-### Day 207 - 25.3.2019 (Sun) +
+### Day 207 - 25.3.2019 (Mon) +
 **Today´s Progress:** I finished my homework for the in-person JavaScript course (A Library-app in vanilla JS). 
 
+### Day 208 - 26.3.2019 (Tue) +
+**Today´s Progress:** Today I had my in-person JavaScript course - today´s topic was _asynchronous JS, APIs, fetch_. I solved the problem with the background in my Wikipedia Viewer (after loading the list of results the background image wasn´t over the whole viewport (despite background-size: cover)) - solution was to set the min-height: 100vh (how easy!). :-D 
 
 
