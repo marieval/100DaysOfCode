@@ -1052,4 +1052,11 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 208 - 26.3.2019 (Tue) +
 **Today´s Progress:** Today I had my in-person JavaScript course - today´s topic was _asynchronous JS, APIs, fetch_. I solved the problem with the background in my Wikipedia Viewer (after loading the list of results the background image wasn´t over the whole viewport (despite background-size: cover)) - solution was to set the min-height: 100vh (how easy!). :-D 
 
+### -- Day off - 27.-28.3.2019 (Wed-Thu) --
+(Funny thing: when ill with high fever I had dreams about JavaScript and React projects. :-D )
+
+### Day 209 - 29.3.2019 (Fri) +
+**Today´s Progress:** I want to make some of my earlier projects in React: I chose the _Wikipedia Viewer_ to do it _in React_, so I started work on it.
+
+
 
