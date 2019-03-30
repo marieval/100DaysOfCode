@@ -1058,5 +1058,9 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 209 - 29.3.2019 (Fri) +
 **Today´s Progress:** I want to make some of my earlier projects in React: I chose the _Wikipedia Viewer_ to do it _in React_, so I started work on it.
 
+### Day 210 - 30.3.2019 (Sat) +
+**Today´s Progress:** I worked on my _Wikipedia Viewer in React_: it´s almost done. I learned about ```rel="noopener noreferrer``` when using ```target="_blank"```, and also about ```dangerouslySetInnerHTML``` in place of ```innerHTML```. 
+
+
 
 
