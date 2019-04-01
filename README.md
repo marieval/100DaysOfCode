@@ -1064,4 +1064,7 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 211 - 31.3.2019 (Sun) +
 **Today´s Progress:** I finished my [Wikipedia Viewer in React](https://github.com/marieval/Wiki-Viewer-React).
 
+### Day 212 - 31.4.2019 (Mon) +
+**Today´s Progress:** I did some changes to my _Personal Portfolio_ and published it at github-pages. (It´s not finished yet, mainly the projects-section is not complete, but as I want to publish my react-app on github-pages I needed to publish the personal website first).
+
 
