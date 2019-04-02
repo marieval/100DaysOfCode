@@ -1068,4 +1068,6 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 **Today´s Progress:** I did some changes to my _Personal Portfolio_ and published it at github-pages. (It´s not finished yet, mainly the projects-section is not complete, but as I want to publish my react-app on github-pages I needed to publish the personal website first).
 
 ### Day 213 - 2.4.2019 (Tue) +
-**Today´s Progress:** I managed to publish my _Wikipedia-Viewer in React_ on _github-pages_ (first it didn´t work, finally the solution was to set the ```git remote add origin <url>```). I improved responsivity of the project. 
+**Today´s Progress:** I managed to publish my _Wikipedia-Viewer in React_ on _github-pages_ (first it didn´t work, finally the solution was to set the ```git remote add origin <url>```). I improved responsivity of the project (only locally). 
+
+
