@@ -1071,6 +1071,6 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 **Today´s Progress:** I managed to publish my _Wikipedia-Viewer in React_ on _github-pages_ (first it didn´t work, finally the solution was to set the ```git remote add origin <url>```). I improved responsivity of the project (only locally). 
 
 ### Day 214 - 3.4.2019 (Wed) +
-**Today´s Progress:** I deployed the updated _Wikipedia-Viewer in React_ to _github-pages_ (https://github.com/marieval/Wiki-Viewer-React). I uploaded to github also my older project _Random Quotes_ and deployed it to  https://marieval.github.io/random-quotes/ (In this project I used _SASS/SCSS_). 
+**Today´s Progress:** I deployed the updated _Wikipedia-Viewer in React_ to _github-pages_ (https://github.com/marieval/Wiki-Viewer-React). I uploaded to github also my older project _Random Quotes_ (in this project I used _SASS/SCSS_) and deployed it to  https://marieval.github.io/random-quotes/ . 
 
 
