@@ -1065,12 +1065,16 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 **Today´s Progress:** I finished my [Wikipedia Viewer in React](https://github.com/marieval/Wiki-Viewer-React).
 
 ### Day 212 - 1.4.2019 (Mon) +
-**Today´s Progress:** I did some changes to my _Personal Portfolio_ and published it at github-pages. (It´s not finished yet, mainly the projects-section is not complete, but as I want to publish my react-app on github-pages I needed to publish the personal website first).
+**Today´s Progress:** I did some changes to my (Personal Portfolio Website)[https://marieval.github.io/] and published it at github-pages. (It´s not finished yet, mainly the projects-section is not complete, but as I want to publish my react-app on github-pages I needed to publish the personal website first).
 
 ### Day 213 - 2.4.2019 (Tue) +
 **Today´s Progress:** I managed to publish my _Wikipedia-Viewer in React_ on _github-pages_ (first it didn´t work, finally the solution was to set the ```git remote add origin <url>```). I improved responsivity of the project (only locally). 
 
 ### Day 214 - 3.4.2019 (Wed) +
 **Today´s Progress:** I deployed the updated _Wikipedia-Viewer in React_ to _github-pages_ (https://github.com/marieval/Wiki-Viewer-React). I uploaded to github also my older project _Random Quotes_ (in this project I used _SASS/SCSS_) and deployed it to  https://marieval.github.io/random-quotes/ . 
+
+### Day 215 - 4.4.2019 (Thu) +
+**Today´s Progress:** I improvedd responsivity of my older projects (done as FCC-projects): _Twitch.TV API_, _JavaScript Calculator_, _Tic-Tac-Toe Game_ and updated the codes on Codepen. I updated those projects on my _Personal Portfolio_ and pushed the portfolio to GitHub and gh-pages. (The Portfolio Website is still not finished)
+
 
 
