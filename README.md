@@ -1076,8 +1076,10 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 215 - 4.4.2019 (Thu) +
 **Today´s Progress:** I improved responsivity of my older projects (done as FCC-projects): _Twitch.TV API_, _JavaScript Calculator_, _Tic-Tac-Toe Game_ and updated the codes on Codepen. I updated those projects on my _Personal Portfolio_ and pushed the portfolio to GitHub and gh-pages. (The Portfolio Website is still not finished)
 
-### Day 216 - 5.4.2019 (Thu) +
-**Today´s Progress:** I added responsivity to my older project _Local Weather App_. I further improved my _Personal Portfolio Webpage_. I also read some chapters of the book _Learning React (Alex Banks, Eve Porcello)_.
+### Day 216 - 5.4.2019 (Fri) +
+**Today´s Progress:** I improved my _Personal Portfolio Webpage_. 
+
+
 
 
 
