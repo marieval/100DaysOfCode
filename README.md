@@ -1074,13 +1074,13 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 **Today´s Progress:** I deployed the updated _Wikipedia-Viewer in React_ to _github-pages_ (https://github.com/marieval/Wiki-Viewer-React). I uploaded to github also my older project _Random Quotes_ (in this project I used _SASS/SCSS_) and deployed it to  https://marieval.github.io/random-quotes/ . 
 
 ### Day 215 - 4.4.2019 (Thu) +
-**Today´s Progress:** I improved responsivity of my older projects (done as FCC-projects): _Twitch.TV API_, _JavaScript Calculator_, _Tic-Tac-Toe Game_ and updated the codes on Codepen. I updated those projects on my _Personal Portfolio_ and pushed the portfolio to GitHub and gh-pages. (The Portfolio Website is still not finished)
+**Today´s Progress:** I improved responsivity of my older projects (done as FCC-projects): _Twitch.TV API_, _JavaScript Calculator_, _Tic-Tac-Toe Game_ and updated the codes on Codepen. I updated those projects on my _Personal Portfolio_ and pushed the portfolio to GitHub and gh-pages. (The Portfolio Website is still not finished) 
 
 ### Day 216 - 5.4.2019 (Fri) +
-**Today´s Progress:** I improved my _Personal Portfolio Webpage_. 
+**Today´s Progress:** I added responsivity to my older project _Local Weather App_. I further improved my _Personal Portfolio Webpage_. I also read some chapters of the book _Learning React (Alex Banks, Eve Porcello)_.
 
-### Day 218 - 6.4.2019 (Sat) 
-**Today´s Progress:** I learned more about _Validating props_, _Default props_ and _Refs_ in React (online and in the book Learning React). 
+### Day 217 - 6.4.2019 (Sat) 
+**Today´s Progress:** I improved my _Personal Portfolio Webpage_. I learned more about _Validating props_, _Default props_ and _Refs_ in React (online and in the book Learning React). 
 
 
 
