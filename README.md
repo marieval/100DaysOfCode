@@ -1079,7 +1079,8 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 216 - 5.4.2019 (Fri) +
 **Today´s Progress:** I improved my _Personal Portfolio Webpage_. 
 
-
+### Day 218 - 6.4.2019 (Sat) 
+**Today´s Progress:** I learned more about _Validating props_, _Default props_ and _Refs_ in React (online and in the book Learning React). 
 
 
 
