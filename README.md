@@ -1082,5 +1082,10 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 217 - 6.4.2019 (Sat) 
 **Today´s Progress:** I improved my _Personal Portfolio Webpage_. I learned more about _Validating props_, _Default props_ and _Refs_ in React (online and in the book Learning React). 
 
+### -- Day off - 7.4.2019 (Sun) --
+
+### Day 218 - 8.4.2019 (Mon) 
+**Today´s Progress:** I worked on the _Robots-Search-App_ (an app based on the course Zero To Mastery). I worked especially on it´s styling and made other minor changes. (Note: _Tachyons_ is sooo easy to use!)
+
 
 
