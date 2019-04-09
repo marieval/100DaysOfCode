@@ -1085,7 +1085,8 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### -- Day off - 7.4.2019 (Sun) --
 
 ### Day 218 - 8.4.2019 (Mon) 
-**Today´s Progress:** I worked on the _Robots-Search-App_ (an app based on the course Zero To Mastery). I worked especially on it´s styling and made other minor changes. (Note: _Tachyons_ is sooo easy to use!)
+**Today´s Progress:** I worked on the _Meet-Robot_ app (an app based on the course Zero To Mastery). I worked especially on it´s styling and made other minor changes. (Note: _Tachyons_ is sooo easy to use!)
 
-
+### Day 219 - 9.4.2019 (Tue) 
+**Today´s Progress:** On the in-person JavaScript course, we continued with the _async/await_ topic and _Promise.all()_. Also, I worked on my _Meet-Robot_ app. 
 
