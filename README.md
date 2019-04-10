@@ -1090,3 +1090,12 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 219 - 9.4.2019 (Tue) 
 **Today´s Progress:** On the in-person JavaScript course, we continued with the _async/await_ topic and _Promise.all()_. Also, I worked on my _Meet-Robot_ app. 
 
+### Day 220 - 10.4.2019 (Wed) 
+**Today´s Progress:** I tried to deploy my _Meet-Robot_ app to gh-pages, but it always got stuck and didn´t deploy (I was able only to upload the code to github). I googled for the problem, tried various solutions, but didn´t succeed. I updated my _Personal Portfolio_ (the deployed version). Further, today I worked on the _Find-Face_ app (another project of the Zero-To-Mastery course). I did the basic view and implemented the _Clarifai API_ to detect faces in pictures. 
+
+**Thoughts:** To sync gh-pages + master branch:
+```
+git add . // git status // git commit -m "..." // git push origin master // git checkout gh-pages // git rebase master // git push origin gh-pages // git checkout master 
+```
+
+
