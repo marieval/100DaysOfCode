@@ -1095,7 +1095,14 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 
 **Thoughts:** To sync gh-pages + master branch:
 ```
-git add . // git status // git commit -m "..." // git push origin master // git checkout gh-pages // git rebase master // git push origin gh-pages // git checkout master 
+git add . 
+git status 
+git commit -m "..." 
+git push origin master 
+git checkout gh-pages 
+git rebase master 
+git push origin gh-pages 
+git checkout master 
 ```
 
 
