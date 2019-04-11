@@ -1079,18 +1079,18 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 ### Day 216 - 5.4.2019 (Fri) +
 **Today´s Progress:** I added responsivity to my older project _Local Weather App_. I further improved my _Personal Portfolio Webpage_. I also read some chapters of the book _Learning React (Alex Banks, Eve Porcello)_.
 
-### Day 217 - 6.4.2019 (Sat) 
+### Day 217 - 6.4.2019 (Sat) +
 **Today´s Progress:** I improved my _Personal Portfolio Webpage_. I learned more about _Validating props_, _Default props_ and _Refs_ in React (online and in the book Learning React). 
 
 ### -- Day off - 7.4.2019 (Sun) --
 
-### Day 218 - 8.4.2019 (Mon) 
+### Day 218 - 8.4.2019 (Mon) +
 **Today´s Progress:** I worked on the _Meet-Robot_ app (an app based on the course Zero To Mastery). I worked especially on it´s styling and made other minor changes. (Note: _Tachyons_ is sooo easy to use!)
 
-### Day 219 - 9.4.2019 (Tue) 
+### Day 219 - 9.4.2019 (Tue) +
 **Today´s Progress:** On the in-person JavaScript course, we continued with the _async/await_ topic and _Promise.all()_. Also, I worked on my _Meet-Robot_ app. 
 
-### Day 220 - 10.4.2019 (Wed) 
+### Day 220 - 10.4.2019 (Wed) +
 **Today´s Progress:** I tried to deploy my _Meet-Robot_ app to gh-pages, but it always got stuck and didn´t deploy (I was able only to upload the code to github). I googled for the problem, tried various solutions, but didn´t succeed. I updated my _Personal Portfolio_ (the deployed version). Further, today I worked on the _Find-Face_ app (another project of the Zero-To-Mastery course). I did the basic view and implemented the _Clarifai API_ to detect faces in pictures. 
 
 **Thoughts:** To sync gh-pages + master branch:
@@ -1104,5 +1104,10 @@ git rebase master
 git push origin gh-pages 
 git checkout master 
 ```
+
+### Day 221 - 11.4.2019 (Thu) +
+**Today´s Progress:** I attended _Front-end Miniconference_: there were three interesting presentations: _Browser APIs_, _AMPHTML e-mail_ and _Native Lazy-Loading_.  Also, today I worked a bit on the _Find-Face_ app (however, the bounding box is not displaying correctly - I have to fix it). 
+
+
 
 
