@@ -1072,7 +1072,7 @@ _Tools for performance testing:_ [PageSpeed Insights](https://developers.google.
 **Today´s Progress:** I managed to publish my _Wikipedia-Viewer in React_ on _github-pages_ (first it didn´t work, finally the solution was to set the ```git remote add origin <url>```). I improved responsivity of the project (only locally). 
 
 ### Day 214 - 3.4.2019 (Wed) +
-**Today´s Progress:** I deployed the updated _Wikipedia-Viewer in React_ to _github-pages_ (https://github.com/marieval/Wiki-Viewer-React). I uploaded to github also my older project _Random Quotes_ (in this project I used _SASS/SCSS_) and deployed it to  https://marieval.github.io/random-quotes/ . 
+**Today´s Progress:** I deployed the updated [Wikipedia-Viewer in React](https://github.com/marieval/Wiki-Viewer-React) to _github-pages_. I uploaded to github also my older project [Random Quotes](https://marieval.github.io/random-quotes/) (in this project I used _SASS/SCSS_) and deployed it to github-pages. 
 
 ### Day 215 - 4.4.2019 (Thu) +
 **Today´s Progress:** I improved responsivity of my older projects (done as FCC-projects): _Twitch.TV API_, _JavaScript Calculator_, _Tic-Tac-Toe Game_ and updated the codes on Codepen. I updated those projects on my _Personal Portfolio_ and pushed the portfolio to GitHub and gh-pages. (The Portfolio Website is still not finished) 
@@ -1109,6 +1109,8 @@ git checkout master
 ### Day 221 - 11.4.2019 (Thu) +
 **Today´s Progress:** I attended _Front-end Miniconference_: there were three interesting presentations: _Browser APIs_, _AMPHTML e-mail_ and _Native Lazy-Loading_.  Also, today I worked a bit on the _Find-Face_ app (however, the bounding box is not displaying correctly - I have to fix it). 
 
+### Day 222 - 12.4.2019 (Fri) +
+**Today´s Progress:** I deployed my [Meet-Robot](https://marieval.github.io/meet-robot/) app (the previous problem was fixed by reinstalling gh-pages package and fixing the vulnerabilities). I also updated my _Personal Portfolio Webpage_. 
 
 
 
