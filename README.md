@@ -1113,5 +1113,7 @@ git checkout master
 **Today´s Progress:** I deployed my [Meet-Robot](https://marieval.github.io/meet-robot/) app (the previous problem was fixed by reinstalling gh-pages package and fixing the vulnerabilities). I also updated my _Personal Portfolio Webpage_. 
 
 ### Day 223 - 13.4.2019 (Sat) +
-**Today´s Progress:** I worked on the front-end part of my _Find-Face_ app (an app based on the Zero-To-Mastery course, which I finished earlier) - in React. 
+**Today´s Progress:** I did the front-end part of my _Find-Face_ app (an app based on the Zero-To-Mastery course, which I finished earlier) - in React. Also, I decided to improve my understanding of JavaScript so I bought the course [Advanced JavaScript Concepts](https://www.udemy.com/share/100TZoBEAecF9QQXQ=/) and went through the JavaScript Foundation sections (among others about Call Stack, Memory Heap, Stack Overflow, Garbage Collection, Memory Leaks, Hoisting, Dynamic & Lexical Scope, Context,...). 
+
+
 
