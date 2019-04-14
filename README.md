@@ -1113,7 +1113,10 @@ git checkout master
 **Today´s Progress:** I deployed my [Meet-Robot](https://marieval.github.io/meet-robot/) app (the previous problem was fixed by reinstalling gh-pages package and fixing the vulnerabilities). I also updated my _Personal Portfolio Webpage_. 
 
 ### Day 223 - 13.4.2019 (Sat) +
-**Today´s Progress:** I did the front-end part of my _Find-Face_ app (an app based on the Zero-To-Mastery course, which I finished earlier) - in React. Also, I decided to improve my understanding of JavaScript so I bought the course [Advanced JavaScript Concepts](https://www.udemy.com/share/100TZoBEAecF9QQXQ=/) and went through the JavaScript Foundation sections (among others about Call Stack, Memory Heap, Stack Overflow, Garbage Collection, Memory Leaks, Hoisting, Dynamic & Lexical Scope, Context,... These topics are not new to me, but they are really good explained in this course, so now it´s everything much clearer to me!)  
+**Today´s Progress:** I did the front-end part of my _Find-Face_ app (an app based on the Zero-To-Mastery course, which I finished earlier) - in React. Also, I decided to strenghten my understanding of JavaScript so I bought the course [Advanced JavaScript Concepts](https://www.udemy.com/share/100TZoBEAecF9QQXQ=/) and went through the JavaScript Foundation sections (among others about Call Stack, Memory Heap, Stack Overflow, Garbage Collection, Memory Leaks, Hoisting, Dynamic & Lexical Scope, Context,... These topics are not new to me, but they are really good explained in this course, so now it´s everything much clearer to me!)  
+
+### Day 224 - 14.4.2019 (Sun) +
+**Today´s Progress:** I started the backend-part of my _Find-Face_ app. Also, I continued with the _Advanced JavaScript Concepts_ course - did the section _Types in JavaScript_ (JS-types, type coercion, dynamic vs static typing, weakly vs strongly typed languages,...).
 
 
 
