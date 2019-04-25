@@ -1,9 +1,7 @@
-# 100DaysOfCode / No-Zero-Days (Round-01) #
+# 100DaysOfCode / No-Zero-Days #
 
 The log of my progress inspired by #NoZeroDays challenge and #100DaysOfCode challenge. 
 (Note: I was learning web development already longer time ago, but from this date I started tracking my progress.)
-
-(Next parts: [Round-02](https://github.com/marieval/100DaysOfCode---Round-02), [Round-03](https://github.com/marieval/100DaysOfCode---Round-03))
 
 ## Log
 
@@ -647,6 +645,511 @@ _cubic-bezier helping-tools:_ cubic-bezier.com, easings.net
 // - Learn Node.js in more detail. -
 
 ### ********************************************************************** 
+
+
+### Day 101 - 23.11.2018 (Fri) +
+**Today´s Progress:** I started a new project _Quotes For Every Day_ (functionally similar to the one at FCC, which I did more than 1 year ago).  I decided to use Sass+BEM, so I did the basic setup for the project. I used the command line for creating the project folders/files. 
+
+**Thoughts:** For creating a new file in Git Bash (in Windows): ```> base.scss```.
+
+### Day 102 - 24.11.2018 (Sat) +
+**Today´s Progress:** I continued with the project _Quotes For Every Day_ - finished the layout, added responsivity. 
+
+**Thoughts:** I had problem animating the button (releasing the pressed button) - it helped to make it an ```a``` element (instead of ```button``` element). 
+Again, I have a problem with positioning the footer - so that it sticks to the bottom of the viewport if there is not enough content, but when making the viewport smaller (and so the content can´t fit to the viewport anymore), I want the footer to be completely at the bottom.  I know that I can solve it using flexbox, but I wanted to try some other solution. 
+
+### Day 103 - 25.11.2018 (Sun) +
+**Today´s Progress:** I finished the project _Quotes For Every Day_ (except JS which I want to do later). I searched and tried several solutions for the footer-issue, but I wasn´t really satisfied with any of them (I wanted to have it really responsive - without fixed height of the footer), so I finally decided to use flexbox for it. ;-)
+
+### Day 104 - 26.11.2018 (Mon) +
+**Today´s Progress:** I did some improvements in the project _Quotes For Every Day_. I started a new project (similar to the one which I did more than 1 year ago as a FCC project) - Local Weather App. I did the setup and basic layout of the project. I want some refresher about the details regarding Flexbox, so I started the Flexbox-section in the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/). 
+
+### Day 105 - 27.11.2018 (Tue)
+**Today´s Progress:** I continued with the Flexbox-section in the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/). Learned about _CSS variables_, using _SVG icons_ and using ```fill: currentElement;``` to change the color to the same as the parent, and about changing the color/font-weight/... of the _placeholder text_ (using ```&::-webkit-input-placeholder { ..... };```
+
+### Day 106 - 28.11.2018 (Wed)
+**Today´s Progress:** I finished the Flexbox-section (Trillo project) in the course [Advanced CSS and Sass](https://www.udemy.com/advanced-css-and-sass/). Learned how to put _SVG into CSS_ and how to change its color using ```mask-image```, how to do an _infinite animation_, _multicolumn list_,... and added responsivity to the whole project using @media queries.
+
+**Thoughts:** To find all the _npm packages which are installed globally:_ ``` npm list -g --depth 0```
+
+### Day 107 - 29.11.2018 (Thu)
+**Today´s Progress:** I revised the new features of JavaScript - I went through my notes and some parts of [The Complete JavaScript Course](https://www.udemy.com/the-complete-javascript-course/), and then I did the section A Quick Refresher: JavaScript in the [Node.js: the Complete Guide course](https://www.udemy.com/nodejs-the-complete-guide/).
+
+**Thoughts:** I understood better the _arrow functions_, _spread_ and _rest operator_, _destructuring_ and _asynchronous JS (promises)_.
+
+### Day 108 - 30.11.2018 (Fri) +
+**Today´s Progress:** I added the JavaScript functionality to the project _Quotes For Every Day_ - display a random quote from API (used _async JS - fetch_) after pressing the new-button,  _tweet the quote_ after pressing the tweet-button.
+
+**Thoughts:** I´m excited that I was able to do it quite quickly and it works as intended! I like the ES6 syntax! 
+
+### -- Day off - 1.12.2018 (Sat) --
+
+### Day 109 - 2.12.2018 (Sun)
+**Today´s Progress:** I did the _Node.js Crash Course_ at the [The Complete JavaScript Course](https://www.udemy.com/the-complete-javascript-course/) - I learned more about _Node.js_, _server creating_, _routing_, and creating _HTML using templates_. 
+
+### Day 110 - 3.12.2018 (Mon)
+**Today´s Progress:** I learned about the _Basics of Node.js_ at the course Node.js: The Complete Guide. (In more detail: _Starting a server, routing, redirecting,..._
+
+### Day 111 - 4.12.2018 (Tue)
+**Today´s Progress:** I did the challenge of the _Node.js_ course, Section Basics of Node.js - I started my own server and processed two scenarios/routings. I learned about _reading and writing files_ in an app using Node.js.
+
+### Day 112 - 5.12.2018 (Wed) +
+**Today´s Progress:** I learned using the _Express.js_ in the course Node.js: _adding middleware, routing, creating and serving html files, serving files statically._ I did the challenge No2 - create an app with two routes and serving a file statically. 
+
+
+### Day 113 - 6.12.2018 (Thu) +
+**Today´s Progress:** I learned about _adding dynamic content_ and using _templating engines: EJS, Pug, Handlebars_ (with EJS I worked more). Learned how to _loop in ejs_, how to use _partials/include_ in ejs and using _conditional adding of a class to an element_.
+
+**Today´s Progress:** I got stuck with the challenge - I need more practice... I wish I had more time to learn and practice during the day! :-(
+
+### Day 114 - 7.12.2018 (Fri) +
+**Today´s Progress:** I did the challenge from yesterday - I feel I understand more of the topic now! I learned about using _MVC_ (_modules-views-controls_). Also, I learned how to _load data from a file_ and _save data to a file_. 
+
+### Day 115 - 8.12.2018 (Sat)
+**Today´s Progress:** I finished the section _Dynamic Routes & Advanced Models_ of the _Node.js_ course. Learned how to use _dynamic parameters_ (using _:name_ -  ```router.get("/products/:productId");```, extracting it using _req.params_ - ```const prodId = req.params.productId;``` ). Read [The Node.js Handbook](https://nodehandbook.com/) for better understanding. Read the documentation about [Express Routing](https://expressjs.com/en/guide/routing.html) and [Using Express Middleware](https://expressjs.com/en/guide/using-middleware.html).
+
+### Day 116 - 9.12.2018 (Sun)
+**Today´s Progress:** I started the section about _Databases (SQL and NoSQL)_ of the Node.js course. I spent a long time trying to install the [MySQL](https://www.mysql.com/) on my Windows 7 PC, googled various advice but didn´t succeed. So I tried installing it on the other PC with _Linux_ Mint, which is not supported by the installations, I was partly successful, but got stuck again after starting it. :-( I´m disappointed that after so much time spent I don´t have the things working, but I try to take from it the better part - I _learned to use linux_ a bit. :-D 
+
+### Day 117 - 10.12.2018 (Mon)
+**Today´s Progress:** Today I couldn´t be at my computer, so I started reading a book _Web Development with Node & Express_ (by Ethan Brown) - It´s great for further explaining the stuff from the Node.js-course! 
+
+### -- Day off - 11.12.2018 (Tue) --
+
+### Day 118 - 12.12.2018 (Wed)
+**Today´s Progress:** I was successful with solving all the problems regarding non-functioning MySQL (on my Windows PC) and I continued with the section on _MySQL_ of the Node.js course. 
+
+### Day 119 - 13.12.2018 (Thu)
+**Today´s Progress:** I continued working with the _MySQL database_ using sql-queries (now my previous knowledge from the SQL courses and workshops are great!). I started the section about _Sequelize_ at the Node.js course. 
+
+### Day 120 - 14.12.2018 (Fri)
+**Today´s Progress:** I continued with _Sequelize_: how to connect Sequelize with MySQL, how to create new table through Sequelize, use the table...
+
+**Thoughts:** I think I´m doing only small progress, I´m learning and improving so slowly! I wish I had more time to learn and code!!! :-/
+
+### Day 121 - 15.12.2018 (Sat)
+**Today´s Progress:** I finished the section about _MySQL_ and _Sequelize_: how to create new items in tables, delete the items, how to create connections (associations) between tables.
+
+**Thoughts:** Now it seems everything clear, but I must practice it on my own project (and then use especially the [Sequelize-docs](http://docs.sequelizejs.com).
+
+### Day 122 - 16.12.2018 (Sun)
+**Today´s Progress:** Today I had less time to code/learn. :-( However, I learned at least the basics about _MongoDB_ and its settings. Also, I continued reading the book _Web Development with Node & Express_.
+
+### Day 123 - 17.12.2018 (Mon)
+**Today´s Progress:** I continued working with _MongoDB_ (at Node.js course).
+
+### Day 124 - 18.12.2018 (Tue)
+**Today´s Progress:** I learned in more detail about _Asynchronous Requests_, _REST APIs_, _CORS errors_ and its server-side solution, and _Async Await_. 
+
+### Day 125 - 19.12.2018 (Wed)
+**Today´s Progress:** I learned about _Sessions_ and _Cookies_. I learned in more detail about _CSS Grid_ (The first part of the CSS-Grid in the Advanced CSS course).
+
+### Day 126 - 20.12.2018 (Thu)
+**Today´s Progress:** I continued with the _CSS Grid_ - it´s usage in practice (nested CSS-grids, combination of css-grids and flexbox,...).
+
+### Day 127 - 21.12.2018 (Fri)
+**Today´s Progress:** I finished the _CSS Grid_ part of the Advanced CSS and Sass course on Udemy. I learned basics about _Web Design_ (quick course Web Design for Web Developers: Build Beautiful Websites - on Udemy).
+
+### Day 128 - 22.12.2018 (Sat) +
+**Today´s Progress:** I did the CSS of my Weather-App project. 
+
+### Day 129 - 23.12.2018 (Sun) +
+**Today´s Progress:** I worked on the functionality of the Weather-App (JavaScript part).
+
+### -- Day off - 24.12.2018 (Mon) --
+
+### Day 130 - 25.12.2018 (Tue) +
+**Today´s Progress:** I continued on working on my _Weather-App_ (getting the weather-info from the openweatherma API). Read through my notes about JavaScript. 
+
+### Day 131 - 26.12.2018 (Wed) +
+**Today´s Progress:** Working on my _Weather-App_ (added finding the position using http://ip-api.com). Came to a problem with fetch-then-catch, so I searched for more detailed info about this topic).
+
+**Thoughts:** Should I use _fetch()_? Its support is about only 87% now. Its use seems to be easy, but there are some "problems" and when we consider these, it´s not so straightforward. (Described in ([Why I still use XHR instead of the Fetch API](https://gomakethings.com/why-i-still-use-xhr-instead-of-the-fetch-api/) and in [Using Fetch (on CSS-Tricks)](https://css-tricks.com/using-fetch/). Summary also here: [Understand Fetch API](https://flaviocopes.com/fetch-api/).
+
+Great for trying projects with fake _REST API _: https://jsonplaceholder.typicode.com/ 
+
+### Day 132 - 27.12.2018 (Thu)
+**Today´s Progress:** I would like to use the API in "nicer" way, use _axios_ (instead of pure fetch) and use the MVC for my Weather-App, but because I´m not sure how to implement it, so I revised the final section of the Complete JavaScript course (forkify project), where all these were used.
+
+### Day 133 - 28.12.2018 (Fri)
+**Today´s Progress:** I revised the parts of the forkify-project (how the state is stored, how a controllers and views are implemented in practice). 
+
+### Day 134 - 29.12.2018 (Sat) +
+**Today´s Progress:** I´m going to create my own app: _Plan-App_. I did planning of the parts, functionalities and connections (on paper), and then I did the setup of the whole folder, installed the npm-packages (babel,..., node-sass, nodemon, webpack...). I would like to use MVC architecture (so I want to use webpack for bundling) and I´d like to use Sass (using node-sass for compiling). I tested the setting and there is some bug - the compilation of scss to sass doesn´t work. :-(
+
+### Day 135 - 30.12.2018 (Sun) +
+**Today´s Progress:** I read more about _Webpack_ and its setting, and also about using it together with _Sass_. [This article about Webpack 4 setting at hackernoon](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1) helped a lot: Finally the whole setting works! 
+
+### -- Day off - 31.12.2018 (Mon) --
+
+### -- Day off - 1.1.2019 (Tue) --
+
+### Day 136 - 2.1.2019 (Wed)
+**Today´s Progress:** I finished the book _Web Development with Node & Express_ (by Ethan Brown). 
+
+### Day 137 - 3.1.2019 (Thu) +
+**Today´s Progress:** I reviewed using Git (I want to use it when working on my Plan-App/Plan-Up project.). I created _new repository for my Plan-Up project on_GitHub_ and pushed the project-structure there. I did the basic HTML structure of the project. 
+
+### Day 138 - 4.1.2019 (Fri)  +
+**Today´s Progress:** I continued with my _Plan-Up project_ (its css).
+
+### Day 139 - 5.1.2019 (Sat) +
+**Today´s Progress:** I added JavaScript to my _Plan-Up project_. I tried to implement the MVC-architecture. It´s not complete yet, but I hope that I manage to make it all work...
+
+### Day 140 - 6.1.2019 (Sun) +
+**Today´s Progress:** I worked on my _Plan-Up project_ and its JavaScript part: _Add-btn_ is working! (You can add a new task and after add-btn-click it´s added to the to-do list.) _Delete-btn_ is also working! (You can delete individual tasks from the to-do list.) 
+
+### Day 141 - 7.1.2019 (Mon)  +
+**Today´s Progress:** I continued working on my _Plan-Up project_: set and display _dates from/until_ and _compute days remaining_. (The dates are stored in the form of timestamp.)
+
+### Day 142 - 8.1.2019 (Tue) +
+**Today´s Progress:** I added _SVG icons_ (from icomoon.io) and had to re-do the html and css to be positioned as I intended. 
+
+### Day 143 - 9.1.2019 (Wed)  +
+**Today´s Progress:** I worked on the css of the taskList in my _Plan-Up project_. (But didn´t solve what I intedended. :-( )
+
+### Day 144 - 10.1.2019 (Thu) +
+**Today´s Progress:** I did some changes to JS, but the result wasn´t satisfactory, so I wanted to revert all the changes. So I read the documentation and posts regarding _Git & undoing changes_ (e.g. on [atlassian](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting)).  
+
+### Day 145 - 11.1.2019 (Fri) +
+**Today´s Progress:** I discarded changes to my files of _Plan-Up_ to the last commit. I found out, that there is a bug even in this version! I´m completely stuck - I´m trying to find the bug, but it´s still not working! :-/
+
+### Day 146 - 12.1.2019 (Sat) +
+**Today´s Progress:** I continued with my _Plan-Up project_. It´s working now: I can add items to todo-list, when checkbox is checked, the item moves to done-list. When it´s unchecked, it gets back. However, I found out that the _state_ is working correctly, but the view is not correct. I continue working on this issue.
+
+### Day 147 - 13.1.2019 (Sun) +
+**Today´s Progress:** I continued with my _Plan-Up project_. I fixed the problem with moving/deleting the correct item (both in state and in view). I shortened my code (changed the functions to accept arguments and to be more universal - in order to "DRY".)
+
+**Thoughts:** Array.find() - returns the value of the first element in an array that passes a given test. Array.slice() - returns the part of the array (in form of other array!). 
+
+### Day 148 - 14.1.2019 (Mon) +
+**Today´s Progress:** I added button & function for deleting both lists (from view & state). I merged the "shortening" branch with the "master". I created a new branch ("sorting") and worked on the sorting-functionalities. During this, the complete project got broken and doesn´t start at all. I wanted to go back to my previous commit, but it´s not working neither! (I´d bet that it worked before! How is it possible?) So I´m trying to find some working solution (and learning more about GIT, Webpack,...)....
+
+I went back in my git, searched for problems, and when I switched back to newer commits, these worked again! :-( (That´s true that I deleted and re-installed all the dependencies from package.json again - perhaps here was a problem?? However it seems to work again... (But I lost my most recent changes regarding sorting items in the list.)
+
+**Thoughts:** For better visualisation of commits these scripts can be useful:
+
+```
+git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(dim white)- %an%C(reset)%C(auto)%d%C(reset)'
+
+and
+
+git log --graph --abbrev-commit --decorate --format=format:'%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) %C(bold green)(%ar)%C(reset)%C(auto)%d%C(reset)%n''          %C(white)%s%C(reset) %C(dim white)- %an%C(reset)'
+```
+
+### Day 149 - 15.1.2019 (Tue)  +
+**Today´s Progress:** I continued with work on my _Plan-Up Project_ (JavaScript): deleting of individual lists feature added, icons at both lists added (will be used for sorting lists). 
+
+### Day 150 - 16.1.2019 (Wed) +
+**Today´s Progress:** I worked on my _Plan-Up Project_ - I fixed the reaction to delete-list-btn click for cases, when there is no such list yet. I did some changes to my JS-code in order to make my code shorter.
+
+### Day 151 - 17.1.2019 (Thu) +
+**Today´s Progress:** I shortened the code of the whole _Plan-Up Project_ (created functions for repeating code, united more things to one function using more arguments passed to the function,...) 
+
+### Day 152 - 18.1.2019 (Fri) +
+**Today´s Progress:** I worked on the sorting of items after pushing relevant icon (urgency, name, tag): it´s working for state-lists now.
+
+### Day 153 - 19.1.2019 (Sat) +
+**Today´s Progress:** I continued on my _Plan-Up Project_: I set the default until-date to today and disabled picking past dates.
+
+**Thoughts:** For setting today´ date: 
+
+```
+let today = new Date().toISOString().substr(0, 10);
+document.querySelector("#today").value = today;
+```
+
+ or
+
+```
+document.querySelector("#today").valueAsDate = new Date();
+```
+
+### Day 154 - 20.1.2019 (Sun) +
+**Today´s Progress:** I continued on my _Plan-Up Project_: added animation on hovering sort-icons, fixed reaction after clicking sort-icon when there is no list yet.
+
+### Day 155 - 21.1.2019 (Mon) +
+**Today´s Progress:** I tried to add view-sorting to my _Plan-Up Project_ (state-sorting works already), but there was still an error and I didn´t find out how to do it now. I see that my project structure could be different from the beginning (and perhaps better in broad context), but that´s what I learned for future projects.
+
+### Day 156 - 22.1.2019 (Tue) 
+**Today´s Progress:** Based on some articles I understood that perhaps my complete idea of the _Plan-Up Project_ would be much better to do in _React_ (which was on my to-do list for longer time), so I decided to start the [React course](https://www.udemy.com/react-the-complete-guide-incl-redux/) which I bought on Black Friday Sale :-D. I went through the intro section and the section revising ES6 JavaScript. 
+
+### Day 157 - 23.1.2019 (Wed) +
+**Today´s Progress:** I revised array methods and especially the form of arrow functions (on MDN and others). I tried to refactor the syntax of my class in Plan-Up Project, but it seems that webpack doesn´t support this form ("doesn´t support experimental syntax"). So I went back to my previous syntax.
+
+### Day 158 - 24.1.2019 (Thu) +
+**Today´s Progress:** I learned the _Base Syntax_ of _React_ (in the Reacto-course on Udemy). I did the assignment after watching the section (created two components (userInput & userOutput), added input-handler, added state,...). 
+
+**Thoughts:** Tomorrow I´m going to intro to my first _Hackaton_! I´m looking forward to it, because I think it could help me in finding some ideas and advice for finishing my _Plan-Up Project_!
+
+### Day 159 - 25.1.2019 (Fri) +
+**Today´s Progress:** I worked on my _Plan-Up Project_. The view-update after sorting todo-list is working. I refactored some code (extracted some functions, got rid of one which I didn´t find that useful and solved it other way,...).
+
+### Day 160 - 26.1.2019 (Sat) +
+**Today´s Progress:** Today I attended a _Hackathon_ organized by [Czechitas](https://www.czechitas.cz/en/). I learned how it´s difficult to work in a team, learned how to solve _merge problems_ with _Git_ and _GitHub_, implemented charts to our project using _Chart.js_... I found that it´s much easier to work on a project myself, even when the project is more difficult (especially because I can use my own ideas and don´t need to change the way how I solve a problem because of other complexities.) Our 3-member team managed to join the website (HTML/CSS/JS) with a database on PostgreSQL. I´m not happy about our result project at all, but this event was a great experience and taught me a lot!
+
+### Day 161 - 27.1.2019 (Sun) +
+**Today´s Progress:** I did the challenge at the [React course](https://www.udemy.com/react-the-complete-guide-incl-redux/), section _Working with lists and conditionals_: Create an app with input, the input-text is shown below + each letter in an individual box. After clicking on any box the letter is deleted (box disappears and letter is deleted from the text). 
+
+### Day 162 - 28.1.2019 (Mon) +
+**Today´s Progress:** I went through the sections _Styling components_ and _Debugging_ in the React course. 
+
+### Day 163 - 29.1.2019 (Tue) 
+**Today´s Progress:** I started the section about _Lifecycle of components_ in the React course. It looks quite clear for me until now. When I tackled this topic earlier, I didn´t understand it, but now it´s much more clear. ;-)
+
+### Day 164 - 30.1.2019 (Wed) 
+**Today´s Progress:** I finished the section _Diving Deeper Into Components & React Internals_ of the _React_ course. I look forward to trying and practicing it in some apps! 
+
+### Day 165 - 31.1.2019 (Thu) +
+**Today´s Progress:** I did the basic structure and basic functioning of the Burger-App from the React course (code-along). 
+
+**Thoughts:** _Styling trhough modules:_ the files must be named e.g. Layout.module.css or Button.module.css. (From React 16 the modules are in-built, earlier it was needed to do the "eject"). 
+
+### Day 166 - 1.2.2019 (Fri) +
+**Today´s Progress:** I continued with the Burger-App: added the modal, backdrop, buttons for cancel/continue, count price... (code along). I like React!!!
+
+### Day 167 - 2.2.2019 (Sat) +
+**Today´s Progress:** I finished the first section buildind the Burger-App (code along). I did the section on _HTTP-requests and AJAX in React_ (learned about _Axios_, _instances_ and _interceptors_). 
+
+### Day 168 - 3.2.2019 (Sun) (+)
+**Today´s Progress:** I connected the server to the Burger-App (using _Firebase_) and started working with Firebase.
+
+### -- Day off - 4.2.2019 (Mon) --
+
+### Day 169 - 5.2.2019 (Tue) (+)
+**Today´s Progress:** I continued with the Burger-App at the React course (code-along). I added sending the POST-request and worked on handling the errors (using higher-order-component). 
+
+### Day 170 - 6.2.2019 (Wed) (+)
+**Today´s Progress:** I did the first part of the section about _React-Router_ (routing, _Link_ and _NavLink_, _withRouter_, passing and extracting _route-parameters, query-parameters_ and fragments/hash,...). 
+
+### Day 171 - 7.2.2019 (Thu) 
+**Today´s Progress:** I finished the section about _React-Routing_ (_Switch_ component, _nested routes_, _History-prop_, _Lazy loading_,...). 
+
+### Day 172 - 8.2.2019 (Fri) +
+**Today´s Progress:** I did the final challenge of the _React-Routing_ section of the React-course (I practiced there most of the things  I learned in the last three days).
+
+### -- Days off - 9.2.2019 (Sat) to 17.2.2019 (Sun) --
+I was on winter holiday with my family and friends. I took with me my laptop, but didn´t come to coding (just reading some stuff regarding coding, but not much).
+
+### Day 173 - 18.2.2019 (Mon) +
+**Today´s Progress:** I repeated some JavaScript concepts (ES6 features).
+
+### Day 174 - 19.2.2019 (Tue) 
+**Today´s Progress:** I continued with the React-course: I did the section _Adding Routing to the Burger Project_.
+
+### Day 175 - 20.2.2019 (Wed) +
+**Today´s Progress:** I finished the part of the _React-course_ until the Redux part. I went back to the React section of the course _The Complete Web Developer in 2019_, which I did earlier: this time it´s everything crystal-clear! Wow, it´s great! I started the _Robofriends App_.  
+
+### Day 176 - 21.2.2019 (Thu) +
+**Today´s Progress:** I continued with my _Robofriends App_ along with the React section of the course _Complete Web Developer in 2019_.
+
+### Day 177 - 22.2.2019 (Fri) 
+**Today´s Progress:** I reviewed the sections about _JSON/AJAX, Asynchronous JS, Backend Basics and APIs_. 
+
+### Day 178 - 23.2.2019 (Sat) +
+**Today´s Progress:** I watched the first part of the Front-End of the Face-Recognition-App. I got inspired by it and coded part of my first react plan-app. 
+
+### Day 179 - 24.2.2019 (Sun) +
+**Today´s Progress:** I watched another part of the Front-End Face-Recognition-App. I continued coding my first _react plan-app_ (added forms and routing - sign-in / sign-out / register).
+
+### Day 180 - 25.2.2019 (Mon) +
+**Today´s Progress:** I reviewed the _Backend part_ of the ZtM course (first part of it). I continued coding my react-plan-app (it´s backend).
+
+### Day 181 - 26.2.2019 (Tue) +
+**Today´s Progress:** I finished the Backend-part of the ZtM course. I connected the backend and frontend part ov my react-plan-app. I also started reviewing the part about _Databases_. I installed and started _PostgreSQL_ (wasn´t so easy - there were many problems, but I succeeded!). 
+
+### Day 182 - 27.2.2019 (Wed) +
+**Today´s Progress:** I finished the Database-part of the ZtM course. I created my _Database_ and connected it to my front-end and back-end part of my app. It´s great!!! 
+
+**Thoughts:** I decided to make my first project using React and Databases a more simple than I intended (complex to-do app). First I will do something easier, just to practice combining frontend with the backend and database. (But later I will do my to-do app - I look forward to doing it!)
+
+### Day 183 - 28.2.2019 (Thu) +
+**Today´s Progress:** I worked on my app. I did various changes with database and front-end to see how it impacts the result. I think I need some review of routing. 
+
+### Day 184 - 1.3.2019 (Fri) +
+**Today´s Progress:** I managed to find the bug in my react-app! (I thought that the problem was in routing, but the bug was much simpler - incorrect type of brackets!! Then I started my react app (from scratch) - _React Calculator_. I made the components and did just basic styling (this needs to be improved!) I decided to use plain css (not tachyons).
+
+### Day 185 - 2.3.2019 (Sat) +
+**Today´s Progress:** I continued with my _React Calculator_ - styling and basic structure. 
+
+### -- Day off - 3.3.2019 (Sun) --
+
+### Day 186 - 4.3.2019 (Mon) +
+**Today´s Progress:** I read part of the _React docs_. I worked on the functionality of the _React Calculator_.
+
+### Day 187 - 5.3.2019 (Tue) +
+**Today´s Progress:** I enrolled to an in-person course of _Advanced JavaScript_ and today was the first lesson: today there were some introductory topics (npm, git, github).
+
+### Day 188 - 6.3.2019 (Wed) +
+**Today´s Progress:** I read the topics about props.children and intro to react hooks. I read part of the _The road to React_ and watched some videos from Dan Abramov. I learned about _hot module reloading_ (by Dan Abramov).
+
+**Thoughts:** 
+Hot module reloading: tool to reload the application in the browser without page refresh (this way the application state is kept):
+``` if (module.hot) {
+module.hot.accept() }
+```
+
+### Day 189 - 7.3.2019 (Thu) +
+**Today´s Progress:** I read some more articles about React (mostly from Robin Wieruch). I read and coded-along with the Road to Learn React book.  
+
+### Day 190 - 8.3.2019 (Fri) +
+**Today´s Progress:** I finished the functionality of my _React Calculator_ (all the calculations work, even with the float numbers etc). 
+I finished the course "The Complete Web Developer in 2019: Zero to Mastery" (went through the CSS Grid section, which was added to the course). 
+
+### Day 191 - 9.3.2019 (Sat) +
+**Today´s Progress:** I fixed the bug with accepting more commas "." in a number in my _React Calculator_. I started the course [The Complete Junior to Senior Web Developer Roadmap (2019)](https://www.udemy.com/the-complete-junior-to-senior-web-developer-roadmap/)_ - I did the section about _SSH_.
+
+### Day 192 - 10.3.2019 (Sun) +
+**Today´s Progress:** I added restriction in possible length of number-input in my _React Calculator_. I continued with the course (JtS)- finished the section about _Performance: part 1_ and did the section about _React_ (Robofriends-app in React).
+
+**Thoughts:** Regarding performance, I like the _Above the fold loading_ (importing the stylesheet of only the visible part of the page, the lower part imports later). Also, _downloading css according to @media_ is super.
+
+_Tools for performance testing:_ [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=cs), [WebPage Test](https://www.webpagetest.org/).
+
+### Day 193 - 11.3.2019 (Mon) 
+**Today´s Progress:** I did the section about _Redux_ and _Webpack, Babel, ESLint,..._ in the course (JtS). 
+
+### Day 194 - 12.3.2019 (Tue) +
+**Today´s Progress:** I did the section _Performance 2_ in the course JtS: learned about _Code splitting, Tree Shaking,..._ and about _PWA (Progressive web apps)._ 
+
+### Day 195 - 13.3.2019 (Wed) 
+**Today´s Progress:** I read more information about _asynchronicity of setState() in React_ (I think some bugs in my React-calculator are connected with this). Also, I repeated first part of the _React-course (Basics, Lists&Conditionals, Styling of components, Debugging of React-apps)_. That´s great how things are fitting together now! 
+
+### Day 196 - 14.3.2019 (Thu) +
+**Today´s Progress:** I worked on my _React Calculator_: I tried to find out where is the bug. I solved one, but with the solution I created another bug in functionality of the calculator. :-( There must be some issue in the logic of the app. I must find out where!!!
+
+### Day 197 - 15.3.2019 (Fri) +
+**Today´s Progress:** I want to put my previous projects online, so I´ll go through them to check if these are ok. Today I went through Survey form, Technical Documentation Page, and Randome Quote Machine (in this I have one issue which I will consult). I also watched the section of _Lifecycle Hooks_ and _React Hooks_ in the React-course. 
+
+### Day 198 - 16.3.2019 (Sat) 
+**Today´s Progress:** I continued with the section of _Lifecycle Hooks_ and _React Hooks_ in the React-course. Learned about _ref_ and _context_. 
+
+### Day 199 - 17.3.2019 (Sun) +
+**Today´s Progress:** I worked on improving my _Portfolio Website_ (styling, fonts, colors, animations, texts,...). It took longer than I thought but I like it (of course there are still things to improve). ;-) 
+
+### Day 200 - 18.3.2019 (Mon) +
+**Today´s Progress:** I continued with improving my _Portfolio Website_. I watched part of the section about _Testing_ in the Junior-to-Senior course. 
+
+### Day 201 - 19.3.2019 (Tue) +
+**Today´s Progress:** I attended the in-person Javascript course (the main topic was classes and inheritance). In the online course (JtS) I learned about _TypeScript_. 
+
+### Day 202 - 20.3.2019 (Wed) +
+**Today´s Progress:** I did the section about _Single Page Applications_ and _Server Side Rendering_ in the JtS course.
+
+### Day 203 - 21.3.2019 (Thu) 
+**Today´s Progress:** I did the section about _Security_ in the JtS course.
+
+### Day 204 - 22.3.2019 (Fri) 
+**Today´s Progress:** I did the section about _Docker_ in the JtS course. At first encounter it looks really difficult, but I believe that I will understand it later, after I read some other information about it from other sources. ;-)
+
+### Day 205 - 23.3.2019 (Sat) 
+**Today´s Progress:** I learned about _Sessions & JWT_ in the JtS course (_Cookies-based- and token-based authentication_, their differences, pros and cons,...) and also about the _AWS_ (esp. about _AWS Lambda_). 
+
+### Day 206 - 24.3.2019 (Sun) +
+**Today´s Progress:** I learned about _Performance_ on the backend (_CDNs, GZip, Databases, Caching, Load balancing_) and about _CI/CD_. I began my homework for the in-person JavaScript course (in vanilla JavaScript).
+
+### Day 207 - 25.3.2019 (Mon) +
+**Today´s Progress:** I finished my homework for the in-person JavaScript course (A Library-app in vanilla JS). 
+
+### Day 208 - 26.3.2019 (Tue) +
+**Today´s Progress:** Today I had my in-person JavaScript course - today´s topic was _asynchronous JS, APIs, fetch_. I solved the problem with the background in my Wikipedia Viewer (after loading the list of results the background image wasn´t over the whole viewport (despite background-size: cover)) - solution was to set the min-height: 100vh (how easy!). :-D 
+
+### -- Day off - 27.-28.3.2019 (Wed-Thu) --
+(Funny thing: being ill with high fever I had dreams about JavaScript and React projects. :-D )
+
+### Day 209 - 29.3.2019 (Fri) +
+**Today´s Progress:** I want to make some of my earlier projects in React: I chose the _Wikipedia Viewer_ to do it _in React_, so I started work on it.
+
+### Day 210 - 30.3.2019 (Sat) +
+**Today´s Progress:** I worked on my _Wikipedia Viewer in React_: it´s almost done. I learned about ```rel="noopener noreferrer``` when using ```target="_blank"```, and also about ```dangerouslySetInnerHTML={{ __html: `${props.snippet}...` }}``` in place of ```innerHTML```. 
+
+### Day 211 - 31.3.2019 (Sun) +
+**Today´s Progress:** I finished my [Wikipedia Viewer in React](https://github.com/marieval/Wiki-Viewer-React).
+
+### Day 212 - 1.4.2019 (Mon) +
+**Today´s Progress:** I did some changes to my [Personal Portfolio Website](https://marieval.github.io/) and published it at github-pages. (It´s not finished yet, mainly the projects-section is not complete, but as I want to publish my react-app on github-pages I needed to publish the personal website first).
+
+### Day 213 - 2.4.2019 (Tue) +
+**Today´s Progress:** I managed to publish my _Wikipedia-Viewer in React_ on _github-pages_ (first it didn´t work, finally the solution was to set the ```git remote add origin <url>```). I improved responsivity of the project (only locally). 
+
+### Day 214 - 3.4.2019 (Wed) +
+**Today´s Progress:** I deployed the updated [Wikipedia-Viewer in React](https://github.com/marieval/Wiki-Viewer-React) to _github-pages_. I uploaded to github also my older project [Random Quotes](https://marieval.github.io/random-quotes/) (in this project I used _SASS/SCSS_) and deployed it to github-pages. 
+
+### Day 215 - 4.4.2019 (Thu) +
+**Today´s Progress:** I improved responsivity of my older projects (done as FCC-projects): _Twitch.TV API_, _JavaScript Calculator_, _Tic-Tac-Toe Game_ and updated the codes on Codepen. I updated those projects on my _Personal Portfolio_ and pushed the portfolio to GitHub and gh-pages. (The Portfolio Website is still not finished) 
+
+### Day 216 - 5.4.2019 (Fri) +
+**Today´s Progress:** I added responsivity to my older project _Local Weather App_. I further improved my _Personal Portfolio Webpage_. I also read some chapters of the book _Learning React (Alex Banks, Eve Porcello)_.
+
+### Day 217 - 6.4.2019 (Sat) +
+**Today´s Progress:** I improved my _Personal Portfolio Webpage_. I learned more about _Validating props_, _Default props_ and _Refs_ in React (online and in the book Learning React). 
+
+### -- Day off - 7.4.2019 (Sun) --
+
+### Day 218 - 8.4.2019 (Mon) +
+**Today´s Progress:** I worked on the _Meet-Robot_ app (an app based on the course Zero To Mastery). I worked especially on it´s styling and made other minor changes. (Note: _Tachyons_ is sooo easy to use!)
+
+### Day 219 - 9.4.2019 (Tue) +
+**Today´s Progress:** On the in-person JavaScript course, we continued with the _async/await_ topic and _Promise.all()_. Also, I worked on my _Meet-Robot_ app. 
+
+### Day 220 - 10.4.2019 (Wed) +
+**Today´s Progress:** I tried to deploy my _Meet-Robot_ app to gh-pages, but it always got stuck and didn´t deploy (I was able only to upload the code to github). I googled for the problem, tried various solutions, but didn´t succeed. I updated my _Personal Portfolio_ (the deployed version). Further, today I worked on the _Find-Face_ app (another project of the Zero-To-Mastery course). I did the basic view and implemented the _Clarifai API_ to detect faces in pictures. 
+
+**Thoughts:** To sync gh-pages + master branch:
+```
+git add . 
+git status 
+git commit -m "..." 
+git push origin master 
+git checkout gh-pages 
+git rebase master 
+git push origin gh-pages 
+git checkout master 
+```
+
+### Day 221 - 11.4.2019 (Thu) +
+**Today´s Progress:** I attended _Front-end Miniconference_: there were three interesting presentations: _Browser APIs_, _AMPHTML e-mail_ and _Native Lazy-Loading_.  Also, today I worked a bit on the _Find-Face_ app (however, the bounding box is not displaying correctly - I have to fix it). 
+
+### Day 222 - 12.4.2019 (Fri) +
+**Today´s Progress:** I deployed my [Meet-Robot](https://marieval.github.io/meet-robot/) app (the previous problem was fixed by reinstalling gh-pages package and fixing the vulnerabilities). I also updated my _Personal Portfolio Webpage_. 
+
+### Day 223 - 13.4.2019 (Sat) +
+**Today´s Progress:** I did the front-end part of my _Find-Face_ app (an app based on the Zero-To-Mastery course, which I finished earlier) - in React. Also, I decided to strenghten my understanding of JavaScript so I bought the course [Advanced JavaScript Concepts](https://www.udemy.com/share/100TZoBEAecF9QQXQ=/) and went through the JavaScript Foundation sections (among others about Call Stack, Memory Heap, Stack Overflow, Garbage Collection, Memory Leaks, Hoisting, Dynamic & Lexical Scope, Context,... These topics are not new to me, but they are really good explained in this course, so now it´s everything much clearer to me!)  
+
+### Day 224 - 14.4.2019 (Sun) +
+**Today´s Progress:** I started the backend-part of my _Find-Face_ app. Also, I continued with the _Advanced JavaScript Concepts_ course - did the section _Types in JavaScript_ (JS-types, type coercion, dynamic vs static typing, weakly vs strongly typed languages,...).
+
+### Day 225 - 15.4.2019 (Mon) +
+**Today´s Progress:** I finished the backend part of my _Find-Face_ app.
+
+### Day 226 - 16.4.2019 (Tue) +
+**Today´s Progress:** I learned in detail about _Closures_ and _Prototypal Inheritance_.
+
+### Day 227 - 17.4.2019 (Wed) +
+**Today´s Progress:** I did the section _Object Oriented Programming_ of the course _Advanced JavaScript Concepts_ (Factory Functions, Object.create, Constructor functions, Classes, Inheritance,...).
+
+### Day 228 - 18.4.2019 (Thu) 
+**Today´s Progress:** I did the section _Functional Programming_ in the course _Advanced JavaScript Concepts_ (Pure functions, Idempotent, Imperative x Declarative, Immutability, Higher Order Functions, Closures, Currying, Partial application, Memoization,...).
+
+### Day 229 - 19.4.2019 (Fri) 
+**Today´s Progress:** I watched the section _Asynchronous JavaScript in the course _Advanced JavaScript Concepts_ (fetch, async / await,...).
+
+### -- Day off - 20.-21.4.2019 (Sat-Sun) --
+
+### Day 230 - 22.4.2019 (Mon) 
+**Today´s Progress:** I learned more about _Asynchronous JS_ - sequence, parallel, race, Web Workers,...
+
+### Day 231 - 23.4.2019 (Tue) +
+**Today´s Progress:** I learned about _Modules in JavaScript_ (IIFE/Module pattern, CommonJS, ES6 Modules) and about _Error Handling_. In the in-person JavaScript course we worked on the Zoo-app (using asynchronous JS, modules,...). 
+
+### Day 232 - 24.4.2019 (Wed) +
+**Today´s Progress:** I worked on a new _Weather-app_ (current weather and forecast in a city based on OpenWeatherMap API is working).
+
+### Day 233 - 25.4.2019 (Thu) +
+**Today´s Progress:** I learned basics about _Data Structures_ and more about _Arrays_ (dynamic vs. static arrays,...) and I revised some Array-operations.
+
+
+
 
 
 
