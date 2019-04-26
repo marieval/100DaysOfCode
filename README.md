@@ -1148,6 +1148,11 @@ git checkout master
 ### Day 233 - 25.4.2019 (Thu) +
 **Today´s Progress:** I learned basics about _Data Structures_ and more about _Arrays_ (dynamic vs. static arrays,...) and I revised some Array-operations.
 
+### Day 234 - 26.4.2019 (Fri) +
+**Today´s Progress:** I learned about _Hash Tables_ and revised some Objects-operations. 
+
+
+
 
 
 
