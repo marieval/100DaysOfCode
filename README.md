@@ -1151,7 +1151,8 @@ git checkout master
 ### Day 234 - 26.4.2019 (Fri) +
 **Today´s Progress:** I learned about _Hash Tables_ and revised some Objects-operations. 
 
-
+### Day 235 - 27.4.2019 (Sat) 
+**Today´s Progress:** I revised various JavaScript topics and finished the course [Advanced JavaScript Concepts](https://www.udemy.com/advanced-javascript-concepts/). 
 
 
 
