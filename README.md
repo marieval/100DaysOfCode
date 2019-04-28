@@ -1154,6 +1154,8 @@ git checkout master
 ### Day 235 - 27.4.2019 (Sat) 
 **Today´s Progress:** I revised various JavaScript topics and finished the course [Advanced JavaScript Concepts](https://www.udemy.com/advanced-javascript-concepts/). 
 
+### -- Day off - 28.4.2019 (Sun) --
+(Today I worked on my CV)
 
 
 
