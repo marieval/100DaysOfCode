@@ -1157,7 +1157,8 @@ git checkout master
 ### -- Day off - 28.4.2019 (Sun) --
 (Today I worked on my CV)
 
-
+### Day 236 - 29.4.2019 (Mon) 
+**Today´s Progress:** I further improved my _Weather-app_ (did especially refactoring the code).
 
 
 
