@@ -1160,6 +1160,8 @@ git checkout master
 ### Day 236 - 29.4.2019 (Mon) 
 **Today´s Progress:** I further improved my _Weather-app_ (did especially refactoring the code).
 
+### Day 237 - 30.4.2019 (Tue) 
+**Today´s Progress:** I did some improvements to my _Weather-app_.
 
 
 
