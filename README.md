@@ -1155,7 +1155,7 @@ git checkout master
 **Today´s Progress:** I revised various JavaScript topics and finished the course [Advanced JavaScript Concepts](https://www.udemy.com/advanced-javascript-concepts/). 
 
 ### -- Day off - 28.4.2019 (Sun) --
-(Today I worked on my CV)
+(Today I worked on my CV for being able to apply to IT-jobs.)
 
 ### Day 236 - 29.4.2019 (Mon) 
 **Today´s Progress:** I further improved my _Weather-app_ (did especially refactoring the code).
@@ -1163,5 +1163,5 @@ git checkout master
 ### Day 237 - 30.4.2019 (Tue) 
 **Today´s Progress:** I did some improvements to my _Weather-app_.
 
-
+### -- Day off - 1.5.2019 (Wed) --
 
