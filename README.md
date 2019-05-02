@@ -1166,6 +1166,6 @@ git checkout master
 ### -- Day off - 1.5.2019 (Wed) --
 
 ### Day 238 - 2.5.2019 (Thu) +
-**Today´s Progress:** I learned more about using _Async / Await_ (I think I understand it much better now!). Furthermore, I learned about _Jekyll_ (and other Static Site Generators).
+**Today´s Progress:** I learned more about using _Async / Await_ (I think I understand it much better now!). Furthermore, I learned about _Jekyll_ (and other Static Site Generators). I registered to _CodeWars_ and completed one "kata" (challenge). 
 
 
