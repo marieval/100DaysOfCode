@@ -1157,11 +1157,15 @@ git checkout master
 ### -- Day off - 28.4.2019 (Sun) --
 (Today I worked on my CV for being able to apply to IT-jobs.)
 
-### Day 236 - 29.4.2019 (Mon) 
+### Day 236 - 29.4.2019 (Mon) +
 **Today´s Progress:** I further improved my _Weather-app_ (did especially refactoring the code).
 
-### Day 237 - 30.4.2019 (Tue) 
+### Day 237 - 30.4.2019 (Tue) +
 **Today´s Progress:** I did some improvements to my _Weather-app_.
 
 ### -- Day off - 1.5.2019 (Wed) --
+
+### Day 238 - 2.5.2019 (Thu) +
+**Today´s Progress:** I learned more about using _Async / Await_ (I think I understand it much better now!). Furthermore, I learned about _Jekyll_ (and other Static Site Generators).
+
 
