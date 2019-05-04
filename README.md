@@ -1168,4 +1168,12 @@ git checkout master
 ### Day 238 - 2.5.2019 (Thu) +
 **Today´s Progress:** I learned more about using _Async / Await_ (I think I understand it much better now!). Furthermore, I learned about _Jekyll_ (and other Static Site Generators). I registered to _CodeWars_ and completed one "kata" (challenge). 
 
+### Day 239 - 3.5.2019 (Fri) +
+**Today´s Progress:** I fixed some bugs on my _JavaScript Calculator_ and did some changes in _My Portfolio_ website. 
+
+### Day 240 - 4.5.2019 (Sat) +
+**Today´s Progress:** I continued with my _React Calculator_ (which I started already longer time ago..): I worked on the functionality.
+
+
+
 
