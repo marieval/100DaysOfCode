@@ -1174,6 +1174,8 @@ git checkout master
 ### Day 240 - 4.5.2019 (Sat) +
 **Today´s Progress:** I continued with my _React Calculator_ (which I started already longer time ago..): I worked on the functionality.
 
+### Day 241 - 5.5.2019 (Sun) 
+**Today´s Progress:** I learned about _Performance measurements_, _Big O_, _Time complexity_ and _Space complexity_ (in the course [Master the Coding Interview: DataStructures & Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)).
 
 
 
