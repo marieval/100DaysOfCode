@@ -1177,5 +1177,8 @@ git checkout master
 ### Day 241 - 5.5.2019 (Sun) 
 **Today´s Progress:** I learned about _Performance measurements_, _Big O_, _Time complexity_ and _Space complexity_ (in the course [Master the Coding Interview: DataStructures & Algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)).
 
+### Day 242 - 6.5.2019 (Mon) +
+**Today´s Progress:** I continued with the topic from my last-week´s in-person class of JavaScript: implementing _Promise.all_ and _async / await_ in my app (Animals/Zoos). I also attended local front-end _Meetup_: the topic was _Static Website Generators_.
+
 
 
