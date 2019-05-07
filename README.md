@@ -1180,5 +1180,8 @@ git checkout master
 ### Day 242 - 6.5.2019 (Mon) +
 **Today´s Progress:** I continued with the topic from my last-week´s in-person class of JavaScript: implementing _Promise.all_ and _async / await_ in my app (Animals/Zoos). I also attended local front-end _Meetup_: the topic was _Static Website Generators_.
 
+### Day 243 - 7.5.2019 (Tue) +
+**Today´s Progress:** I did the _DataStructures: Arrays_ topic, and did some challenges regarding arrays. 
+
 
 
