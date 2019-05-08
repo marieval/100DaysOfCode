@@ -1183,5 +1183,9 @@ git checkout master
 ### Day 243 - 7.5.2019 (Tue) +
 **Today´s Progress:** I did the _DataStructures: Arrays_ topic, and did some challenges regarding arrays. 
 
+### Day 244 - 8.5.2019 (Wed) +
+**Today´s Progress:** I continued with my _Weather-app_: added eventListeners for buttons for choosing a city, in which the weather&forecast should be displayed.
+
+
 
 
