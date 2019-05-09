@@ -1186,6 +1186,10 @@ git checkout master
 ### Day 244 - 8.5.2019 (Wed) +
 **Today´s Progress:** I continued with my _Weather-app_: added eventListeners for buttons for choosing a city, in which the weather&forecast should be displayed.
 
+### Day 245 - 9.5.2019 (Thu) +
+**Today´s Progress:** I learned further about datastructures: _Linked Lists_ and did related challenges.
+
+
 
 
 
