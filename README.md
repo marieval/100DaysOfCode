@@ -1187,8 +1187,13 @@ git checkout master
 **Today´s Progress:** I continued with my _Weather-app_: added eventListeners for buttons for choosing a city, in which the weather&forecast should be displayed.
 
 ### Day 245 - 9.5.2019 (Thu) +
-**Today´s Progress:** I learned further about datastructures: _Linked Lists_ and did related challenges.
+**Today´s Progress:** I learned further about datastructures: _Linked Lists_ and did related challenges. I did some JavaScript challenges at SoloLearn.
 
+### Day 246 - 10.5.2019 (Fri) +
+**Today´s Progress:** I learned about _Stacks & Queues_, and _Trees_. I did challenges related to these topics. I did some challenges at _CodeWars_.
+
+### Day 245 - 11.5.2019 (Sat) 
+**Today´s Progress:** I continued learning about datastructures: _Graphs_. Today, I attended an in-person workshop on _Scrum_. 
 
 
 
