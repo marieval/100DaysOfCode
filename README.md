@@ -1192,9 +1192,11 @@ git checkout master
 ### Day 246 - 10.5.2019 (Fri) +
 **Today´s Progress:** I learned about _Stacks & Queues_, and _Trees_. I did challenges related to these topics. I did some challenges at _CodeWars_.
 
-### Day 245 - 11.5.2019 (Sat) 
+### Day 247 - 11.5.2019 (Sat) 
 **Today´s Progress:** I continued learning about datastructures: _Graphs_. Today, I attended an in-person workshop on _Scrum_. 
 
+### Day 248 - 12.5.2019 (Sun) +
+**Today´s Progress:** I learned about _recursion_ in JS and did some challenges. 
 
 
 
