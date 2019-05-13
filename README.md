@@ -1184,7 +1184,7 @@ git checkout master
 **Today´s Progress:** I did the _DataStructures: Arrays_ topic, and did some challenges regarding arrays. 
 
 ### Day 244 - 8.5.2019 (Wed) +
-**Today´s Progress:** I continued with my _Weather-app_: added eventListeners for buttons for choosing a city, in which the weather&forecast should be displayed.
+**Today´s Progress:** I continued with my assignment: _Weather-app_: added eventListeners for buttons for choosing a city, in which the weather&forecast should be displayed.
 
 ### Day 245 - 9.5.2019 (Thu) +
 **Today´s Progress:** I learned further about datastructures: _Linked Lists_ and did related challenges. I did some JavaScript challenges at SoloLearn.
@@ -1198,5 +1198,7 @@ git checkout master
 ### Day 248 - 12.5.2019 (Sun) +
 **Today´s Progress:** I learned about _recursion_ in JS and did some challenges. 
 
+### Day 249 - 13.5.2019 (Mon) +
+**Today´s Progress:** I continued with my assignment: _Weather-app_. I learned more in detail about _sorting_ of data. 
 
 
