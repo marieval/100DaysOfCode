@@ -1201,4 +1201,8 @@ git checkout master
 ### Day 249 - 13.5.2019 (Mon) +
 **Today´s Progress:** I continued with my assignment: _Weather-app_. I learned more in detail about _sorting_ of data. 
 
+### Day 250 - 14.5.2019 (Tue) +
+**Today´s Progress:** Today, in my in-person JS-course we worked further on _async-await_ utilization. I used it in our Animal/Zoo project. 
+
+
 
