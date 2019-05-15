@@ -1203,5 +1203,8 @@ git checkout master
 ### Day 250 - 14.5.2019 (Tue) +
 **Today´s Progress:** Today, in my in-person JS-course we worked further on _async-await_ utilization. I used it in our Animal/Zoo project. 
 
+### Day 251 - 15.5.2019 (Wed) +
+**Today´s Progress:** I got back to my _React Calculator_ and worked on it´s functionality.
+
 
 
