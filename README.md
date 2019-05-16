@@ -1206,5 +1206,8 @@ git checkout master
 ### Day 251 - 15.5.2019 (Wed) +
 **Today´s Progress:** I got back to my _React Calculator_ and worked on it´s functionality.
 
+### Day 252 - 16.5.2019 (Thu) +
+**Today´s Progress:** I worked on my _React Calculator_: the calculations are working, but there is still a bug when doing some consecutive math-operations. 
+
 
 
