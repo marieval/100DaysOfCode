@@ -1212,6 +1212,9 @@ git checkout master
 ### Day 253 - 17.5.2019 (Fri) +
 **Today´s Progress:** I did some minor changes to my _Portfolio Website_. 
 
+### -- Day off - 18.5.2019 (Sat) --
 
+### Day 254 - 19.5.2019 (Sun) +
+**Today´s Progress:** I did some repetition on _React_ basics (props, state, two-way-binding, useState(),...).
 
 
