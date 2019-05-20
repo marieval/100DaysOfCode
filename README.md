@@ -1217,4 +1217,8 @@ git checkout master
 ### Day 254 - 19.5.2019 (Sun) +
 **Today´s Progress:** I did some repetition on _React_ basics (props, state, two-way-binding, useState(),...).
 
+### Day 255 - 20.5.2019 (Mon) +
+**Today´s Progress:** I did some repetition on _React_ (Conditional rendering, Lists, Styling of components,...).
+
+
 
