@@ -1220,5 +1220,7 @@ git checkout master
 ### Day 255 - 20.5.2019 (Mon) +
 **Today´s Progress:** I did some repetition on _React_ (Conditional rendering, Lists, Styling of components,...).
 
+### Day 256 - 21.5.2019 (Tue) +
+**Today´s Progress:** In my in-person JavaScript course, I learned more about _state_ and tried _localStorage_ in practice. 
 
 
