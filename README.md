@@ -1223,4 +1223,6 @@ git checkout master
 ### Day 256 - 21.5.2019 (Tue) +
 **Today´s Progress:** In my in-person JavaScript course, I learned more about _state_ and tried _localStorage_ in practice. 
 
+### Day 257 - 22.5.2019 (Wed) 
+**Today´s Progress:** I read more about _BEM_ (A friend of mine pointed out that I used BEM in my projects incorrectly, so I would like to improve it. ;-) ) Also, I tried to better understand the _Lifecycle hooks in React_. 
 
