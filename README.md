@@ -1226,3 +1226,5 @@ git checkout master
 ### Day 257 - 22.5.2019 (Wed) 
 **Today´s Progress:** I read more about _BEM_ (A friend of mine pointed out that I used BEM in my projects incorrectly, so I would like to improve it. ;-) ) Also, I tried to better understand the _Lifecycle hooks in React_. 
 
+### Day 258 - 23.5.2019 (Thu) 
+**Today´s Progress:** I did some minor improvements to my _Portfolio Website_. ......
