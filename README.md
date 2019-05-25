@@ -1232,4 +1232,7 @@ git checkout master
 ### Day 259 - 24.5.2019 (Fri)  
 **Today´s Progress:** I learned more about how to plan a _project in React_ and started one as code-along. 
 
+### Day 260 - 25.5.2019 (Sat)  
+**Today´s Progress:** I continued learning about _React_ (passing props in the app, managing state, event handlers, conditional css).
+
 
