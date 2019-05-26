@@ -1235,4 +1235,5 @@ git checkout master
 ### Day 260 - 25.5.2019 (Sat)  
 **Today´s Progress:** I continued learning about _React_ (passing props in the app, managing state, event handlers, conditional css).
 
+### -- Day off - 26.5.2019 (Sun) --
 
