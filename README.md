@@ -1238,6 +1238,6 @@ git checkout master
 ### -- Day off - 26.-27.5.2019 (Sun-Mon) --
 
 ### Day 261 - 28.5.2019 (Tue) + 
-**Today´s Progress:** In my [_Wiki-Viewer App](https://github.com/marieval/Wiki-Viewer-React)_, I converted class-based component Searchwiki to functional component (because I don´t need to manage state there). In my [_Random-Quotes App](https://github.com/marieval/random-quotes)_ I updated the dependencies (because github showed high vulnerabilities in those): I had to use ```git push -f origin master``` to force the push to GitHub. 
+**Today´s Progress:** In my _[Wiki-Viewer App](https://github.com/marieval/Wiki-Viewer-React)_, I converted class-based component Searchwiki to functional component (because I don´t need to manage state there). In my _[Random-Quotes App](https://github.com/marieval/random-quotes)_ I updated the dependencies (because GitHub showed high vulnerabilities in those): I had to use ```git push -f origin master``` to force the push to GitHub. 
 
 
