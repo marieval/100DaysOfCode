@@ -1235,5 +1235,9 @@ git checkout master
 ### Day 260 - 25.5.2019 (Sat)  
 **Today´s Progress:** I continued learning about _React_ (passing props in the app, managing state, event handlers, conditional css).
 
-### -- Day off - 26.5.2019 (Sun) --
+### -- Day off - 26.-27.5.2019 (Sun-Mon) --
+
+### Day 261 - 28.5.2019 (Tue) + 
+**Today´s Progress:** In my [_Wiki-Viewer App](https://github.com/marieval/Wiki-Viewer-React)_, I converted class-based component Searchwiki to functional component (because I don´t need to manage state there). In my [_Random-Quotes App](https://github.com/marieval/random-quotes)_ I updated the dependencies (because github showed high vulnerabilities in those): I had to use ```git push -f origin master``` to force the push to GitHub. 
+
 
