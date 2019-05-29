@@ -1238,6 +1238,7 @@ git checkout master
 ### -- Day off - 26.-27.5.2019 (Sun-Mon) --
 
 ### Day 261 - 28.5.2019 (Tue) + 
-**Today´s Progress:** In my _[Wiki-Viewer App](https://github.com/marieval/Wiki-Viewer-React)_, I converted class-based component Searchwiki to functional component (because I don´t need to manage state there). In my _[Random-Quotes App](https://github.com/marieval/random-quotes)_ I updated the dependencies (because GitHub showed high vulnerabilities in those): I had to use ```git push -f origin master``` to force the push to GitHub. 
+**Today´s Progress:** In my _[Wiki-Viewer App](https://github.com/marieval/Wiki-Viewer-React)_, I converted class-based component Searchwiki to functional component (because I don´t need to manage state there). In my _[Random-Quotes App](https://github.com/marieval/random-quotes)_ I updated the dependencies (because GitHub showed high vulnerabilities in those): I had to use ```git push -f origin master``` to force the push to GitHub. Today, I attended also my in-person _Advanced JavaScript course_: we created an app for a coffee-shop. I really enjoyed it: it was like "connecting the dots" - how everything can be used and fits together..
 
-
+### Day 262 - 29.5.2019 (Wed) + 
+**Today´s Progress:** I learned/revised the topic of _AJAX in React_. 
