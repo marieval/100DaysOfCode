@@ -1242,3 +1242,9 @@ git checkout master
 
 ### Day 262 - 29.5.2019 (Wed) + 
 **Today´s Progress:** I learned/revised the topic of _AJAX in React_. 
+
+### Day 263 - 30.5.2019 (Thu) + 
+**Today´s Progress:** I think I need to build my own project, so I decided to create my "old" idea of a _self-management app in React_. I did  planning of structure of the whole app an started some basic components (for navigation etc).
+
+
+
