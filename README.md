@@ -1246,5 +1246,9 @@ git checkout master
 ### Day 263 - 30.5.2019 (Thu) + 
 **Today´s Progress:** I think I need to build my own project, so I decided to create my "old" idea of a _self-management app in React_. I did  planning of structure of the whole app an started some basic components (for navigation etc).
 
+### -- Day off - 31.5.-3.6.2019 (Fri-Mon) --
+
+### Day 263 - 4.6.2019 (Tue) + 
+**Today´s Progress:** In my in-person JS course, I learned/improved my knowledge in usage of _JS-Modules, Async/Await,..._. We created an app for a coffee-shop. 
 
 
