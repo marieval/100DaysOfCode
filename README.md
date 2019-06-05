@@ -1249,6 +1249,8 @@ git checkout master
 ### -- Day off - 31.5.-3.6.2019 (Fri-Mon) --
 
 ### Day 263 - 4.6.2019 (Tue) + 
-**Today´s Progress:** In my in-person JS course, I learned/improved my knowledge in usage of _JS-Modules, Async/Await,..._. We created an app for a coffee-shop. 
+**Today´s Progress:** In my in-person JS course, I learned/improved my knowledge in usage of _JS-Modules, Async/Await,..._. We created an app for an e-shop. 
 
+### Day 264 - 5.6.2019 (Wed) + 
+**Today´s Progress:** I started building my own version of a coffee-shop app to train my plain-JS knowledge. 
 
