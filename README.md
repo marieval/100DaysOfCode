@@ -1254,3 +1254,6 @@ git checkout master
 ### Day 264 - 5.6.2019 (Wed) + 
 **Today´s Progress:** I started building my own version of a coffee-shop app to train my plain-JS knowledge. 
 
+### Day 265 - 6.6.2019 (Thu) + 
+**Today´s Progress:** I continued building my coffee-shop app using vanilla-JavaScript.
+
