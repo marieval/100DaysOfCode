@@ -1260,5 +1260,8 @@ git checkout master
 ### Day 266 - 7.6.2019 (Fri) + 
 **Today´s Progress:** I continued with building the coffee-shop app.
 
+### Day 267 - 8.6.2019 (Sat) + 
+**Today´s Progress:** I finished the coffee-shop app.
 
+### -- Day off - 9.6.2019 (Sun) --
 
