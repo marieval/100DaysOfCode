@@ -1263,5 +1263,8 @@ git checkout master
 ### Day 267 - 8.6.2019 (Sat) + 
 **Today´s Progress:** I finished the coffee-shop app.
 
-### -- Day off - 9.6.2019 (Sun) --
+### -- Day off - 9.6.-13.6.2019 (Sun-Thu) --
+
+### Day 268 - 14.6.2019 (Fri) + 
+**Today´s Progress:** I did some JavaScript challenges (however, I wasn´t able to solve those dealing with tree-traversal and a specific type of sorting).
 
