@@ -1268,7 +1268,7 @@ git checkout master
 ### Day 268 - 14.6.2019 (Fri) + 
 **Today´s Progress:** I did some JavaScript challenges (however, I wasn´t able to solve those dealing with tree-traversal and a specific type of sorting).
 
-### -- Day off - 15.6.-13.6.2019 (Sat) --
+### -- Day off - 15.6.2019 (Sat) --
 
-### Day 268 - 16.6.2019 (Sun) + 
+### Day 269 - 16.6.2019 (Sun) + 
 **Today´s Progress:** I attended a Hackathon organized by Czechitas. My team created an app for keeping track of lending/borrowing things using HTML/CSS/JavaScript on the frontend and Java on the backend. It was a great experience!! 
