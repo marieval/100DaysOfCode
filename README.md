@@ -1272,3 +1272,9 @@ git checkout master
 
 ### Day 269 - 16.6.2019 (Sun) + 
 **Today´s Progress:** I attended a Hackathon organized by Czechitas. My team created an app for keeping track of lending/borrowing things using HTML/CSS/JavaScript on the frontend and Java on the backend. It was a great experience!! 
+
+### -- Day off - 17.6.2019 (Mon) --
+
+### Day 270 - 18.6.2019 (Tue) + 
+**Today´s Progress:** Today I learned about _Semantic UI React_ - I like it: I look forward to trying it in my project!
+
