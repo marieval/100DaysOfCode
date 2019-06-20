@@ -1278,3 +1278,10 @@ git checkout master
 ### Day 270 - 18.6.2019 (Tue) + 
 **Today´s Progress:** Today I learned about _Semantic UI React_ - I like it: I look forward to trying it in my project!
 
+### Day 271 - 19.6.2019 (Wed)  
+**Today´s Progress:** I learned basics about _Semantic UI in React_.
+
+### Day 272 - 20.6.2019 (Thu) 
+**Today´s Progress:** I reviewed some points from _JavaScript under-the-hood_ (JS engine, interpretation vs. compilation, JIT compilation,...)
+
+
