@@ -1285,5 +1285,5 @@ git checkout master
 **Today´s Progress:** I reviewed some points from _JavaScript under-the-hood_ (JS engine, interpretation vs. compilation, JIT compilation,...)
 
 ### Day 273 - 21.6.2019 (Fri) 
-**Today´s Progress:** I tried some small things using _Semantic UI in React_ (Grid, Header, Form, Button,...).
+**Today´s Progress:** I tried some small things using _Semantic UI in React_.
 
