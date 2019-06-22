@@ -1287,3 +1287,6 @@ git checkout master
 ### Day 273 - 21.6.2019 (Fri) 
 **Today´s Progress:** I tried some small things using _Semantic UI in React_.
 
+### Day 274 - 22.6.2019 (Sat) 
+**Today´s Progress:** I continued with revising the _JavaScript_ under-the-hood parts (Execution Context, Scope, Hoisting, This,...) 
+
