@@ -1290,3 +1290,8 @@ git checkout master
 ### Day 274 - 22.6.2019 (Sat) 
 **Today´s Progress:** I continued with revising the _JavaScript_ under-the-hood parts (Execution Context, Scope, Hoisting, This,...) 
 
+### -- Days off - 23.6.-10.7.2019  (Mon-Wed) --
+
+### Day 275 - 11.7.2019 (Thu) 
+**Today´s Progress:** I learned about GatsbyJS and how to use it. I started a simple blog using GatsbyJS. 
+
