@@ -1293,5 +1293,10 @@ git checkout master
 ### -- Days off - 23.6.-10.7.2019  (Mon-Wed) --
 
 ### Day 275 - 11.7.2019 (Thu) 
-**Today´s Progress:** I learned about GatsbyJS and how to use it. I started a simple blog using GatsbyJS. 
+**Today´s Progress:** I learned about _GatsbyJS_ and how to use it. I started a simple blog using GatsbyJS. 
+
+### Day 276 - 12.7.2019 (Fri) 
+**Today´s Progress:** I worked on the _GatsbyJS_ blog and tried to deploy it to _Netlify_ (deploying got stuck and doesn´t seem to work. I´ll try tomorrow.) I was excited about GatsbyJS (and have already ideas for what projects I will use it) and about how easy it is to deploy it to Netlify, but there is this problem with deployment... I hope that tomorrow it will work as supposed.. 
+
+
 
