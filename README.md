@@ -1301,5 +1301,8 @@ git checkout master
 ### Day 277 - 13.7.2019 (Sat) +
 **Today´s Progress:** I started the basic react-project _Monster-Rolodex_ based on the React course by Andrei Neagoie. (Netlify deployment, which I did yesterday, still doesn´t work.)
 
+### -- Days off - 14.7.-19.7.2019  (Sun-Fri) --
 
+### Day 278 - 20.7.2019 (Sat) +
+**Today´s Progress:** I started the e-commerce project _Crwn-shop_ based on the React course by Andrei Neagoie. 
 
