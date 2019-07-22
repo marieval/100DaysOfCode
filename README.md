@@ -1306,3 +1306,10 @@ git checkout master
 ### Day 278 - 20.7.2019 (Sat) +
 **Today´s Progress:** I started the e-commerce project _Crwn-shop_ based on the React course by Andrei Neagoie. 
 
+### Day 279 - 21.7.2019 (Sun) +
+**Today´s Progress:** I continued with the _Crwn-shop_: added sign-in page, used routing in the app.
+
+### Day 280 - 22.7.2019 (Mon) +
+**Today´s Progress:** I connected _Firebase_ to my _Crwn-shop_ app and added _Google-sign-in_. 
+
+
