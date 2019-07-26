@@ -1312,4 +1312,13 @@ git checkout master
 ### Day 280 - 22.7.2019 (Mon) +
 **Today´s Progress:** I connected _Firebase_ to my _Crwn-shop_ app and added _Google-sign-in_. 
 
+### Day 281 - 23.7.2019 (Tue) +
+**Today´s Progress:** I implemented using _Firestore_ to my _Crwn-shop_ app.
 
+### -- Day off - 24.7.2019  (Wed) --
+
+### Day 282 - 24.7.2019 (Thu) +
+**Today´s Progress:** I learned basics about _Redux_ and started implementing it in the Crwn-shop app.
+
+### Day 283 - 25.7.2019 (Fri) +
+**Today´s Progress:** I added _Redux_ to the _Crwn-shop_ app (implemented connect(), mapStateToProps and mapDispatchToProps to my Header and App components).
