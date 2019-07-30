@@ -1317,8 +1317,17 @@ git checkout master
 
 ### -- Day off - 24.7.2019  (Wed) --
 
-### Day 282 - 24.7.2019 (Thu) +
+### Day 282 - 25.7.2019 (Thu) +
 **Today´s Progress:** I learned basics about _Redux_ and started implementing it in the Crwn-shop app.
 
-### Day 283 - 25.7.2019 (Fri) +
+### Day 283 - 26.7.2019 (Fri) +
 **Today´s Progress:** I added _Redux_ to the _Crwn-shop_ app (implemented connect(), mapStateToProps and mapDispatchToProps to my Header and App components).
+
+### -- Days off - 27.-28.7.2019  (Sat-Sun) --
+
+
+### Day 284 - 29.7.2019 (Mon) +
+**Today´s Progress:** I added the cart-icon and cart-dropdown to the header (incl. connection to state using Redux).
+
+### Day 285 - 30.7.2019 (Mon) +
+**Today´s Progress:** I added the cart-items to the app (in the cart-dropdown) and connected it using Redux. 
