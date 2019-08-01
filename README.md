@@ -1325,9 +1325,13 @@ git checkout master
 
 ### -- Days off - 27.-28.7.2019  (Sat-Sun) --
 
-
 ### Day 284 - 29.7.2019 (Mon) +
 **Today´s Progress:** I added the cart-icon and cart-dropdown to the header (incl. connection to state using Redux).
 
-### Day 285 - 30.7.2019 (Mon) +
+### Day 285 - 30.7.2019 (Tue) +
 **Today´s Progress:** I added the cart-items to the app (in the cart-dropdown) and connected it using Redux. 
+
+### -- Day off - 31.7.2019  (Wed) --
+
+### Day 286 - 1.8.2019 (Thu) +
+**Today´s Progress:** I learned about _local storage_ using _Redux-Persist_ and used it in the _Crwn-shop_ app. I implemented _Reselect_ in the app.
