@@ -1,4 +1,4 @@
-# 100DaysOfCode / No-Zero-Days #
+# No-Zero-Days / 100DaysOfCode #
 
 The log of my progress inspired by #NoZeroDays challenge and #100DaysOfCode challenge. 
 
