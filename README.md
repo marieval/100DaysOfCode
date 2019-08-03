@@ -1335,3 +1335,10 @@ git checkout master
 
 ### Day 286 - 1.8.2019 (Thu) +
 **Today´s Progress:** I learned about _local storage_ using _Redux-Persist_ and used it in the _Crwn-shop_ app. I implemented _Reselect_ in the app.
+
+### Day 287 - 2.8.2019 (Fri) 
+**Today´s Progress:** I decided to do some repetition: Today I revised implementing Firebase.
+
+### Day 288 - 3.8.2019 (Sat) 
+**Today´s Progress:** Today I revised setting up Redux in a project. 
+
