@@ -1342,3 +1342,8 @@ git checkout master
 ### Day 288 - 3.8.2019 (Sat) 
 **Today´s Progress:** Today I revised setting up Redux in a project. 
 
+### -- Day off - 4.8.2019  (Sun) --
+
+### Day 289 - 5.8.2019 (Mon) 
+**Today´s Progress:** Today I continued revising some sections of Redux.
+
