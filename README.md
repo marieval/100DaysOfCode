@@ -1352,3 +1352,11 @@ git checkout master
 ### Day 290 - 7.8.2019 (Wed) 
 **Today´s Progress:** Today I attended a meetup with some presentations reagarding accessibility, animations in JS, and others. I added some routing to the crwn-shop. 
 
+### Day 291 - 8.8.2019 (Thu) 
+**Today´s Progress:** Continue with my _Crwn-shop_ app. Implemented _Stripe payments_.
+
+### -- Days off - 9.-11.8.2019  (Fri-Sun) --
+
+### Day 292- 12.8.2019 (Mon) 
+**Today´s Progress:** I deployed the _Crwn-shop_ app to _Heroku_. 
+
